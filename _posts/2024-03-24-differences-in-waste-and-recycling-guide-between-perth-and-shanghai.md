@@ -4,7 +4,7 @@ title: 珀斯和上海的垃圾分类要求对比
 subtitle: Differences in Waste and Recycling Guide Between Perth and Shanghai
 author: Oz Explorer
 categories: 澳洲生活
-tags: [澳大利亚, 移民, 租房]
+tags: [澳大利亚, 移民, 垃圾分类]
 ---
 
 ## 上海的垃圾分类
