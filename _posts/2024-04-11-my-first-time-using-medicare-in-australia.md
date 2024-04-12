@@ -5,11 +5,7 @@ subtitle: My First Time Using Medicare in Australia
 author: Oz Explorer
 categories: 澳洲生活
 tags: [澳大利亚, Medicare]
-banner: 
-  image: "assets/images/2024/20240411.png"
 ---
-
-![example image](assets/images/2024/20240411.png)
 
 最近，我预约了GP（General Practice）面诊，这是我拿到Medicare以后第一次去诊所。
 
@@ -28,6 +24,10 @@ banner:
 我结完账就可以走了，整个过程都很顺利。在GP那里全额支付的面诊费，当晚就收到了Medicare报销的钱，这个速度在澳洲来说还是相当快的。
 
 值得一提的是，我的处方是一个年度处方，即我的GP帮我开了两个月药量，但是可以重复拿药1+5次，也就是说这一年我都不要再再找GP开处方，也就省下了面诊费用。这得益于澳大利亚的[60天处方药计划](https://www.health.gov.au/cheaper-medicines/60-day-dispensing-pbs-medicines-and-current-item-codes)。
+
+![60medicines](/assets/images/2024/20240411.png)
+
+<img src="/assets/images/2024/20240411.png" alt="60medicines" width="500" align="middle" />
 
 与此同时，由于澳洲的药物有自付封顶额，可以通过[PBS药物]([https://www.pbs.gov.au/browse/medicine-listing](https://www.pbs.gov.au/browse/medicine-listing)进行查询。如果我购买的药物已经达到了这个金额，那么不管超出多少，我都只需要支付这个金额。
 
