@@ -213,8 +213,8 @@ defaults:
 #     color: "#bbb"
 
 # Disqus comments
-# disqus:
-#   shortname: "Your Disqus username"
+ disqus:
+   shortname: "Oz Explorer"
 
 # Gitment comments
 # gitment:
