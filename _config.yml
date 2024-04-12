@@ -162,7 +162,7 @@ defaults:
    home:
      heading: "澳洲探索者 Oz Explorer"
      subheading: "一个居住在澳大利亚的探索者，分享生活经验和见闻"
-     banner: "/assets/images/banner/ozexplorer.jpeg"
+     banner: "https://raw.githubusercontent.com/OzExplorers/ozexplorers.github.io/master/assets/images/banner/ozexplorer.jpeg"
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
