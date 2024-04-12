@@ -7,6 +7,10 @@ categories: 澳洲生活
 tags: [澳大利亚, Medicare]
 excerpt:
   default_image: /assets/images/2024/20240411.png
+  image_style: z          # Image layout style (It's value could be none, left, right, top, z, z-reverse)
+  image_width: 38.2%      # Image default width
+  image_height: 160px     # Image default height
+  content_size: 350       # Words default size
 ---
 
 最近，我预约了GP（General Practice）面诊，这是我拿到Medicare以后第一次去诊所。
