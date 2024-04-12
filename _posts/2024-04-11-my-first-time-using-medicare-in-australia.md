@@ -5,7 +5,11 @@ subtitle: My First Time Using Medicare in Australia
 author: Oz Explorer
 categories: 澳洲生活
 tags: [澳大利亚, Medicare]
+banner: 
+  image: "assets/images/2024/20240411.png"
 ---
+
+![example image](assets/images/2024/20240411.png)
 
 最近，我预约了GP（General Practice）面诊，这是我拿到Medicare以后第一次去诊所。
 
