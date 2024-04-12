@@ -2,7 +2,7 @@
 layout: post
 title: 落地澳洲第二天，我成功租到了一套公寓
 subtitle: How to Successfully Apply for an Apartment in Australia
-authour: Oz Explorer
+author: Oz Explorer
 categories: 澳洲生活
 tags: [澳大利亚, 移民, 租房]
 ---
