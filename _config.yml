@@ -40,7 +40,7 @@ author: Oz Explorer
 #   "Copyright (c) 2017-{currentYear} <a href="https://example.com">{author}</a>"
 #   "Copyright © 2017-2021 Foobar"
 #
-copyright: "(cleft){currentYear} {author}. All rights reserved."
+copyright: "(cleft) {currentYear} {author}. All rights reserved."
 
 description: >- # this means to ignore newlines until "baseurl:"
   一个居住在澳大利亚的探索者，分享生活经验和见闻
@@ -71,7 +71,7 @@ yat:
 # sitemap: true
 
 # If you want to change site language, you can set lang option
-# lang: "zh-CN"  # default lang is en
+# lang: "zh"  # default lang is en
 
 # Translate languges
 # langs refer to https://cloud.google.com/translate/docs/languages
