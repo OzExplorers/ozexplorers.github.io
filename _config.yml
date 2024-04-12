@@ -46,7 +46,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   一个居住在澳大利亚的探索者，分享生活经验和见闻
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://ozexplorers.github.io" # the base hostname & protocol for your site, e.g. https://example.com
+url: "https://www.ozexplorers.com" # the base hostname & protocol for your site, e.g. https://example.com
 favicon: "/favicon.ico" # the favicon for your site
 
 # Yat date format
