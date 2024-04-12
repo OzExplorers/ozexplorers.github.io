@@ -160,8 +160,8 @@ lang: "zh"  # default lang is en
 # Page default value
 defaults:
    home:
-     heading: "Oz Explorer"
-     subheading: "一个居住在澳大利亚的探索者，分享生活经验和见闻"
+     heading: "澳洲探索者 Oz Explorer"
+     subheading: "🐨一个居住在澳大利亚的探索者，分享生活经验和见闻"
      banner: "/assets/images/banner/ozexplorer.jpeg"
 
 # Banner default settings
