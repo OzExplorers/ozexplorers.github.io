@@ -162,7 +162,7 @@ defaults:
    home:
      heading: "Oz Explorer"
      subheading: "一个居住在澳大利亚的探索者，分享生活经验和见闻"
-     banner: "Your image url"
+     banner: "/assets/images/banner/home.jpeg"
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
@@ -214,7 +214,7 @@ defaults:
 
 # Disqus comments
  disqus:
-   shortname: "Oz Explorer"
+   shortname: "ozexplorer"
 
 # Gitment comments
 # gitment:
