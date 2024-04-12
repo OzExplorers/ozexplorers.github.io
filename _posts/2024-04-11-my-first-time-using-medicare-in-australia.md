@@ -5,12 +5,6 @@ subtitle: My First Time Using Medicare in Australia
 author: Oz Explorer
 categories: 澳洲生活
 tags: [澳大利亚, Medicare]
-excerpt:
-  default_image: /assets/images/2024/20240411.png
-  image_style: z          # Image layout style (It's value could be none, left, right, top, z, z-reverse)
-  image_width: 38.2%      # Image default width
-  image_height: 160px     # Image default height
-  content_size: 350       # Words default size
 ---
 
 最近，我预约了GP（General Practice）面诊，这是我拿到Medicare以后第一次去诊所。
@@ -33,7 +27,7 @@ excerpt:
 
 ![60medicines](/assets/images/2024/20240411.png)
 
-与此同时，由于澳洲的药物有自付封顶额，可以通过[PBS药物]([https://www.pbs.gov.au/browse/medicine-listing](https://www.pbs.gov.au/browse/medicine-listing)进行查询。如果我购买的药物已经达到了这个金额，那么不管超出多少，我都只需要支付这个金额。
+与此同时，由于澳洲的药物有自付封顶额，可以通过[PBS药物](https://www.pbs.gov.au/browse/medicine-listing)进行查询。如果我购买的药物已经达到了这个金额，那么不管超出多少，我都只需要支付这个金额。
 
 比如这次我买药，因为单价就达到了封顶额，我支付了一个月药量的价格，就拿到了两个月的药。这么算下来，一年也能省下挺多。
 
