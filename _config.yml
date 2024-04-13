@@ -213,8 +213,8 @@ defaults:
 #     color: "#bbb"
 
 # Disqus comments
-# disqus:
-#  shortname: "ozexplorer"
+disqus:
+  shortname: "ozexplorer"
 
 # Gitment comments
 # gitment:
