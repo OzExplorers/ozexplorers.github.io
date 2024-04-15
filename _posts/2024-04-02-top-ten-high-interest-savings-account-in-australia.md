@@ -6,7 +6,7 @@ author: Oz Explorer
 categories: 投资理财
 tags: [澳大利亚, 存款利率]
 excerpt_image: /assets/images/2024/202404020.jpg
-top: true
+top: 1
 ---
 
 和国内不断降低存款利率相比，澳洲多家银行都在推出高息存款账户（High Interest Savings Account，简称HISA）。比如，2024年3月22日，Bank of Queensland（BOQ）就决定将存款利息上调至5.5%，增加了0.1%。
