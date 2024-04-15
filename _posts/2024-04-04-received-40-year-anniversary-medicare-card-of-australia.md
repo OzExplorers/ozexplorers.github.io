@@ -5,7 +5,7 @@ subtitle: Received 40 Year Anniversary Medicare Card of Australia
 author: Oz Explorer
 categories: 澳洲生活
 tags: [澳大利亚, 移民, Medicare]
-excerpt_img: "/assets/images/2024/202404041.jpg"
+excerpt_img: /assets/images/2024/202404041.jpg
 ---
 
 昨天打开邮箱，看到了一封白色邮件，摸了摸，两张硬硬的卡片，脑子一转，这应该是Medicare Card，迫不及待地打开看——两张绿色的四十周年纪念版实体卡。
