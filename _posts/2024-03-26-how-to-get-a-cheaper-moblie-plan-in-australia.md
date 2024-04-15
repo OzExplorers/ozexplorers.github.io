@@ -5,7 +5,7 @@ subtitle: How to Get a Cheaper Moblie Plan in Australia
 author: Oz Explorer
 categories: 羊毛攻略
 tags: [澳大利亚, 手机卡, 移民]
-excerpt_img: /assets/images/2024/202403261.jpeg
+excerpt_image: /assets/images/2024/202403261.jpeg
 ---
 
 很多初到澳洲的朋友，都会面临一个澳洲手机号办理的问题。
