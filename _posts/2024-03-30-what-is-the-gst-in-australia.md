@@ -5,13 +5,19 @@ subtitle: What is the GST in Australia？
 author: Oz Explorer
 categories: 澳洲生活
 tags: [澳大利亚, 税务]
+excerpt_image: /assets/images/2024/202403301.jpeg
 ---
+
 
 不管在哪里生活，买买买都是很多居民的日常，小到一瓶饮用水，大到一张床垫，我们都要为这些商品付费，在消费过程中也能看到税款。
 
 来到澳大利亚以后，我们经常在Woolworths、Coles以及其他商超购买日用品，不管是电子小票还是纸质小票（Receipt）上，经常看到除了总价（Total）之外，还会有单独一行的GST费用。
 
+![202403301](/assets/images/2024/202403301.jpeg)
+
 奇怪的是，有时，我们买了东西，GST费用却是0元。
+
+![202403302](/assets/images/2024/202403302.jpeg)
 
 那么这个GST到底是什么呢？
 
