@@ -6,6 +6,7 @@ author: Oz Explorer
 categories: 投资理财
 tags: [澳大利亚, 存款利率]
 excerpt_image: /assets/images/2024/202404020.jpg
+top: true
 ---
 
 和国内不断降低存款利率相比，澳洲多家银行都在推出高息存款账户（High Interest Savings Account，简称HISA）。比如，2024年3月22日，Bank of Queensland（BOQ）就决定将存款利息上调至5.5%，增加了0.1%。
@@ -57,7 +58,7 @@ excerpt_image: /assets/images/2024/202404020.jpg
 2. 每月消费账户至少发生5次交易
 3. 每月存款账户余额要有所增加（除利息外的入账）
 
-**申请链接**：通过我的链接，可以获得75澳元的新用户户奖励，[点击申请](https://campaigns.ing.com.au/refer_75?code=Jqz072)
+**申请链接**：通过我的链接，可以获得75澳元的新用户奖励，[点击申请](https://campaigns.ing.com.au/refer_75?code=Jqz072)
 ### MOVE Bank Growth Saver
 
 ![MoveBank](/assets/images/2024/202404024.png)
