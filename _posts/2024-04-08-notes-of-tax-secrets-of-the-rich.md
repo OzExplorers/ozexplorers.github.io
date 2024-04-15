@@ -5,9 +5,12 @@ subtitle: Notes of <Tax Secrets of the Rich>
 author: Oz Explorer
 categories: 阅读笔记
 tags: [澳大利亚, 税务]
+excerpt_image: /assets/images/2024/202404081.jpg
 ---
 
 最近，我阅读了《[Tax Secrets of the Rich](https://amzn.to/43Sr75F)》一书，作者是Allan Mason，一位具有经验丰富的注册会计师和财务顾问。这本书出版于2021年，每年都会更新，如今已经到了2024版本，内容和数据也都有所变化。
+
+![20240408](/assets/images/2024/202404081.jpg)
 
 在本书的开篇章节中，作者写道，澳洲政府正面临着巨大的财政赤字，每年都在增加收入和支出的预算金额，这也就意味着，政府如果要增加收入、填补债务，就会通过以下三种方式：
 1. 印钞放水。导致通货膨胀、货币贬值。
