@@ -5,7 +5,10 @@ subtitle: Differences in Waste and Recycling Guide Between Perth and Shanghai
 author: Oz Explorer
 categories: 澳洲生活
 tags: [澳大利亚, 移民, 垃圾分类]
+excerpt_image: /assets/images/2024/202403232.jpeg
 ---
+
+![202404231](/assets/images/2024/202403231.jpg)
 
 ## 上海的垃圾分类
 
@@ -37,6 +40,7 @@ tags: [澳大利亚, 移民, 垃圾分类]
 
 如果你想更清晰的看到如何分类，可以看看官方提供的垃圾分类[中文版本](https://rgcopcorpweb103-cdn-endpoint.azureedge.net/-/media/Project/COP/COP/COP/Assets/Images-and-Video/Live-and-Work/Waste-and-Recycling/How-to-Sort-Your-Waste---CHINESE---2.pdf?rev=9d3fb43da6d5436cb8c5de39c369bb9c&hash=2579D2A4F46E2592DF0CBC8F0E8449E4)，或者打印下来，加强记忆。
 
+
 ## 垃圾分类的感受
 
 可以看到明显的区别，上海对厨余垃圾进行单独分类，但珀斯则将厨余垃圾归入一般垃圾的范畴。这对于刚到澳洲生活的我们来说，算是一种新的习惯养成。
@@ -45,6 +49,7 @@ tags: [澳大利亚, 移民, 垃圾分类]
 
 目前，西澳还参与了[Containers for Change](https://www.containersforchange.com.au/wa/)的项目，对于符合要求的容器瓶子，都可以前往特定的回收点，进行0.1元澳币的有偿回收。
 
+![202404232](/assets/images/2024/202403232.jpeg)
 
 这是为了鼓励居民们多多参与可回收物的分类，助力环保。我们就专门放置了一个垃圾桶，用于收集这些可以换钱的瓶子，等收集一段时间后，我去回收点兑换一次试试看。
 
