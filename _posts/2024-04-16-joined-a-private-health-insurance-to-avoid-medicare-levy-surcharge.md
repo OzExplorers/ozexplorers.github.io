@@ -15,7 +15,7 @@ excerpt_image: /assets/images/2024/202404161.jpg
 
 ## 办理保险的过程，也是学习的过程
 
-澳洲有很多私人保险提供商，较为知名的包括[Bupa](https://www.bupa.com.au)、[Medibank](https://www.medibank.com.au)、[HCF](https://www.hcf.com.au)、[HBF](https://www.hbf.com.au)等。每家公司都针对不同的人群，提供了不同的保险政策，如果你正在考虑办理，可以尝试着在各家保险公司的官网进行定制，或者通过澳洲政府提供的“[私保比较平台](https://www.privatehealth.gov.au/)“寻找适合自己的服务。
+澳洲有很多私人保险提供商，较为知名的包括[Bupa](https://www.bupa.com.au)、[Medibank](https://www.medibank.com.au)、[HCF](https://www.hcf.com.au)、[HBF](https://www.hbf.com.au)等。每家公司都针对不同的人群，提供了不同的保险政策，如果你正在考虑办理，可以尝试着在各家保险公司的官网进行定制，或者通过澳洲政府提供的[私保比较平台](https://www.privatehealth.gov.au/)寻找适合自己的服务。
 
 毕竟是和切身利益（不管是健康还是费用）相关的服务，我自然不会轻易决定哪一家，所以我首先在网络上搜索了相关的信息，大致了解了收费情况，随后前往Medibank、Bupa这两家最大的保险公司的门店，进行现场咨询。
 
