@@ -53,7 +53,7 @@ excerpt_image: /assets/images/2024/202404161.jpg
 
 在澳洲，**大多数纳税人都需要给政府缴纳应税收入的2%作为医疗税（Medicare Levy）**。更为夸张的是，如果你的收入达到某个标准，你还需要再额外缴纳**医疗附加税（Medicare Levy Surcharge）**。
 
-根据ATO显示的[2024-25的缴纳要求](https://www.ato.gov.au/individuals-and-families/medicare-and-private-health-insurance/medicare-levy-surcharge/medicare-levy-surcharge-income-thresholds-and-rates)，单身人士超过$9,7000、家庭超过$19,4000，就要至少缴纳1%的医疗附加税。这笔钱像是一种“捐款”，但是你也可以得到豁免。
+根据ATO显示的[2024-25的缴纳要求](https://www.ato.gov.au/individuals-and-families/medicare-and-private-health-insurance/medicare-levy-surcharge/medicare-levy-surcharge-income-thresholds-and-rates)，单身人士超过$97,000、家庭超过$194,000，就要至少缴纳1%的医疗附加税。这笔钱像是一种“捐款”，但是你也可以得到豁免。
 
 购买私人医院保险，主要是医院保险（Hospital Cover），你就可以申请免除缴纳医疗附加税。这里要强调一下，你的保险方案一定要包含医院保险，而不能是单纯的附加保险，这才能得到豁免。
 
