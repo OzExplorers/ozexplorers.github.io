@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 强烈建议通过这种方式跨境汇款到澳洲
-subtitle: How to Transfer CNY into Your Australian Bank Account
+subtitle: How to Transfer money overseas into Your Australian Bank Account
 author: Oz Explorer
 categories: 羊毛攻略
 tags:
