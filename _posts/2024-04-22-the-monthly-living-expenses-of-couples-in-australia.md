@@ -6,6 +6,7 @@ author: Oz Explorer
 categories: 澳洲生活
 tags:
   - 澳大利亚
+  - 移民
 excerpt_image: /assets/images/2024/202404221.png
 ---
 不知不觉已经在澳洲生活了一个半月，不管是租房和医疗，还是杂七杂八的其他生活事项，都逐渐在混乱中找寻到了秩序感。
