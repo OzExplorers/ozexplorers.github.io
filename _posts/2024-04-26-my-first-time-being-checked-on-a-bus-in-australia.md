@@ -37,7 +37,7 @@ Transperth自称“SmartRider”是：
 
 >one of the most effective cashless public transport ticketing systems in the world.（世界上最有效的无现金公共交通票务系统之一）
 
-但是这种“率先”往往也以为技术上的“相对落后”。比如虽然早已宣布要升级系统，但迟迟没有动静。SmartRider目前依然不支持绑定为手机虚拟卡，通过手机的NFC方式乘车等；或者也不支持直接刷银行卡扣款。
+但是这种“率先”往往也意味着技术上的“相对落后”。比如虽然早已宣布要升级系统，但迟迟没有动静。SmartRider目前依然不支持绑定为手机虚拟卡，通过手机的NFC方式乘车等；或者也不支持直接刷银行卡扣款。
 
 你必须要拥有一张工本费为10澳元的交通卡，充值后才能刷卡乘坐。（当然你也可以购买纸质票。）
 
