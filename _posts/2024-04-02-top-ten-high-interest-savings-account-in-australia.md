@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 澳洲活期存款利率最高的十家银行（2024年4月）
-subtitle: Top 10 High Interest Savings Account in Australia (Apr 2024)
+title: 澳洲活期存款利率最高的十家银行（更新至2024年5月）
+subtitle: Top 10 High Interest Savings Account in Australia (May 2024)
 author: Oz Explorer
 categories: 投资理财
 tags: [澳大利亚, 存款利率]
@@ -9,7 +9,7 @@ excerpt_image: /assets/images/2024/202404020.jpg
 top: 1
 ---
 
-和国内不断降低存款利率相比，澳洲多家银行都在推出高息存款账户（High Interest Savings Account，简称HISA）。比如，2024年3月22日，Bank of Queensland（BOQ）就决定将存款利息上调至5.5%，增加了0.1%。
+和国内不断降低存款利率相比，澳洲多家银行都在推出高息存款账户（High Interest Savings Account，简称HISA）。本月和上月相比，新增了Credit Union SA Netsave Accout，新用户存款利率5.4%。
 
 下面是目前市场上活期存款利率最高的十家澳洲银行：
 
@@ -99,7 +99,20 @@ top: 1
 
 **申请链接**：[https://www.greatsouthernbank.com.au/bank-and-save/savings-accounts/youth-esaver-account](https://www.greatsouthernbank.com.au/bank-and-save/savings-accounts/youth-esaver-account)
 
-## Top 7
+## Top 7-8
+
+### Credit Union SA Netsave Account
+
+![SA](/assets/images/2024/202405011.png)
+
+**存款利率**：5.40%
+
+**封顶金额**：未显示，应该没有限制
+
+**满足条件**：无要求，但5.4%利率仅限新开户后的前四个月
+
+**申请链接**：[https://www.creditunionsa.com.au/accounts/savings-accounts-and-term-deposits/netsave](https://www.creditunionsa.com.au/accounts/savings-accounts-and-term-deposits/netsave)
+
 
 ### AMP Saver Account
 
@@ -113,7 +126,7 @@ top: 1
 
 **申请链接**：[https://www.amp.com.au/banking/savings-accounts/amp-saver-account](https://www.amp.com.au/banking/savings-accounts/amp-saver-account)
 
-## Top 8-10
+## Top 9-10
 
 > 存款利率都是5.35%，普遍采取新客户前几个月的利息奖励的方式，以下排名不分先后。
 
