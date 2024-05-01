@@ -59,6 +59,7 @@ top: 1
 3. 每月存款账户余额要有所增加（除利息外的入账）
 
 **申请链接**：通过我的链接，可以获得75澳元的新用户奖励，[点击申请](https://campaigns.ing.com.au/refer_75?code=Jqz072)
+
 ### MOVE Bank Growth Saver
 
 ![MoveBank](/assets/images/2024/202404024.png)
