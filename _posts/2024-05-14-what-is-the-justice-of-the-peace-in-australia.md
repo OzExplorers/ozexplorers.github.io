@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 澳大利亚的的Justice of the Peace是什么？
+title: 澳大利亚的Justice of the Peace是什么？
 subtitle: What is the Justice of the Peace in Australia?
 author: Oz Explorer
 categories: 澳洲生活
