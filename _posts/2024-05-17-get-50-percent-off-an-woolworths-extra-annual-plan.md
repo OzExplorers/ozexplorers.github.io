@@ -35,7 +35,7 @@ excerpt_image: /assets/images/2024/202405171.png
 
 如果你想开通这个Extra年费计划，可以通过我的推荐链接：
 
-https://rewards.app.link/uRB6mKzkPHb
+[https://rewards.app.link/uRB6mKzkPHb](https://rewards.app.link/uRB6mKzkPHb)
 
 复制到浏览器打开后开通会员，你会获得1500点积分，相当于7.5刀的现金反馈。另外，如果你是首次开通，还能享受一个月的免费使用，**相当于你只需要27.5澳元就开通了13个月的会员**，相当划算了。
 
