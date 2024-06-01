@@ -9,7 +9,7 @@ excerpt_image: /assets/images/2024/202404020.jpg
 top: 1
 ---
 
-和国内不断降低存款利率相比，澳洲多家银行都在推出高息存款账户（High Interest Savings Account，简称HISA）。本月和上月相比，新增了Credit Union SA Netsave Accout，新用户存款利率5.4%。
+和国内不断降低存款利率相比，澳洲多家银行都在推出高息存款账户（High Interest Savings Account，简称HISA）。
 
 下面是目前市场上活期存款利率最高的十家澳洲银行：
 
