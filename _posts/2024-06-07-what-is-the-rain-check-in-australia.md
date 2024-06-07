@@ -6,6 +6,7 @@ author: Oz Explorer
 categories: 澳洲生活
 tags:
   - 澳大利亚
+  - 羊毛攻略
 excerpt_image: /assets/images/2024/202406071.jpg
 ---
 
