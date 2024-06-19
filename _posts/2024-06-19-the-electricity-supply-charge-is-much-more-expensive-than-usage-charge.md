@@ -6,6 +6,9 @@ author: Oz Explorer
 categories: 澳洲生活
 tags:
   - 澳大利亚
+  - 租房
+  - 移民
+  - 电费
 excerpt_image: /assets/images/2024/202406191.png
 ---
 
@@ -13,7 +16,7 @@ excerpt_image: /assets/images/2024/202406191.png
 
 仔细查看账单明细，我发现**电力服务费比电费还贵**。
 
-![202406191](202406191.png)
+![202406191](/assets/images/2024/202406191.png)
 
 我们家使用的电力公司是Synergy，一开始没有深思熟虑，想着快点通上电好搬家，就直接选择了**Home Plan® (A1) tariff**的电力套餐。
 
@@ -27,7 +30,7 @@ excerpt_image: /assets/images/2024/202406191.png
 
 随后，我又翻出来上次的电费账单，从3月8日到4月10日，一共34天，收费96.86澳元。
 
-![202406192](202406192.png)
+![202406192](/assets/images/2024/202406192.png)
 
 对比来看，上一份账单竟然还多出一个**Account Establishment fee（账户建立费）**，税前收费28.14澳元。
 
