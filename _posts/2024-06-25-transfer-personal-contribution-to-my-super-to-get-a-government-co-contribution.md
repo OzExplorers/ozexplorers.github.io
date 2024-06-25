@@ -38,7 +38,7 @@ ATO（Australian Taxation Office，澳大利亚税务局）也有属于它自己
   
 - **收入占比**：薪水/生意收入占个人总收入**至少10%**。也就是说，如果你的收入来源只有房租或投资分红，就不符合资格。
   
-- **年龄要求**：71岁以下
+- **年龄要求**：71岁以下。
   
 - **身份要求**：澳大利亚公民或永久居民。
   
@@ -52,17 +52,17 @@ ATO（Australian Taxation Office，澳大利亚税务局）也有属于它自己
 
 ## 如何操作Super co-contribution？
 
-1. 你已经有了Super账户，那么在Super账户中，查找**Personal Contribution的BPAY资料**。
+**1.你已经有了Super账户，那么在Super账户中，查找Personal Contribution的BPAY资料。**
 
 以我使用的Super公司Hostplus为例，在Hostplus App中，选择More-Make a contribution，就可以看到Personal Contribution和Spouse Contribution两个不同的BPAY资料。
 
 ![202406252](/assets/images/2024/202406252.jpeg)
 
-**因为要求是个人转入，所以要选择Personal Contribution。**
+因为要求是个人转入，所以要选择**Personal Contribution**。
 
 如果你在自己的Super网站上找不到的话，可以联系客服询问。
 
-2. 通过银行账户的BPAY功能，向Super账户**转入一笔个人贡献金**。
+**2.通过银行账户的BPAY功能，向Super账户转入一笔个人贡献金**。
    
 具体的金额，你可以在ATO网站提供的计算器中进行测算，*https://www.ato.gov.au/calculators-and-tools/super-co-contribution-calculator*
    
@@ -70,9 +70,9 @@ ATO（Australian Taxation Office，澳大利亚税务局）也有属于它自己
    
 ⚠️注意：请在财年结束前完成转账。考虑到转账时间问题，也尽量不要选择在最后的周五或周末转账，以确保Super账户能收到钱。
 
-3. **财年结束后记得报税**！
+**3.财年结束后记得报税**！
    
-   这样ATO才能统计到你自行缴纳的养老金。符合资格后，就等政府补贴到账了。
+这样ATO才能统计到你自行缴纳的养老金。符合资格后，就等政府补贴到账了。
 
 ## Super co-contribution的金额及到账时间
 
