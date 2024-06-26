@@ -3,10 +3,9 @@ layout: post
 title: 澳大利亚的Rain Check是什么？
 subtitle: What is the Rain Check in Australia?
 author: Oz Explorer
-categories: 澳洲生活
+categories: 羊毛攻略
 tags:
   - 澳大利亚
-  - 羊毛攻略
 excerpt_image: /assets/images/2024/202406071.jpg
 ---
 
