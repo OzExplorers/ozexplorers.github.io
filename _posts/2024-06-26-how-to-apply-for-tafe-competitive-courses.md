@@ -7,7 +7,7 @@ categories: 澳洲生活
 tags:
   - 澳大利亚
   - TAFE
-excerpt_image: /assets/images/2024/202406251.png
+excerpt_image: /assets/images/2024/202406261.png
 ---
 ## 写在前面
 
@@ -23,7 +23,7 @@ excerpt_image: /assets/images/2024/202406251.png
 
 TAFE的竞争型课程（Competitive Courses）指热门课程，该课程的申请者较多，但入学名额较少。这意味着，即使你达到了入学要求，也无法保证能够获得课程Offer。因为其录取标准是根据**合格申请者的学业和工作经历**进行打分排名，以确定谁应该被录取。
 
-（图片）
+![202406261](/assets/images/2024/202406261.png)
 
 **TAFE竞争型课程的入学要求**：不同课程有不同的入学要求，具体可以在课程页面的Entrance requirements进行查看。
 
@@ -39,7 +39,7 @@ TAFE的竞争型课程（Competitive Courses）指热门课程，该课程的申
 
 不管是竞争型还是非竞争型课程，你都需要在[TAFE Admissions的网站](https://admissions.tafe.wa.edu.au/Default.aspx)发起申请。
 
-（图片）
+![202406262](/assets/images/2024/202406262.png)
 
 网址：[https://admissions.tafe.wa.edu.au/Default.aspx](https://admissions.tafe.wa.edu.au/Default.aspx)
 
@@ -62,7 +62,7 @@ TAFE的竞争型课程（Competitive Courses）指热门课程，该课程的申
 
 在西澳，有专门负责**学历认证的机构：[Overseas Qualifications Unit](https://migration.wa.gov.au/our-services-support/overseas-qualifications-unit-oqu)（OQU）**，同样隶属于培训与劳动力发展部（Department of Training and Workforce Development）。
 
-（图片）
+![202406263](/assets/images/2024/202406263.png)
 
 网址：[https://migration.wa.gov.au/our-services-support/overseas-qualifications-unit-oqu](https://migration.wa.gov.au/our-services-support/overseas-qualifications-unit-oqu)
 
