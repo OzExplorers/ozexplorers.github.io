@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 澳洲活期存款利率最高的十家银行（更新至2024年6月）
-subtitle: Top 10 High Interest Savings Account in Australia (Jun 2024)
+title: 澳洲活期存款利率最高的十家银行（更新至2024年7月）
+subtitle: Top 10 High Interest Savings Account in Australia (July 2024)
 author: Oz Explorer
 categories: 投资理财
 tags: [澳大利亚, 存款利率]
@@ -26,6 +26,8 @@ top: 1
 
 **申请链接**：[https://www.rabobank.com.au/high-interest-savings-account/](https://www.rabobank.com.au/high-interest-savings-account/)
 
+**备注**：Rabobank还推出了Rabobank PremiumSaver，每月存入200澳元，就可享受5.45%的利率，封顶25万澳元。
+
 ## Top 2
 ### ME Bank HomeME Savings Account
 
@@ -41,7 +43,7 @@ top: 1
 
 **申请链接**：[https://www.mebank.com.au/banking/home-deposit-savings-account](https://www.mebank.com.au/banking/home-deposit-savings-account)
 
-## Top 3-6 
+## Top 3-7
 
 > 存款利率都是5.50%，但要求不同，以下排名不分先后。
 
@@ -59,6 +61,18 @@ top: 1
 3. 每月存款账户余额要有所增加（除利息外的入账）
 
 **申请链接**：通过我的链接，可以获得75澳元的新用户奖励，[点击申请](https://campaigns.ing.com.au/refer_75?code=Jqz072)
+
+### Ubank
+
+![Ubank](/assets/images/2024/202406180.png)
+
+**存款利率**：5.50%
+
+**封顶金额**：25万澳元
+
+**满足条件**：每月从外部银行转入Ubank至少500澳元。
+
+**详情可以查看文章**：[Ubank银行活期存款利率上调至5.50%](https://www.ozexplorers.com/投资理财/2024/06/18/earn-up-to-5.50-on-ubank-saving-account.html)
 
 ### MOVE Bank Growth Saver
 
@@ -87,7 +101,6 @@ top: 1
 
 **申请链接**：[https://www.boq.com.au/personal/banking/savings-and-term-deposits/future-saver](https://www.boq.com.au/personal/banking/savings-and-term-deposits/future-saver)
 
-
 ### Great Southern Bank Youth eSaver Account
 
 ![GSB](/assets/images/2024/202404025.png)
@@ -100,7 +113,7 @@ top: 1
 
 **申请链接**：[https://www.greatsouthernbank.com.au/bank-and-save/savings-accounts/youth-esaver-account](https://www.greatsouthernbank.com.au/bank-and-save/savings-accounts/youth-esaver-account)
 
-## Top 7
+## Top 8
 
 ### AMP Saver Account
 
@@ -114,7 +127,7 @@ top: 1
 
 **申请链接**：[https://www.amp.com.au/banking/savings-accounts/amp-saver-account](https://www.amp.com.au/banking/savings-accounts/amp-saver-account)
 
-## Top 8-10
+## Top 9-10
 
 > 存款利率都是5.35%，普遍采取新客户前几个月的利息奖励的方式，以下排名不分先后。
 
