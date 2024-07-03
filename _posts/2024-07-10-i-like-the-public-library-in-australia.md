@@ -7,7 +7,7 @@ categories: 澳洲生活
 tags:
   - 澳大利亚
   - 移民
-excerpt_image: /assets/images/2024/202407031.JPG
+excerpt_image: /assets/images/2024/202407101.JPG
 ---
 澳大利亚进入冬季了，有时候想消磨时间但又没处去，就会去家附近的社区图书馆。
 
@@ -17,7 +17,7 @@ excerpt_image: /assets/images/2024/202407031.JPG
 
 最美的就是巨大的透明玻璃，外面是熙熙攘攘的人群，里面就是面朝绿树的座位，安静又放松。
 
-（图片）
+![202407101](/assets/images/2024/202407101.JPG)
 
 同样位于珀斯市中心的**珀斯市图书馆**，装潢非常“现代”，旋转的楼梯和圆形的建筑，让图书馆具有非常浓烈的探索趣味。
 
@@ -25,7 +25,7 @@ excerpt_image: /assets/images/2024/202407031.JPG
 
 在西澳州立图书馆的官网，可以搜索到西澳[所有的公共图书馆](https://slwa.wa.gov.au/about/partnerships/local-government-public-libraries/find-public-library)，密密麻麻分布在各个Suburb之中，打造出了一个个精神绿洲。
 
-（图片）
+![202407102](/assets/images/2024/202407102.png)
 
 这些图书馆除了基础的图书借阅服务，还会举办各种各样的文化活动。
 
