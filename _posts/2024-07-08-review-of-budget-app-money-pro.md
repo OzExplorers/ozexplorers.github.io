@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 在澳洲生活如何记账？我的Money Pro使用体验
+title: 在海外生活如何记账？我的Money Pro使用体验
 subtitle: "Review: Budget App Money Pro"
 author: Oz Explorer
 categories: 投资理财
