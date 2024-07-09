@@ -9,6 +9,7 @@ tags:
   - TAFE
 excerpt_image: /assets/images/2024/202406261.png
 ---
+
 ## 写在前面
 
 - 在“[TAFE竞争型课程申请注册指南-申请篇](https://www.ozexplorers.com/澳洲生活/2024/06/26/how-to-apply-for-tafe-competitive-courses.html)”中，我分享了如何申请TAFE竞争型课程的具体步骤、以及如何准备相关证明材料。
