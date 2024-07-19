@@ -60,7 +60,7 @@ top: 1
 2. 每月消费账户至少发生5次交易
 3. 每月存款账户余额要有所增加（除利息外的入账）
 
-**申请链接**：通过我的链接，可以获得75澳元的新用户奖励，[点击申请](https://campaigns.ing.com.au/refer_75?code=Jqz072)
+**申请链接**：通过我的链接，可以获得125澳元的新用户奖励，[点击申请](https://campaigns.ing.com.au/refer_75?code=Jqz072)
 
 ### Ubank
 
