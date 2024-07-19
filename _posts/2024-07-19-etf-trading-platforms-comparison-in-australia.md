@@ -8,7 +8,7 @@ tags:
   - 美股
   - 投资理财
   - ETF
-excerpt_image: /assets/images/2024/2024070190.jpg
+excerpt_image: /assets/images/2024/202407190.jpg
 ---
 最近，Webull发布新的[交易费率表](https://www.webull.com.au/pricing)，不管是美国ETF还是澳洲ETF，在Webull购买都是零收费。
 
@@ -16,9 +16,11 @@ excerpt_image: /assets/images/2024/2024070190.jpg
 
 ## CMC Markets
 
+![202407191](/assets/images/2024/202407191.png)
+
 在Reddit小组AusFinance，我看到大家普遍在推荐的ETF基金交易平台，主要关注交易费率、货币转换费（如果购买美股的话）、组合收益报告等。
 
-**这里面推荐最多的就是[CMC Markets**](https://www.cmcmarketsstockbroking.com.au)。
+**这里面推荐最多的就是[CMC Markets](https://www.cmcmarketsstockbroking.com.au)。**
 
 CMC Markets允许用户交易股票、ETF、加密货币和大宗商品以及其他类型的资产。其前身是ANZ Share Investing，2022年起ANZ的投资业务逐步转移到了CMC Markets上。
 
@@ -35,6 +37,8 @@ CMC Markets允许用户交易股票、ETF、加密货币和大宗商品以及其
 - 不允许非澳洲居民开户
 
 ## Pearler
+
+![202407192](/assets/images/2024/202407192.png)
 
 [Pearler](https://pearler.com/)是投资平台的一枝新秀，于2018年在澳大利亚成立，主要卖点是专注于“**长期被动投资**”，以帮助人们实现财务目标。
 
@@ -58,6 +62,8 @@ CMC Markets允许用户交易股票、ETF、加密货币和大宗商品以及其
 
 ## Webull
 
+![202407193](/assets/images/2024/202407193.png)
+
 [Webull](https://www.webull.com.au/)的开户仅仅是因为当时的新用户奖励，我在《[疯狂的英伟达，疯狂的股价](https://www.ozexplorers.com/投资理财/2024/05/29/nvda-is-crazy.html)》这篇文章里也分享过。
 
 当时只需要开户后转入1000澳元，就会赠送英伟达股票，现在加上拆分和增股，已经送了我将近1股了。
@@ -74,11 +80,11 @@ CMC Markets允许用户交易股票、ETF、加密货币和大宗商品以及其
 - 不支持自动投资
 - 不允许非澳洲居民开户
 
-点击[推荐链接](https://www.webull.com.au/s/Q2cauxAGBhb4Yi0QDZ](https://www.webull.com.au/s/Q2cauxAGBhb4Yi0QDZ)，获得价值100刀的新用户奖励。
+点击[推荐链接](https://www.webull.com.au/s/Q2cauxAGBhb4Yi0QDZ)，获得价值100刀的新用户奖励。
 
 ## 综合来看
 
-从交易费率上来看，**Webull无疑是当前最便宜的了**，你需要支付任何Broker费用就可以完成购买和卖出。
+从交易费率上来看，**Webull无疑是当前最便宜的了**，不需要支付任何Broker费用就可以完成购买和卖出。
 
 值得一提的是，不管是CMC，还是Pearler和Webull，都是澳洲认证的**CHESS平台**。
 
