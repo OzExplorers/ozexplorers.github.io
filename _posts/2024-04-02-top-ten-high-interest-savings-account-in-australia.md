@@ -43,7 +43,7 @@ top: 1
 
 **申请链接**：[https://www.mebank.com.au/banking/home-deposit-savings-account](https://www.mebank.com.au/banking/home-deposit-savings-account)
 
-## Top 3-7
+## Top 3-6
 
 > 存款利率都是5.50%，但要求不同，以下排名不分先后。
 
