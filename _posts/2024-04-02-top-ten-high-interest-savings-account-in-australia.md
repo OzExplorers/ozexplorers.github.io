@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 澳洲活期存款利率最高的十家银行（更新至2024年7月）
-subtitle: Top 10 High Interest Savings Account in Australia (July 2024)
+title: 澳洲活期存款利率最高的十家银行（更新至2024年8月）
+subtitle: Top 10 High Interest Savings Account in Australia (August 2024)
 author: Oz Explorer
 categories: 投资理财
 tags: [澳大利亚, 存款利率]
@@ -76,18 +76,6 @@ top: 1
 
 使用我的推荐码：**8KM67JV**，开户奖励30澳元！
 
-### MOVE Bank Growth Saver
-
-![MoveBank](/assets/images/2024/202404024.png)
-
-**存款利率**：5.50%
-
-**封顶金额**：2.5万澳元
-
-**满足条件**：每月至少存入200澳元，且存款账户无转账取款等交易
-
-**申请链接**：[https://www.movebank.com.au/banking-savings/savings-accounts/growth-saver](https://www.movebank.com.au/banking-savings/savings-accounts/growth-saver)
-
 ### BOQ Future Saver Account
 
 ![BOQ](/assets/images/2024/202404021.png)
@@ -103,19 +91,19 @@ top: 1
 
 **申请链接**：[https://www.boq.com.au/personal/banking/savings-and-term-deposits/future-saver](https://www.boq.com.au/personal/banking/savings-and-term-deposits/future-saver)
 
-### Great Southern Bank Youth eSaver Account
+### Defence Bank Salute Account
 
-![GSB](/assets/images/2024/202404025.png)
+![Defence Bank](/assets/images/2024/202408021.png)
 
 **存款利率**：5.50%
 
-**封顶金额**：5千澳元
+**封顶金额**：25万澳元
 
-**满足条件**：面向0-17岁的青年储蓄账户，除年龄限制外无任何要求
+**满足条件**：每月至少存入1500澳元，活动期12个月
 
-**申请链接**：[https://www.greatsouthernbank.com.au/bank-and-save/savings-accounts/youth-esaver-account](https://www.greatsouthernbank.com.au/bank-and-save/savings-accounts/youth-esaver-account)
+**申请链接**：[https://www.defencebank.com.au/salute](https://www.defencebank.com.au/salute)
 
-## Top 8
+## Top 7
 
 ### AMP Saver Account
 
@@ -129,19 +117,26 @@ top: 1
 
 **申请链接**：[https://www.amp.com.au/banking/savings-accounts/amp-saver-account](https://www.amp.com.au/banking/savings-accounts/amp-saver-account)
 
-## Top 9-10
+## Top 8-10
 
-> 存款利率都是5.35%，普遍采取新客户前几个月的利息奖励的方式，以下排名不分先后。
+> 存款利率都是5.35%，排名不分先后。
 
-**[Macquarie Savings Account](https://www.macquarie.com.au/everyday-banking/savings-account.html)**
+**Macquarie Savings Account**
+
 ——前四个月5.35%，随后4.75%，封顶金额25万澳元
 
-**[Bank of Melbourne Maxi Saver](https://www.bankofmelbourne.com.au/personal/bank-accounts/savings-accounts/maxi-saver)、[BankSA Maxi Saver](https://www.banksa.com.au/personal/bank-accounts/savings-accounts/maxi-saver)、[St.George Maxi Saver](https://www.stgeorge.com.au/personal/bank-accounts/savings-accounts/maxi-saver)**
-——前三个月5.35%，无金额限制，但新客户福利期结束后，利率降至1.1%
+**Great Southern Bank Goal Saver Account**
+
+——每月存入500、消费5笔，封顶5万澳元，但开户人要18-24岁
+
+**BOQ Simple Saver**
+
+——前三个月5.35%，封顶500万澳元
 
 以上就是澳洲目前活期存款利率最高的十家银行，由于各家的达标条件都不同，希望大家在申请的时候，仔细阅读利率要求。
 
 如果嫌达标要求过于复杂和麻烦，也可以选择一些不需要附加条件(Ongoing)即可获得高额利息的银行。比如，
 
-- [Australian Unity Freedom Saver](https://www.australianunity.com.au/banking/savings-accounts/freedom-saver)，5.20%的利率，最高5万澳元
 - [ANZ Plus Save Account](https://www.anz.com.au/plus/everydaysaveaccount)，4.9%的利息，最高25万澳元
+
+*免责声明：本文仅作信息共享及参考目的，不作理财建议。
