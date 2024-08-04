@@ -19,12 +19,16 @@ excerpt_image: /assets/images/2024/202408040.jpeg
 
 ## 💰 Bupa $700
 
+![202408040](/assets/images/2024/202408040.jpeg)
+
 这个活动在之前关于[澳洲私人保险](https://www.ozexplorers.com/澳洲生活/2024/04/16/joined-a-private-health-insurance-to-avoid-medicare-levy-surcharge.html)的文章里，我已经分享过了。
 
 在2024年4月10日前办理保险的新用户，提供了相当诱人的优惠活动：
 
 > 完成首月缴费后，6周免费，以及第二年的前4周免费
+
 > 免除了2&6月的等待期
+
 > 加赠Woolworths的140,000会员积分，价值700澳元
 
 上个月底，一觉醒来，就看到Woolworths Rewards的会员卡里，积分增加了14万，折算成现金的话，相当于给了我700澳元。
@@ -33,6 +37,8 @@ excerpt_image: /assets/images/2024/202408040.jpeg
 
 ## ⚡️ Synergy $350
 
+![202408041](/assets/images/2024/202408041.jpeg)
+
 之前[我的文章](https://www.ozexplorers.com/羊毛攻略/2024/05/18/700-dollars-energy-rebates-for-every-household-in-wa.html)里分享过，西澳居民在2024-2025财年，会得来自联邦政府和州政府的双重补贴，两项补贴加起来，一共700澳元。
 
 按照Synergy官网的公告，这笔补贴分两次发放：2024年7月20日和2024年12月7日，分别到账350澳元。
@@ -40,6 +46,8 @@ excerpt_image: /assets/images/2024/202408040.jpeg
 目前第一笔已经到账了，后面的电费可以自动抵扣了。
 
 ## 🏦 HSBC $89
+
+![202408042](/assets/images/2024/202408042.jpeg)
 
 这是澳洲汇丰银行HSBC的消费返现2%活动。
 
@@ -53,6 +61,8 @@ excerpt_image: /assets/images/2024/202408040.jpeg
 
 ## 🏦 Ubank $60
 
+![202408043](/assets/images/2024/202408043.jpeg)
+
 [Ubank活期利率5.5%](https://www.ozexplorers.com/投资理财/2024/06/18/earn-up-to-5.50-on-ubank-saving-account.html)，新用户推荐可以获得30刀的奖励。
 
 首先是在申请流程中，输入推荐人的推荐码。其次是在开通成功后，30内消费5笔，就完成任务了。
@@ -65,6 +75,8 @@ excerpt_image: /assets/images/2024/202408040.jpeg
 
 ## 🏆 Coles $150
 
+![202408044](/assets/images/2024/202408044.jpeg)
+
 Coles已经连续三个月给我推送：*连续四周消费达标，奖励10000积分的活动*。
 
 之前两次都是每周消费50澳元就可以了，也都很顺利地拿到了积分奖励。相当于花200澳元，返50澳元，等于是75折购物了。
@@ -74,6 +86,8 @@ Coles已经连续三个月给我推送：*连续四周消费达标，奖励10000
 目前积分奖励都到账了，可以在Flybuys App上兑换成购物金，下次付款时候使用就好了。
 
 ## 🎖 Woolworths Rewards
+
+![202408045](/assets/images/2024/202408045.jpeg)
 
 之前有介绍过，[Woolworths Rewards会员的年费活动](https://www.ozexplorers.com/羊毛攻略/2024/05/17/get-50-percent-off-an-woolworths-extra-annual-plan.html)：原价70澳元/年，活动价35澳元/年。
 
@@ -87,9 +101,13 @@ Bupa积分到了以后，后面就多在Woolworths买买东西吧，应该会有
 
 ## 💰 Shopback + Cashback
 
+![202408046](/assets/images/2024/202408046.jpeg)
+
 这两个都是返现APP，就放在一起说吧。
 
 目前，两个加起来差不多也有157澳元了，其中Shopback约110澳元，Cashback有47澳元。
+
+![202408047](/assets/images/2024/202408047.jpeg)
 
 基本上我在线上购物，比如亚马逊，我都会从这两家里选一家使用，挣个返现的钱。或者是我在上面以折扣价格购买礼品卡，再使用礼品卡付款。如果赶上他们做活动，也可以获得更大比例的返现。
 
