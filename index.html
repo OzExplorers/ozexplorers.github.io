@@ -1,0 +1,4510 @@
+<!DOCTYPE html>
+<html lang="zh"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="google-translate-customization" content="108d9124921d80c3-80e20d618ff053c8-g4f02ec6f3dba68b7-c">
+  <meta name="google-site-verification" content="9UYKcBD5oK9ijKYQsvYGkypkUh3-cifAUPWMjRwf8ow" /><!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Home | Oz Explorer</title>
+<meta name="generator" content="Jekyll v3.9.5" />
+<meta property="og:title" content="Home" />
+<meta name="author" content="Oz Explorer" />
+<meta property="og:locale" content="zh" />
+<meta name="description" content="一个居住在澳大利亚的探索者，分享生活经验和见闻" />
+<meta property="og:description" content="一个居住在澳大利亚的探索者，分享生活经验和见闻" />
+<link rel="canonical" href="https://www.ozexplorers.com/jekyll-theme-yat/" />
+<meta property="og:url" content="https://www.ozexplorers.com/jekyll-theme-yat/" />
+<meta property="og:site_name" content="Oz Explorer" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Home" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebSite","author":{"@type":"Person","name":"Oz Explorer"},"description":"一个居住在澳大利亚的探索者，分享生活经验和见闻","headline":"Home","name":"Oz Explorer","url":"https://www.ozexplorers.com/jekyll-theme-yat/"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="icon" href="/favicon.ico">
+  <link rel="canonical" href="https://www.ozexplorers.com">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/typeface-noto-sans@0.0.72/index.min.css">
+  <link rel="stylesheet" href="/jekyll-theme-yat/assets/css/main.css">
+  <script src="/jekyll-theme-yat/assets/js/main.js"></script><link type="application/atom+xml" rel="alternate" href="https://www.ozexplorers.com/jekyll-theme-yat/feed.xml" title="Oz Explorer" /><link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.1/styles/default.min.css">
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.1/highlight.min.js"></script>
+<!-- and it's easy to individually load additional languages -->
+<script charset="UTF-8"
+        src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.1/languages/go.min.js"
+        async></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script>
+// Init highlight js
+document.addEventListener('DOMContentLoaded', function(event) {
+  var els = document.querySelectorAll('pre code')
+
+  function addLangData(block) {
+    var outer = block.parentElement.parentElement.parentElement;
+    var lang = block.getAttribute('data-lang');
+    for (var i = 0; i < outer.classList.length; i++) {
+      var cls = outer.classList[i];
+      if (cls.startsWith('language-')) {
+        lang = cls;
+        break;
+      }
+    }
+    if (!lang) {
+      cls = block.getAttribute('class');
+      lang = cls ? cls.replace('hljs ', '') : '';
+    }
+    if (lang.startsWith('language-')) {
+      lang = lang.substr(9);
+    }
+    block.setAttribute('class', 'hljs ' + lang);
+    block.parentNode.setAttribute('data-lang', lang);
+  }
+
+  function addBadge(block) {
+    var enabled = ('true' || 'true').toLowerCase();
+    if (enabled == 'true') {
+      var pre = block.parentElement;
+      pre.classList.add('badge');
+    }
+  }
+
+  function handle(block) {
+    addLangData(block);
+    addBadge(block)
+    hljs.highlightBlock(block);
+  }
+
+  for (var i = 0; i < els.length; i++) {
+    var el = els[i];
+    handle(el);
+  }
+});
+</script>
+
+<style>
+  /* code language badge */
+  pre.badge::before {
+    content: attr(data-lang);
+    color: #fff;
+    background-color: #ff4e00;
+    padding: 0 .5em;
+    border-radius: 0 2px;
+    text-transform: uppercase;
+    text-align: center;
+    min-width: 32px;
+    display: inline-block;
+    position: absolute;
+    right: 0;
+  }
+
+  /* fix wrong badge display for firefox browser */
+  code > table pre::before {
+    display: none;
+  }
+</style>
+<script
+  src="//cdnjs.cloudflare.com/ajax/libs/photoswipe/5.3.7/umd/photoswipe-lightbox.umd.min.js" async></script>
+<script
+  src="//cdnjs.cloudflare.com/ajax/libs/photoswipe/5.3.7/umd/photoswipe.umd.min.js" async></script>
+<link
+  href="//cdnjs.cloudflare.com/ajax/libs/photoswipe/5.3.7/photoswipe.min.css"
+  rel="stylesheet"
+/>
+<style>
+  .pswp .pswp__container .pswp__img {
+    background-color: white;
+  }
+</style>
+
+<script>
+  function initPhotoSwipe() {
+    let customOptions = {};
+
+    try {
+      const data = ``.replaceAll("=>", ":");
+      customOptions = JSON.parse(data);
+    } catch (e) {
+      console.info("Invalid custom photo previewer options! " + e.message);
+    }
+
+    // Define object and gallery options
+    const options = Object.assign(
+      {
+        gallery: "section.main",
+        children: "a.photo-swipe",
+        photo_scale: 2,
+        // dynamic import is not supported in UMD version
+        pswpModule: PhotoSwipe,
+      },
+      customOptions
+    );
+
+    const galleryEl = document.querySelector(options.gallery);
+    if (!galleryEl) {
+      return;
+    }
+
+    const imgEls = [];
+    const els = galleryEl.querySelectorAll("img:not(.emoji)");
+    els.forEach((el) => {
+      if (el.src.trim() == "") {
+        return;
+      }
+      if (!imgEls.includes(el)) {
+        imgEls.push(el);
+      }
+    });
+
+    if (imgEls.length === 0) {
+      return;
+    }
+
+    imgEls.forEach((imgEl) => {
+      imgEl.outerHTML = `
+      <a class="photo-swipe"
+        href="${imgEl.src}"
+        data-pswp-width="${
+          Math.max(imgEl.naturalWidth, imgEl.width) * options.photo_scale
+        }"
+        data-pswp-height="${
+          Math.max(imgEl.naturalHeight, imgEl.height) * options.photo_scale
+        }"
+        data-pswp-caption="${imgEl.getAttribute("caption") || imgEl.alt}"
+        target="_blank">
+        ${imgEl.outerHTML}
+      </a>`;
+    });
+
+    // Initialize PhotoSwipe 5
+    var lightbox = new PhotoSwipeLightbox(options);
+
+    lightbox.init();
+  }
+
+  window.addEventListener("load", initPhotoSwipe);
+</script>
+
+<script defer src="https://eu.umami.is/script.js" data-website-id="8987b58f-bfba-4473-8822-70a414bc15fa"></script>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1392504864016942"
+     crossorigin="anonymous"></script>
+  
+</head>
+<body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<header class="site-header site-header-transparent" role="banner">
+
+  <div class="wrapper">
+    <div class="site-header-inner"><span class="site-brand"><a class="site-brand-inner" rel="author" href="/jekyll-theme-yat/">
+  <img class="site-favicon" title="Oz Explorer" src="/favicon.ico" onerror="this.style.display='none'">
+  Oz Explorer
+</a>
+</span><nav class="site-nav">
+          <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+          <label for="nav-trigger">
+            <span class="menu-icon">
+              <svg viewBox="0 0 18 15" width="18px" height="15px">
+                <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
+              </svg>
+            </span>
+          </label>
+
+          <div class="trigger"><a class="page-link" href="/jekyll-theme-yat/about.html">ABOUT</a><a class="page-link" href="/jekyll-theme-yat/archives.html">ARCHIVES</a><a class="page-link" href="/jekyll-theme-yat/categories.html">CATEGORIES</a><a class="page-link" href="/jekyll-theme-yat/">HOME</a><a class="page-link" href="/jekyll-theme-yat/tags.html">TAGS</a>
+
+
+
+
+
+
+
+
+
+<div class="page-link" style="display: inline;">
+
+
+
+<div id="google_translate_element" style="display: none;">
+</div>
+
+<div class="ct-language">
+  <ul class="list-unstyled ct-language-dropdown">
+    
+      <li>
+        <a href="#" class="lang-select" data-lang="en">
+          
+          <img src="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-400.png" title="English">
+          
+        </a>
+      </li>
+    
+      <li>
+        <a href="#" class="lang-select" data-lang="fr">
+          
+          <img src="https://cdn.countryflags.com/thumbs/france/flag-400.png" title="French">
+          
+        </a>
+      </li>
+    
+      <li>
+        <a href="#" class="lang-select" data-lang="zh-CN">
+          
+          <img src="https://cdn.countryflags.com/thumbs/china/flag-400.png" title="Chinese(Simple)">
+          
+        </a>
+      </li>
+    
+      <li>
+        <a href="#" class="lang-select" data-lang="ja">
+          
+          <img src="https://cdn.countryflags.com/thumbs/japan/flag-400.png" title="Japanese">
+          
+        </a>
+      </li>
+    
+      <li>
+        <a href="#" class="lang-select" data-lang="ko">
+          
+          <img src="https://cdn.countryflags.com/thumbs/south-korea/flag-400.png" title="Korean">
+          
+        </a>
+      </li>
+    
+      <li>
+        <a href="#" class="lang-select" data-lang="ru">
+          
+          <img src="https://cdn.countryflags.com/thumbs/russia/flag-400.png" title="Russian">
+          
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+<script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({
+    pageLanguage: 'zh',
+    autoDisplay: false,
+    layout: google.translate.TranslateElement.InlineLayout.VERTICAL
+  }, 'google_translate_element');
+
+  // Links to cross-origin destinations are unsafe
+  var gll = document.getElementsByClassName('goog-logo-link')[0];
+  if (gll) {
+    gll.setAttribute('rel', 'noopener');
+  }
+
+  function restoreLang() {
+    var iframe = document.getElementsByClassName('goog-te-banner-frame')[0];
+    if (!iframe) return;
+
+    var innerDoc = iframe.contentDocument || iframe.contentWindow.document;
+    var restore_el = innerDoc.getElementsByTagName("button");
+
+    for (var i = 0; i < restore_el.length; i++) {
+      if (restore_el[i].id.indexOf("restore") >= 0) {
+        restore_el[i].click();
+        var close_el = innerDoc.getElementsByClassName("goog-close-link");
+        close_el[0].click();
+        return;
+      }
+    }
+  }
+
+  function triggerHtmlEvent(element, eventName) {
+    var event;
+    if (document.createEvent) {
+      event = document.createEvent('HTMLEvents');
+      event.initEvent(eventName, true, true);
+      element.dispatchEvent(event);
+    } else {
+      event = document.createEventObject();
+      event.eventType = eventName;
+      element.fireEvent('on' + event.eventType, event);
+    }
+  }
+
+  var googleCombo = document.querySelector("select.goog-te-combo");
+  var langSelect = document.querySelector('.ct-language');
+  langSelect.addEventListener('click', function(event) {
+    if (!event.target) {
+      return;
+    }
+
+    var selected = document.querySelector('.ct-language .ct-language-selected');
+    if (selected) {
+      selected.classList.remove('ct-language-selected');
+    }
+
+    var target = event.target;
+    while (target && target !== langSelect ) {
+      if (target.matches('.lang-select')) {
+        break;
+      }
+      target = target.parentElement;
+    }
+
+    if (target && target.matches('.lang-select')) {
+      var lang = target.getAttribute('data-lang');
+      if (googleCombo.value == lang) {
+        restoreLang();
+      } else {
+        target.parentElement.classList.add('ct-language-selected');
+        googleCombo.value = lang;
+        triggerHtmlEvent(googleCombo, 'change');
+      }
+    }
+
+    event.preventDefault();
+  });
+}
+</script>
+
+<script type="text/javascript" src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit" async></script>
+</div></div>
+        </nav></div>
+  </div>
+</header>
+
+<script>
+  function initHeader() {
+    var lastScrollY = getScrollPos().y;
+    var documentElement = document.documentElement;
+
+    function storeScrollData() {
+      var y = getScrollPos().y;documentElement.setAttribute("data-header-transparent", "");var scrollStatus = "";
+
+      if (y <= 0) {
+        scrollStatus = "top";
+      } else if ((window.innerHeight + y) >= document.body.offsetHeight) {
+        scrollStatus = "bottom";
+      } else {
+        var isScrollDown = (y - lastScrollY > 0) ? true : false;
+        scrollStatus = isScrollDown ? "down" : "up";
+      }
+
+      lastScrollY = y;
+      documentElement.setAttribute("data-scroll-status", scrollStatus);
+    }
+
+    window.addEventListener('scroll', function(e) {
+      storeScrollData();
+    });
+
+    storeScrollData();
+  }
+  document.addEventListener('DOMContentLoaded', initHeader);
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section class="page-banner">
+    <div class="page-banner-img"><div style="background-image: url(/jekyll-theme-yat/assets/images/banner/ozexplorer.jpeg)"></div>
+        <img class="img-placeholder" src="/jekyll-theme-yat/assets/images/banner/ozexplorer.jpeg"></div>
+    <div class="wrapper">
+      <div class="page-banner-inner"><div class="page-banner-default">
+            <h1 class="page-banner-heading">
+              澳洲探索者 Oz Explorer
+            </h1>
+            <h2 class="page-banner-subheading">
+              一个居住在澳大利亚的探索者，分享生活经验和见闻
+            </h2>
+          </div></div>
+    </div>
+  </section><script>
+  function hashLocate(hashValue) {
+    hashValue = hashValue.replace(/^.*#h-/, '');
+    hashValue = decodeURIComponent(hashValue);
+    var element = document.getElementById(hashValue);
+
+    if (!element) {
+      return;
+    }
+
+    var header = document.querySelector('header.site-header');
+    var headerRect = header.getBoundingClientRect();
+    var headerTop = Math.floor(headerRect.top);
+    var headerHeight = Math.floor(headerRect.height);
+    var scrollPos = getScrollPos();
+    var offsetY = element.offsetTop - (headerTop + headerHeight + 20);
+
+    if (offsetY == scrollPos.y) {
+      return;
+    }
+
+    if (headerTop == 0  && offsetY > scrollPos.y) {
+      offsetY += headerHeight + 2;
+    } else if (headerTop < 0  && offsetY < scrollPos.y) {
+      offsetY -= headerHeight - 2;
+    }
+
+    smoothScrollTo(offsetY);
+  }
+
+  // The first event occurred
+  window.addEventListener('load', function(event) {
+    if (window.location.hash) {
+      hashLocate(window.location.hash);
+    }
+  });
+
+  // The first event occurred
+  window.addEventListener('click', function(event) {
+    if (event.target.tagName.toLowerCase() == 'a') {
+      hashLocate(event.target.getAttribute('href'));
+    }
+  });
+</script>
+<div class="theme-toggle">
+  <input type="checkbox" id="theme-switch">
+  <label for="theme-switch">
+    <div class="toggle"></div>
+    <div class="names">
+      <p class="light">Light</p>
+      <p class="dark">Dark</p>
+    </div>
+  </label>
+</div>
+
+
+
+
+<script>
+  (function() {
+    var sw = document.getElementById('theme-switch');
+    var html = document.getElementsByTagName('html')[0];
+    var nightModeOption = ('auto' || 'auto').toLowerCase();
+    var storage = nightModeOption === 'manual'
+        ? localStorage
+        : sessionStorage;
+    var themeData = loadThemeData();
+
+    function saveThemeData(data) {
+      storage.setItem('theme', JSON.stringify(data));
+    }
+
+    function loadThemeData() {
+      var data = storage.getItem('theme');
+      try {
+        data = JSON.parse(data ? data : '');
+      } catch(e) {
+        data = { nightShift: undefined, autoToggleAt: 0 };
+        saveThemeData(data);
+      }
+      return data;
+    }
+
+    function handleThemeToggle(nightShift) {
+      themeData.nightShift = nightShift;
+      saveThemeData(themeData);
+      html.dataset.theme = nightShift ? 'dark' : 'light';
+      setTimeout(function() {
+        sw.checked = nightShift ? true : false;
+      }, 50);
+    }
+
+    function autoThemeToggle() {
+      // Next time point of theme toggle
+      var now = new Date();
+      var toggleAt = new Date();
+      var hours = now.getHours();
+      var nightShift = hours >= 19 || hours <=7;
+
+      if (nightShift) {
+        if (hours > 7) {
+          toggleAt.setDate(toggleAt.getDate() + 1);
+        }
+        toggleAt.setHours(7);
+      } else {
+        toggleAt.setHours(19);
+      }
+
+      toggleAt.setMinutes(0);
+      toggleAt.setSeconds(0);
+      toggleAt.setMilliseconds(0)
+
+      var delay = toggleAt.getTime() - now.getTime();
+
+      // auto toggle theme mode
+      setTimeout(function() {
+        handleThemeToggle(!nightShift);
+      }, delay);
+
+      return {
+        nightShift: nightShift,
+        toggleAt: toggleAt.getTime()
+      };
+    }
+
+    // Listen the theme toggle event
+    sw.addEventListener('change', function(event) {
+      handleThemeToggle(event.target.checked);
+    });
+
+    if (nightModeOption == 'auto') {
+      var data = autoThemeToggle();
+
+      // Toggle theme by local setting
+      if (data.toggleAt > themeData.autoToggleAt) {
+        themeData.autoToggleAt = data.toggleAt;
+        handleThemeToggle(data.nightShift);
+      } else {
+        handleThemeToggle(themeData.nightShift);
+      }
+    } else if (nightModeOption == 'manual') {
+      handleThemeToggle(themeData.nightShift);
+    } else {
+      var nightShift = themeData.nightShift;
+      if (nightShift === undefined) {
+        nightShift = nightModeOption === 'on';
+      }
+      handleThemeToggle(nightShift);
+    }
+  })();
+</script>
+<div id="click-to-top" class="click-to-top">
+  <i class="fa fa-arrow-up"></i>
+</div>
+<script>
+  (function () {
+    const clickToTop = document.getElementById('click-to-top');
+    window.addEventListener('scroll', () => {
+      if (window.scrollY > 100) {
+        clickToTop.classList.add('show')
+      }else {
+        clickToTop.classList.remove('show')
+      }
+    });
+    clickToTop.addEventListener('click', () => {
+      window.smoothScrollTo(0);
+    });
+  })();
+</script>
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <div class="framework">
+  <section class="main">
+
+     <div class="articles">
+  
+
+  
+
+
+  
+
+
+
+
+<div class="pagination">
+  <!-- Post list links -->
+  <ul class="post-list z-image-style">
+    <!-- Top list item -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li class="post-item top-post">
+  <h2 class="post-title">
+    <a class="post-link" href="/jekyll-theme-yat/%E6%8A%95%E8%B5%84%E7%90%86%E8%B4%A2/2024/04/02/top-ten-high-interest-savings-account-in-australia.html">
+      澳洲活期存款利率最高的十家银行（更新至2024年8月）<span class="post-badges">
+  <span class="post-badge badge-top">TOP</span>
+  <span class="post-badge badge-new">NEW</span>
+</span>
+</a>
+  </h2>
+  <div class="post-meta">
+    <span class="post-date"><i class="fa fa-calendar"></i> Apr 02, 2024</span><span class="post-author left-vsplit"><i class="fa fa-pencil"></i> Oz Explorer</span><span class="post-reading-time left-vsplit"><i class="fa fa-clock-o"></i> About 4 mins</span>
+  </div>
+  <div class="post-excerpt"><a  class="post-image" href="/jekyll-theme-yat/%E6%8A%95%E8%B5%84%E7%90%86%E8%B4%A2/2024/04/02/top-ten-high-interest-savings-account-in-australia.html" style="flex: 0 1 38.2%">
+      <div style="background-image: url(/jekyll-theme-yat/assets/images/2024/202404020.jpg); height: 160px"></div>
+    </a><a class="post-text" href="/jekyll-theme-yat/%E6%8A%95%E8%B5%84%E7%90%86%E8%B4%A2/2024/04/02/top-ten-high-interest-savings-account-in-australia.html">
+      <p>和国内不断降低存款利率相比，澳洲多家银行都在推出高息存款账户（High Interest Savings Account，简称HISA）。
+
+下面是目前市场上活期存款利率最高的十家澳洲银行：
+
+Top 1
+Rabobank High Interest Savings Account
+
+
+
+存... <span class="read_more">Read More</span></p>
+    </a>
+  </div>
+  <div class="post-tags"><a class="post-tag" href="/jekyll-theme-yat/tags.html#澳大利亚">#澳大利亚</a><a class="post-tag" href="/jekyll-theme-yat/tags.html#存款利率">#存款利率</a></div>
+</li>
+<!-- Normal list item -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li class="post-item ">
+  <h2 class="post-title">
+    <a class="post-link" href="/jekyll-theme-yat/%E7%BE%8A%E6%AF%9B%E6%94%BB%E7%95%A5/2024/08/04/i-have-got-1500-dollars-cashback-in-australia.html">
+      我在澳洲“薅羊毛”，累计超过1500澳元了！<span class="post-badges">
+  <span class="post-badge badge-top">TOP</span>
+  <span class="post-badge badge-new">NEW</span>
+</span>
+</a>
+  </h2>
+  <div class="post-meta">
+    <span class="post-date"><i class="fa fa-calendar"></i> Aug 04, 2024</span><span class="post-author left-vsplit"><i class="fa fa-pencil"></i> Oz Explorer</span><span class="post-reading-time left-vsplit"><i class="fa fa-clock-o"></i> About 5 mins</span>
+  </div>
+  <div class="post-excerpt"><a  class="post-image" href="/jekyll-theme-yat/%E7%BE%8A%E6%AF%9B%E6%94%BB%E7%95%A5/2024/08/04/i-have-got-1500-dollars-cashback-in-australia.html" style="flex: 0 1 38.2%">
+      <div style="background-image: url(/jekyll-theme-yat/assets/images/2024/202408040.jpeg); height: 160px"></div>
+    </a><a class="post-text" href="/jekyll-theme-yat/%E7%BE%8A%E6%AF%9B%E6%94%BB%E7%95%A5/2024/08/04/i-have-got-1500-dollars-cashback-in-australia.html">
+      <p>最近接连收到了一些羊毛，来自保险、银行、超市或者是返现APP。
+
+有的是直接打到了银行卡里，有的则是充值到了Woolworths或者Coles的会员卡里。
+
+今天整理下我的羊毛成果，分享给大家。
+
+💰 Bupa $700
+
+
+
+这个活动在之前关于澳洲私人保险的文章里，我已经分享过了。... <span class="read_more">Read More</span></p>
+    </a>
+  </div>
+  <div class="post-tags"><a class="post-tag" href="/jekyll-theme-yat/tags.html#澳大利亚">#澳大利亚</a><a class="post-tag" href="/jekyll-theme-yat/tags.html#购物优惠">#购物优惠</a><a class="post-tag" href="/jekyll-theme-yat/tags.html#投资理财">#投资理财</a></div>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li class="post-item ">
+  <h2 class="post-title">
+    <a class="post-link" href="/jekyll-theme-yat/%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0/2024/07/25/notes-of-the-psychology-of-money.html">
+      你的金钱观能够80%反映出你的世界观：《The Psychology of Money》阅读笔记<span class="post-badges">
+  <span class="post-badge badge-top">TOP</span>
+  <span class="post-badge badge-new">NEW</span>
+</span>
+</a>
+  </h2>
+  <div class="post-meta">
+    <span class="post-date"><i class="fa fa-calendar"></i> Jul 25, 2024</span><span class="post-author left-vsplit"><i class="fa fa-pencil"></i> Oz Explorer</span><span class="post-reading-time left-vsplit"><i class="fa fa-clock-o"></i> About 3 mins</span>
+  </div>
+  <div class="post-excerpt"><a  class="post-image" href="/jekyll-theme-yat/%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0/2024/07/25/notes-of-the-psychology-of-money.html" style="flex: 0 1 38.2%">
+      <div style="background-image: url(/jekyll-theme-yat/assets/images/2024/202407251.jpg); height: 160px"></div>
+    </a><a class="post-text" href="/jekyll-theme-yat/%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0/2024/07/25/notes-of-the-psychology-of-money.html">
+      <p>最近在图书馆借阅了Morgan Housel的《The Psychology of Money》，这本书在国内也出版了，名字是《金钱心理学》。
+
+在书中，作者用一个个小故事来谈论金钱心理和生活哲学，内容简单，道理也很简单，但往往被我们忽视。
+
+以下是我边看边记录的读书心得，分享... <span class="read_more">Read More</span></p>
+    </a>
+  </div>
+  <div class="post-tags"><a class="post-tag" href="/jekyll-theme-yat/tags.html#投资理财">#投资理财</a></div>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li class="post-item ">
+  <h2 class="post-title">
+    <a class="post-link" href="/jekyll-theme-yat/%E6%BE%B3%E6%B4%B2%E7%94%9F%E6%B4%BB/2024/07/23/a-great-experience-of-teeth-cleaning-in-australia.html">
+      在澳洲洗牙是什么体验？<span class="post-badges">
+  <span class="post-badge badge-top">TOP</span>
+  <span class="post-badge badge-new">NEW</span>
+</span>
+</a>
+  </h2>
+  <div class="post-meta">
+    <span class="post-date"><i class="fa fa-calendar"></i> Jul 23, 2024</span><span class="post-author left-vsplit"><i class="fa fa-pencil"></i> Oz Explorer</span><span class="post-reading-time left-vsplit"><i class="fa fa-clock-o"></i> About 4 mins</span>
+  </div>
+  <div class="post-excerpt"><a  class="post-image" href="/jekyll-theme-yat/%E6%BE%B3%E6%B4%B2%E7%94%9F%E6%B4%BB/2024/07/23/a-great-experience-of-teeth-cleaning-in-australia.html" style="flex: 0 1 38.2%">
+      <div style="background-image: url(/jekyll-theme-yat/assets/images/2024/202407230.jpg); height: 160px"></div>
+    </a><a class="post-text" href="/jekyll-theme-yat/%E6%BE%B3%E6%B4%B2%E7%94%9F%E6%B4%BB/2024/07/23/a-great-experience-of-teeth-cleaning-in-australia.html">
+      <p>在《为了豁免Medicare Levy Surcharge，我们办理了Bupa私人保险》的文章里，我写道，我们办理了Bupa的私人保险，包括医院保险（Hospital Cover） 和 附加保险（Extra Cover）。
+
+这个保单生效已经三个多月了，我们一直没有使用。最近，我... <span class="read_more">Read More</span></p>
+    </a>
+  </div>
+  <div class="post-tags"><a class="post-tag" href="/jekyll-theme-yat/tags.html#澳大利亚">#澳大利亚</a><a class="post-tag" href="/jekyll-theme-yat/tags.html#Medicare">#Medicare</a><a class="post-tag" href="/jekyll-theme-yat/tags.html#移民">#移民</a></div>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li class="post-item ">
+  <h2 class="post-title">
+    <a class="post-link" href="/jekyll-theme-yat/%E6%8A%95%E8%B5%84%E7%90%86%E8%B4%A2/2024/07/19/etf-trading-platforms-comparison-in-australia.html">
+      聊聊澳洲的ETF基金交易平台（Broker）<span class="post-badges">
+  <span class="post-badge badge-top">TOP</span>
+  <span class="post-badge badge-new">NEW</span>
+</span>
+</a>
+  </h2>
+  <div class="post-meta">
+    <span class="post-date"><i class="fa fa-calendar"></i> Jul 19, 2024</span><span class="post-author left-vsplit"><i class="fa fa-pencil"></i> Oz Explorer</span><span class="post-reading-time left-vsplit"><i class="fa fa-clock-o"></i> About 3 mins</span>
+  </div>
+  <div class="post-excerpt"><a  class="post-image" href="/jekyll-theme-yat/%E6%8A%95%E8%B5%84%E7%90%86%E8%B4%A2/2024/07/19/etf-trading-platforms-comparison-in-australia.html" style="flex: 0 1 38.2%">
+      <div style="background-image: url(/jekyll-theme-yat/assets/images/2024/202407190.jpg); height: 160px"></div>
+    </a><a class="post-text" href="/jekyll-theme-yat/%E6%8A%95%E8%B5%84%E7%90%86%E8%B4%A2/2024/07/19/etf-trading-platforms-comparison-in-australia.html">
+      <p>最近，Webull发布新的交易费率表，不管是美国ETF还是澳洲ETF，在Webull购买都是零收费。
+
+这肯定是Webull开拓市场的一个手段，能维持多久暂不可知。但我想借此机会，聊聊我在澳大利亚所使用的几个ETF基金交易平台：CMC Markets、Pearler、Webull。... <span class="read_more">Read More</span></p>
+    </a>
+  </div>
+  <div class="post-tags"><a class="post-tag" href="/jekyll-theme-yat/tags.html#美股">#美股</a><a class="post-tag" href="/jekyll-theme-yat/tags.html#投资理财">#投资理财</a><a class="post-tag" href="/jekyll-theme-yat/tags.html#ETF">#ETF</a></div>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li class="post-item ">
+  <h2 class="post-title">
+    <a class="post-link" href="/jekyll-theme-yat/%E6%BE%B3%E6%B4%B2%E7%94%9F%E6%B4%BB/2024/07/11/i-like-the-public-library-in-australia.html">
+      我喜欢澳大利亚的社区图书馆<span class="post-badges">
+  <span class="post-badge badge-top">TOP</span>
+  <span class="post-badge badge-new">NEW</span>
+</span>
+</a>
+  </h2>
+  <div class="post-meta">
+    <span class="post-date"><i class="fa fa-calendar"></i> Jul 11, 2024</span><span class="post-author left-vsplit"><i class="fa fa-pencil"></i> Oz Explorer</span><span class="post-reading-time left-vsplit"><i class="fa fa-clock-o"></i> About 1 min</span>
+  </div>
+  <div class="post-excerpt"><a  class="post-image" href="/jekyll-theme-yat/%E6%BE%B3%E6%B4%B2%E7%94%9F%E6%B4%BB/2024/07/11/i-like-the-public-library-in-australia.html" style="flex: 0 1 38.2%">
+      <div style="background-image: url(/jekyll-theme-yat/assets/images/2024/202407101.JPG); height: 160px"></div>
+    </a><a class="post-text" href="/jekyll-theme-yat/%E6%BE%B3%E6%B4%B2%E7%94%9F%E6%B4%BB/2024/07/11/i-like-the-public-library-in-australia.html">
+      <p>澳大利亚进入冬季了，有时候想消磨时间但又没处去，就会去家附近的社区图书馆。
+
+这里有免费的电脑、Wi-Fi网络、热水、暖气，还有舒适的“办公环境”，对于新移民来说，着实是个不错的福利。
+
+位于珀斯市中心火车站旁边的西澳州立图书馆，交通最方便，旁边还有西澳博物馆，文化氛围浓厚。... <span class="read_more">Read More</span></p>
+    </a>
+  </div>
+  <div class="post-tags"><a class="post-tag" href="/jekyll-theme-yat/tags.html#澳大利亚">#澳大利亚</a><a class="post-tag" href="/jekyll-theme-yat/tags.html#移民">#移民</a></div>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li class="post-item ">
+  <h2 class="post-title">
+    <a class="post-link" href="/jekyll-theme-yat/%E6%BE%B3%E6%B4%B2%E7%94%9F%E6%B4%BB/2024/07/09/how-to-enrol-tafe-competitive-courses.html">
+      TAFE竞争型课程申请注册指南——注册篇<span class="post-badges">
+  <span class="post-badge badge-top">TOP</span>
+  <span class="post-badge badge-new">NEW</span>
+</span>
+</a>
+  </h2>
+  <div class="post-meta">
+    <span class="post-date"><i class="fa fa-calendar"></i> Jul 09, 2024</span><span class="post-author left-vsplit"><i class="fa fa-pencil"></i> Oz Explorer</span><span class="post-reading-time left-vsplit"><i class="fa fa-clock-o"></i> About 4 mins</span>
+  </div>
+  <div class="post-excerpt"><a  class="post-image" href="/jekyll-theme-yat/%E6%BE%B3%E6%B4%B2%E7%94%9F%E6%B4%BB/2024/07/09/how-to-enrol-tafe-competitive-courses.html" style="flex: 0 1 38.2%">
+      <div style="background-image: url(/jekyll-theme-yat/assets/images/2024/202406261.png); height: 160px"></div>
+    </a><a class="post-text" href="/jekyll-theme-yat/%E6%BE%B3%E6%B4%B2%E7%94%9F%E6%B4%BB/2024/07/09/how-to-enrol-tafe-competitive-courses.html">
+      <p>写在前面
+
+
+  在“TAFE竞争型课程申请注册指南-申请篇”中，我分享了如何申请TAFE竞争型课程的具体步骤、以及如何准备相关证明材料。
+  在“TAFE竞争型课程申请注册指南-打分篇”中，我分享了TAFE Admissions根据教育经历、工作经历制定的打分规则。
+  一旦你... <span class="read_more">Read More</span></p>
+    </a>
+  </div>
+  <div class="post-tags"><a class="post-tag" href="/jekyll-theme-yat/tags.html#澳大利亚">#澳大利亚</a><a class="post-tag" href="/jekyll-theme-yat/tags.html#TAFE">#TAFE</a></div>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li class="post-item ">
+  <h2 class="post-title">
+    <a class="post-link" href="/jekyll-theme-yat/%E6%8A%95%E8%B5%84%E7%90%86%E8%B4%A2/2024/07/08/review-of-budget-app-money-pro.html">
+      在海外生活如何记账？我的Money Pro使用体验<span class="post-badges">
+  <span class="post-badge badge-top">TOP</span>
+  <span class="post-badge badge-new">NEW</span>
+</span>
+</a>
+  </h2>
+  <div class="post-meta">
+    <span class="post-date"><i class="fa fa-calendar"></i> Jul 08, 2024</span><span class="post-author left-vsplit"><i class="fa fa-pencil"></i> Oz Explorer</span><span class="post-reading-time left-vsplit"><i class="fa fa-clock-o"></i> About 7 mins</span>
+  </div>
+  <div class="post-excerpt"><a  class="post-image" href="/jekyll-theme-yat/%E6%8A%95%E8%B5%84%E7%90%86%E8%B4%A2/2024/07/08/review-of-budget-app-money-pro.html" style="flex: 0 1 38.2%">
+      <div style="background-image: url(/jekyll-theme-yat/assets/images/2024/202407080.jpg); height: 160px"></div>
+    </a><a class="post-text" href="/jekyll-theme-yat/%E6%8A%95%E8%B5%84%E7%90%86%E8%B4%A2/2024/07/08/review-of-budget-app-money-pro.html">
+      <p>在之前的文章《两人家庭在澳洲生活的月度开销》，里面有几张插图是记账App的截图。有朋友在后台问我，用的是什么记账软件？
+
+我当时在文章里写了是Money Pro，现在我写篇文章来详细分享Money Pro的使用体验，以及我的记账心得。
+
+
+
+Money Pro的优点和缺点
+
+翻... <span class="read_more">Read More</span></p>
+    </a>
+  </div>
+  <div class="post-tags"><a class="post-tag" href="/jekyll-theme-yat/tags.html#产品测评">#产品测评</a><a class="post-tag" href="/jekyll-theme-yat/tags.html#投资理财">#投资理财</a></div>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li class="post-item ">
+  <h2 class="post-title">
+    <a class="post-link" href="/jekyll-theme-yat/%E6%BE%B3%E6%B4%B2%E7%94%9F%E6%B4%BB/2024/07/01/how-to-apply-for-tafe-competitive-courses-appliant-comparisons.html">
+      TAFE竞争型课程申请注册指南——打分篇<span class="post-badges">
+  <span class="post-badge badge-top">TOP</span>
+  <span class="post-badge badge-new">NEW</span>
+</span>
+</a>
+  </h2>
+  <div class="post-meta">
+    <span class="post-date"><i class="fa fa-calendar"></i> Jul 01, 2024</span><span class="post-author left-vsplit"><i class="fa fa-pencil"></i> Oz Explorer</span><span class="post-reading-time left-vsplit"><i class="fa fa-clock-o"></i> About 8 mins</span>
+  </div>
+  <div class="post-excerpt"><a  class="post-image" href="/jekyll-theme-yat/%E6%BE%B3%E6%B4%B2%E7%94%9F%E6%B4%BB/2024/07/01/how-to-apply-for-tafe-competitive-courses-appliant-comparisons.html" style="flex: 0 1 38.2%">
+      <div style="background-image: url(/jekyll-theme-yat/assets/images/2024/202406261.png); height: 160px"></div>
+    </a><a class="post-text" href="/jekyll-theme-yat/%E6%BE%B3%E6%B4%B2%E7%94%9F%E6%B4%BB/2024/07/01/how-to-apply-for-tafe-competitive-courses-appliant-comparisons.html">
+      <p>写在前面
+
+
+  在上一篇文章“TAFE竞争型课程申请注册指南-申请篇”中，我分享了如何申请TAFE竞争型课程的具体步骤、以及如何准备相关证明材料。
+  一旦你满足了入学资格审核要求，TAFE Admissions就会通知你，需要等待Offer发放日才能看到最终结果。
+  如何拿到Offe... <span class="read_more">Read More</span></p>
+    </a>
+  </div>
+  <div class="post-tags"><a class="post-tag" href="/jekyll-theme-yat/tags.html#澳大利亚">#澳大利亚</a><a class="post-tag" href="/jekyll-theme-yat/tags.html#TAFE">#TAFE</a></div>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li class="post-item ">
+  <h2 class="post-title">
+    <a class="post-link" href="/jekyll-theme-yat/%E6%BE%B3%E6%B4%B2%E7%94%9F%E6%B4%BB/2024/06/26/how-to-apply-for-tafe-competitive-courses.html">
+      TAFE竞争型课程申请注册指南——申请篇<span class="post-badges">
+  <span class="post-badge badge-top">TOP</span>
+  <span class="post-badge badge-new">NEW</span>
+</span>
+</a>
+  </h2>
+  <div class="post-meta">
+    <span class="post-date"><i class="fa fa-calendar"></i> Jun 26, 2024</span><span class="post-author left-vsplit"><i class="fa fa-pencil"></i> Oz Explorer</span><span class="post-reading-time left-vsplit"><i class="fa fa-clock-o"></i> About 8 mins</span>
+  </div>
+  <div class="post-excerpt"><a  class="post-image" href="/jekyll-theme-yat/%E6%BE%B3%E6%B4%B2%E7%94%9F%E6%B4%BB/2024/06/26/how-to-apply-for-tafe-competitive-courses.html" style="flex: 0 1 38.2%">
+      <div style="background-image: url(/jekyll-theme-yat/assets/images/2024/202406261.png); height: 160px"></div>
+    </a><a class="post-text" href="/jekyll-theme-yat/%E6%BE%B3%E6%B4%B2%E7%94%9F%E6%B4%BB/2024/06/26/how-to-apply-for-tafe-competitive-courses.html">
+      <p>写在前面
+
+
+  本文中提及的申请人为澳洲公民或者永久居民，不适用于国际学生。
+  本文中提及的TAFE及相关课程，均位于西澳大利亚（Western Australia），暂不涉及澳大利亚其他地区。
+  TAFE入学的流程为：申请（Apply）、注册（Enrol）、入学（Entry... <span class="read_more">Read More</span></p>
+    </a>
+  </div>
+  <div class="post-tags"><a class="post-tag" href="/jekyll-theme-yat/tags.html#澳大利亚">#澳大利亚</a><a class="post-tag" href="/jekyll-theme-yat/tags.html#TAFE">#TAFE</a></div>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li class="post-item ">
+  <h2 class="post-title">
+    <a class="post-link" href="/jekyll-theme-yat/%E6%8A%95%E8%B5%84%E7%90%86%E8%B4%A2/2024/06/25/transfer-personal-contribution-to-my-super-to-get-a-government-co-contribution.html">
+      政府养老金补贴：财年结束前，我给Super转入了1000澳元<span class="post-badges">
+  <span class="post-badge badge-top">TOP</span>
+  <span class="post-badge badge-new">NEW</span>
+</span>
+</a>
+  </h2>
+  <div class="post-meta">
+    <span class="post-date"><i class="fa fa-calendar"></i> Jun 25, 2024</span><span class="post-author left-vsplit"><i class="fa fa-pencil"></i> Oz Explorer</span><span class="post-reading-time left-vsplit"><i class="fa fa-clock-o"></i> About 5 mins</span>
+  </div>
+  <div class="post-excerpt"><a  class="post-image" href="/jekyll-theme-yat/%E6%8A%95%E8%B5%84%E7%90%86%E8%B4%A2/2024/06/25/transfer-personal-contribution-to-my-super-to-get-a-government-co-contribution.html" style="flex: 0 1 38.2%">
+      <div style="background-image: url(/jekyll-theme-yat/assets/images/2024/202406251.jpg); height: 160px"></div>
+    </a><a class="post-text" href="/jekyll-theme-yat/%E6%8A%95%E8%B5%84%E7%90%86%E8%B4%A2/2024/06/25/transfer-personal-contribution-to-my-super-to-get-a-government-co-contribution.html">
+      <p>澳洲的财年是每年的7月1日至次年的6月30日，所以很多商家都会赶在财年的最后一个月，搞EOFY促销（End of Financial Year Deal）。
+
+ATO（Australian Taxation Office，澳大利亚税务局）也有属于它自己的EOFY活动，那就是Supe... <span class="read_more">Read More</span></p>
+    </a>
+  </div>
+  <div class="post-tags"><a class="post-tag" href="/jekyll-theme-yat/tags.html#Super">#Super</a><a class="post-tag" href="/jekyll-theme-yat/tags.html#税务">#税务</a></div>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li class="post-item ">
+  <h2 class="post-title">
+    <a class="post-link" href="/jekyll-theme-yat/%E6%BE%B3%E6%B4%B2%E7%94%9F%E6%B4%BB/2024/06/19/the-electricity-supply-charge-is-much-more-expensive-than-usage-charge.html">
+      电费账单出来了，服务费比电费还贵<span class="post-badges">
+  <span class="post-badge badge-top">TOP</span>
+  <span class="post-badge badge-new">NEW</span>
+</span>
+</a>
+  </h2>
+  <div class="post-meta">
+    <span class="post-date"><i class="fa fa-calendar"></i> Jun 19, 2024</span><span class="post-author left-vsplit"><i class="fa fa-pencil"></i> Oz Explorer</span><span class="post-reading-time left-vsplit"><i class="fa fa-clock-o"></i> About 2 mins</span>
+  </div>
+  <div class="post-excerpt"><a  class="post-image" href="/jekyll-theme-yat/%E6%BE%B3%E6%B4%B2%E7%94%9F%E6%B4%BB/2024/06/19/the-electricity-supply-charge-is-much-more-expensive-than-usage-charge.html" style="flex: 0 1 38.2%">
+      <div style="background-image: url(/jekyll-theme-yat/assets/images/2024/202406191.png); height: 160px"></div>
+    </a><a class="post-text" href="/jekyll-theme-yat/%E6%BE%B3%E6%B4%B2%E7%94%9F%E6%B4%BB/2024/06/19/the-electricity-supply-charge-is-much-more-expensive-than-usage-charge.html">
+      <p>前两天，我收到了Synergy通过电子邮件发送的电费账单，从4月11日到6月13日，一共用了141 kWh，需要支付大约114澳元。
+
+仔细查看账单明细，我发现电力服务费比电费还贵。
+
+
+
+我们家使用的电力公司是Synergy，一开始没有深思熟虑，想着快点通上电好搬家，就直接选择了Home ... <span class="read_more">Read More</span></p>
+    </a>
+  </div>
+  <div class="post-tags"><a class="post-tag" href="/jekyll-theme-yat/tags.html#澳大利亚">#澳大利亚</a><a class="post-tag" href="/jekyll-theme-yat/tags.html#租房">#租房</a><a class="post-tag" href="/jekyll-theme-yat/tags.html#移民">#移民</a><a class="post-tag" href="/jekyll-theme-yat/tags.html#电费">#电费</a></div>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li class="post-item ">
+  <h2 class="post-title">
+    <a class="post-link" href="/jekyll-theme-yat/%E6%8A%95%E8%B5%84%E7%90%86%E8%B4%A2/2024/06/18/earn-up-to-5.50-on-ubank-saving-account.html">
+      Ubank银行活期存款利率提升至5.50%<span class="post-badges">
+  <span class="post-badge badge-top">TOP</span>
+  <span class="post-badge badge-new">NEW</span>
+</span>
+</a>
+  </h2>
+  <div class="post-meta">
+    <span class="post-date"><i class="fa fa-calendar"></i> Jun 18, 2024</span><span class="post-author left-vsplit"><i class="fa fa-pencil"></i> Oz Explorer</span><span class="post-reading-time left-vsplit"><i class="fa fa-clock-o"></i> About 2 mins</span>
+  </div>
+  <div class="post-excerpt"><a  class="post-image" href="/jekyll-theme-yat/%E6%8A%95%E8%B5%84%E7%90%86%E8%B4%A2/2024/06/18/earn-up-to-5.50-on-ubank-saving-account.html" style="flex: 0 1 38.2%">
+      <div style="background-image: url(/jekyll-theme-yat/assets/images/2024/202406180.png); height: 160px"></div>
+    </a><a class="post-text" href="/jekyll-theme-yat/%E6%8A%95%E8%B5%84%E7%90%86%E8%B4%A2/2024/06/18/earn-up-to-5.50-on-ubank-saving-account.html">
+      <p>6月18日，NAB旗下的数字银行Ubank宣布，储蓄账户的活期存款利率自7月1日起上调至5.50%。
+
+
+
+目前，Ubank的活期存款利率是5.10%，最高金额为25万澳元。锁定这个利率的方式，是每月从外部银行账户转入200澳元。
+
+调整后的存款利率从5.10%上涨到5.50%，... <span class="read_more">Read More</span></p>
+    </a>
+  </div>
+  <div class="post-tags"><a class="post-tag" href="/jekyll-theme-yat/tags.html#存款利率">#存款利率</a></div>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li class="post-item ">
+  <h2 class="post-title">
+    <a class="post-link" href="/jekyll-theme-yat/%E6%BE%B3%E6%B4%B2%E7%94%9F%E6%B4%BB/2024/06/15/how-to-quickly-identify-the-value-of-australian-coins.html">
+      如何快速分辨澳大利亚的现金面值？<span class="post-badges">
+  <span class="post-badge badge-top">TOP</span>
+  <span class="post-badge badge-new">NEW</span>
+</span>
+</a>
+  </h2>
+  <div class="post-meta">
+    <span class="post-date"><i class="fa fa-calendar"></i> Jun 15, 2024</span><span class="post-author left-vsplit"><i class="fa fa-pencil"></i> Oz Explorer</span><span class="post-reading-time left-vsplit"><i class="fa fa-clock-o"></i> About 4 mins</span>
+  </div>
+  <div class="post-excerpt"><a  class="post-image" href="/jekyll-theme-yat/%E6%BE%B3%E6%B4%B2%E7%94%9F%E6%B4%BB/2024/06/15/how-to-quickly-identify-the-value-of-australian-coins.html" style="flex: 0 1 38.2%">
+      <div style="background-image: url(/jekyll-theme-yat/assets/images/2024/202406150.jpg); height: 160px"></div>
+    </a><a class="post-text" href="/jekyll-theme-yat/%E6%BE%B3%E6%B4%B2%E7%94%9F%E6%B4%BB/2024/06/15/how-to-quickly-identify-the-value-of-australian-coins.html">
+      <p>
+
+今天，我来分享一下澳大利亚的货币体系，以及如何准确、快速地分辨澳大利亚的现金面值。
+
+澳大利亚的货币简史
+
+当前，澳大利亚元（Australian Dollar，简写A$或AUD），是澳大利亚通货的基本单位。
+
+但这并非一直如此，回顾历史，澳大利亚的货币史大概分为四个时期：... <span class="read_more">Read More</span></p>
+    </a>
+  </div>
+  <div class="post-tags"><a class="post-tag" href="/jekyll-theme-yat/tags.html#澳大利亚">#澳大利亚</a></div>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li class="post-item ">
+  <h2 class="post-title">
+    <a class="post-link" href="/jekyll-theme-yat/%E7%BE%8A%E6%AF%9B%E6%94%BB%E7%95%A5/2024/06/07/what-is-the-rain-check-in-australia.html">
+      澳大利亚的Rain Check是什么？<span class="post-badges">
+  <span class="post-badge badge-top">TOP</span>
+  <span class="post-badge badge-new">NEW</span>
+</span>
+</a>
+  </h2>
+  <div class="post-meta">
+    <span class="post-date"><i class="fa fa-calendar"></i> Jun 07, 2024</span><span class="post-author left-vsplit"><i class="fa fa-pencil"></i> Oz Explorer</span><span class="post-reading-time left-vsplit"><i class="fa fa-clock-o"></i> About 2 mins</span>
+  </div>
+  <div class="post-excerpt"><a  class="post-image" href="/jekyll-theme-yat/%E7%BE%8A%E6%AF%9B%E6%94%BB%E7%95%A5/2024/06/07/what-is-the-rain-check-in-australia.html" style="flex: 0 1 38.2%">
+      <div style="background-image: url(/jekyll-theme-yat/assets/images/2024/202406071.jpg); height: 160px"></div>
+    </a><a class="post-text" href="/jekyll-theme-yat/%E7%BE%8A%E6%AF%9B%E6%94%BB%E7%95%A5/2024/06/07/what-is-the-rain-check-in-australia.html">
+      <p>最近，Coles正在进行线上25周年的活动，同时还在进行连续四周消费50澳元赠送1万积点的活动，我都兴致勃勃地参加了。
+
+我喜欢研究规则，而且我发现如果你不按照规则参加活动，那些语义不明的宣传语总会让你不小心踩坑。所以我认真地阅读了活动条款。
+
+我在其中注意到有一句话：No Raincheck... <span class="read_more">Read More</span></p>
+    </a>
+  </div>
+  <div class="post-tags"><a class="post-tag" href="/jekyll-theme-yat/tags.html#澳大利亚">#澳大利亚</a></div>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li class="post-item ">
+  <h2 class="post-title">
+    <a class="post-link" href="/jekyll-theme-yat/%E6%8A%95%E8%B5%84%E7%90%86%E8%B4%A2/2024/05/29/nvda-is-crazy.html">
+      疯狂的英伟达，疯狂的股价<span class="post-badges">
+  <span class="post-badge badge-top">TOP</span>
+  <span class="post-badge badge-new">NEW</span>
+</span>
+</a>
+  </h2>
+  <div class="post-meta">
+    <span class="post-date"><i class="fa fa-calendar"></i> May 29, 2024</span><span class="post-author left-vsplit"><i class="fa fa-pencil"></i> Oz Explorer</span><span class="post-reading-time left-vsplit"><i class="fa fa-clock-o"></i> About 1 min</span>
+  </div>
+  <div class="post-excerpt"><a  class="post-image" href="/jekyll-theme-yat/%E6%8A%95%E8%B5%84%E7%90%86%E8%B4%A2/2024/05/29/nvda-is-crazy.html" style="flex: 0 1 38.2%">
+      <div style="background-image: url(/jekyll-theme-yat/assets/images/2024/202405291.png); height: 160px"></div>
+    </a><a class="post-text" href="/jekyll-theme-yat/%E6%8A%95%E8%B5%84%E7%90%86%E8%B4%A2/2024/05/29/nvda-is-crazy.html">
+      <p>上个月看到Webull（微牛）在做新用户活动，开户就可以获得美股奖励，于是就在APP上很方便地开户了。
+
+当天我转入1000澳元达标后，立即就赠送了价值50澳元的股票，按照美元计算，大概31.56美元，最终以830.41美元每股的价格，成交了0.038支英伟达股票（NVDA）... <span class="read_more">Read More</span></p>
+    </a>
+  </div>
+  <div class="post-tags"><a class="post-tag" href="/jekyll-theme-yat/tags.html#美股">#美股</a></div>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li class="post-item ">
+  <h2 class="post-title">
+    <a class="post-link" href="/jekyll-theme-yat/%E7%BE%8A%E6%AF%9B%E6%94%BB%E7%95%A5/2024/05/18/700-dollars-energy-rebates-for-every-household-in-wa.html">
+      2024-25财年澳洲预算出炉，700刀电费补贴即将到账<span class="post-badges">
+  <span class="post-badge badge-top">TOP</span>
+  <span class="post-badge badge-new">NEW</span>
+</span>
+</a>
+  </h2>
+  <div class="post-meta">
+    <span class="post-date"><i class="fa fa-calendar"></i> May 18, 2024</span><span class="post-author left-vsplit"><i class="fa fa-pencil"></i> Oz Explorer</span><span class="post-reading-time left-vsplit"><i class="fa fa-clock-o"></i> About 2 mins</span>
+  </div>
+  <div class="post-excerpt"><a  class="post-image" href="/jekyll-theme-yat/%E7%BE%8A%E6%AF%9B%E6%94%BB%E7%95%A5/2024/05/18/700-dollars-energy-rebates-for-every-household-in-wa.html" style="flex: 0 1 38.2%">
+      <div style="background-image: url(/jekyll-theme-yat/assets/images/2024/202405201.jpg); height: 160px"></div>
+    </a><a class="post-text" href="/jekyll-theme-yat/%E7%BE%8A%E6%AF%9B%E6%94%BB%E7%95%A5/2024/05/18/700-dollars-energy-rebates-for-every-household-in-wa.html">
+      <p>最近，西澳州政府和澳大利亚联邦政府相继出炉了2024-2025财年的政府预算（Budget），新闻媒体和网络上吵闹不断，但我关注到一个还算不错的福利。
+
+——电费补贴。
+
+
+
+根据西澳州政府的预算显示，2024-25财年，州政府将推出生活成本支持举措，投入4.92亿澳元，面向所... <span class="read_more">Read More</span></p>
+    </a>
+  </div>
+  <div class="post-tags"><a class="post-tag" href="/jekyll-theme-yat/tags.html#购物优惠">#购物优惠</a><a class="post-tag" href="/jekyll-theme-yat/tags.html#租房">#租房</a></div>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li class="post-item ">
+  <h2 class="post-title">
+    <a class="post-link" href="/jekyll-theme-yat/%E7%BE%8A%E6%AF%9B%E6%94%BB%E7%95%A5/2024/05/17/get-50-percent-off-an-woolworths-extra-annual-plan.html">
+      半价开通Woolworths Extra会员：每月两次9折+双倍积分<span class="post-badges">
+  <span class="post-badge badge-top">TOP</span>
+  <span class="post-badge badge-new">NEW</span>
+</span>
+</a>
+  </h2>
+  <div class="post-meta">
+    <span class="post-date"><i class="fa fa-calendar"></i> May 17, 2024</span><span class="post-author left-vsplit"><i class="fa fa-pencil"></i> Oz Explorer</span><span class="post-reading-time left-vsplit"><i class="fa fa-clock-o"></i> About 2 mins</span>
+  </div>
+  <div class="post-excerpt"><a  class="post-image" href="/jekyll-theme-yat/%E7%BE%8A%E6%AF%9B%E6%94%BB%E7%95%A5/2024/05/17/get-50-percent-off-an-woolworths-extra-annual-plan.html" style="flex: 0 1 38.2%">
+      <div style="background-image: url(/jekyll-theme-yat/assets/images/2024/202405171.png); height: 160px"></div>
+    </a><a class="post-text" href="/jekyll-theme-yat/%E7%BE%8A%E6%AF%9B%E6%94%BB%E7%95%A5/2024/05/17/get-50-percent-off-an-woolworths-extra-annual-plan.html">
+      <p>在《如何最大限度获得Woolworths优惠》的文章里，我介绍了Woolworths的Everyday Rewards会员的规则：每消费1澳元，即可获得1积分；每2000积分，可抵扣10澳元；或兑换为澳洲航空常旅客（QANTAS）1000积分。
+
+同时，如果在Rewards会员... <span class="read_more">Read More</span></p>
+    </a>
+  </div>
+  <div class="post-tags"><a class="post-tag" href="/jekyll-theme-yat/tags.html#购物优惠">#购物优惠</a></div>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li class="post-item ">
+  <h2 class="post-title">
+    <a class="post-link" href="/jekyll-theme-yat/%E6%BE%B3%E6%B4%B2%E7%94%9F%E6%B4%BB/2024/05/16/get-refund-from-amazon.html">
+      亚马逊快递不慎被偷，客服竟然直接退款了<span class="post-badges">
+  <span class="post-badge badge-top">TOP</span>
+  <span class="post-badge badge-new">NEW</span>
+</span>
+</a>
+  </h2>
+  <div class="post-meta">
+    <span class="post-date"><i class="fa fa-calendar"></i> May 16, 2024</span><span class="post-author left-vsplit"><i class="fa fa-pencil"></i> Oz Explorer</span><span class="post-reading-time left-vsplit"><i class="fa fa-clock-o"></i> About 2 mins</span>
+  </div>
+  <div class="post-excerpt"><a  class="post-image" href="/jekyll-theme-yat/%E6%BE%B3%E6%B4%B2%E7%94%9F%E6%B4%BB/2024/05/16/get-refund-from-amazon.html" style="flex: 0 1 38.2%">
+      <div style="background-image: url(/jekyll-theme-yat/assets/images/2024/202405161.jpg); height: 160px"></div>
+    </a><a class="post-text" href="/jekyll-theme-yat/%E6%BE%B3%E6%B4%B2%E7%94%9F%E6%B4%BB/2024/05/16/get-refund-from-amazon.html">
+      <p>最近我在亚马逊上购买了Vittoria品牌的咖啡胶囊，这款胶囊在Vittoria官方网站卖13澳元，亚马逊卖9澳元，便宜不少，我也是第二次下单了。
+
+之前在亚马逊的购物经历都很顺利，送货员给我联系后，我当面取货。但这次我没有在家，送货员打来电话，我说直接扔进院子里吧。
+
+送... <span class="read_more">Read More</span></p>
+    </a>
+  </div>
+  <div class="post-tags"><a class="post-tag" href="/jekyll-theme-yat/tags.html#澳大利亚">#澳大利亚</a><a class="post-tag" href="/jekyll-theme-yat/tags.html#购物优惠">#购物优惠</a></div>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li class="post-item ">
+  <h2 class="post-title">
+    <a class="post-link" href="/jekyll-theme-yat/%E6%BE%B3%E6%B4%B2%E7%94%9F%E6%B4%BB/2024/05/14/what-is-the-justice-of-the-peace-in-australia.html">
+      澳大利亚的Justice of the Peace是什么？<span class="post-badges">
+  <span class="post-badge badge-top">TOP</span>
+  <span class="post-badge badge-new">NEW</span>
+</span>
+</a>
+  </h2>
+  <div class="post-meta">
+    <span class="post-date"><i class="fa fa-calendar"></i> May 14, 2024</span><span class="post-author left-vsplit"><i class="fa fa-pencil"></i> Oz Explorer</span><span class="post-reading-time left-vsplit"><i class="fa fa-clock-o"></i> About 3 mins</span>
+  </div>
+  <div class="post-excerpt"><a  class="post-image" href="/jekyll-theme-yat/%E6%BE%B3%E6%B4%B2%E7%94%9F%E6%B4%BB/2024/05/14/what-is-the-justice-of-the-peace-in-australia.html" style="flex: 0 1 38.2%">
+      <div style="background-image: url(/jekyll-theme-yat/assets/images/2024/202405141.png); height: 160px"></div>
+    </a><a class="post-text" href="/jekyll-theme-yat/%E6%BE%B3%E6%B4%B2%E7%94%9F%E6%B4%BB/2024/05/14/what-is-the-justice-of-the-peace-in-australia.html">
+      <p>
+
+最近，我有一些文件需要在澳洲认证，以获得“Certified Copy”（认证副本）。这要求我去寻找具有相关认证资格的专业人士，比如Justice of the Peace、药剂师、护士、警察、律师等等。
+
+不同于在中国需要提供给公证处很多证明材料，并支付认证费，我只是带了原件（O... <span class="read_more">Read More</span></p>
+    </a>
+  </div>
+  <div class="post-tags"><a class="post-tag" href="/jekyll-theme-yat/tags.html#澳大利亚">#澳大利亚</a></div>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li class="post-item ">
+  <h2 class="post-title">
+    <a class="post-link" href="/jekyll-theme-yat/%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0/2024/05/07/notes-of-tax-myth-busting-economics-australia.html">
+      关心工资，也要关注经济：《Myth-Busting Economics》阅读笔记<span class="post-badges">
+  <span class="post-badge badge-top">TOP</span>
+  <span class="post-badge badge-new">NEW</span>
+</span>
+</a>
+  </h2>
+  <div class="post-meta">
+    <span class="post-date"><i class="fa fa-calendar"></i> May 07, 2024</span><span class="post-author left-vsplit"><i class="fa fa-pencil"></i> Oz Explorer</span><span class="post-reading-time left-vsplit"><i class="fa fa-clock-o"></i> About 7 mins</span>
+  </div>
+  <div class="post-excerpt"><a  class="post-image" href="/jekyll-theme-yat/%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0/2024/05/07/notes-of-tax-myth-busting-economics-australia.html" style="flex: 0 1 38.2%">
+      <div style="background-image: url(/jekyll-theme-yat/assets/images/2024/202405071.jpg); height: 160px"></div>
+    </a><a class="post-text" href="/jekyll-theme-yat/%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0/2024/05/07/notes-of-tax-myth-busting-economics-australia.html">
+      <p>人们关心生活成本不断增加，却丝毫不在意养老金投资表现和费用？关心工资是增长还是下调，却不关注政府预算中的公共支出？
+
+在《Myth-Busting Economics: A No-nonsense Guide to Your Money, Your Business and t... <span class="read_more">Read More</span></p>
+    </a>
+  </div>
+  <div class="post-tags"><a class="post-tag" href="/jekyll-theme-yat/tags.html#澳大利亚">#澳大利亚</a><a class="post-tag" href="/jekyll-theme-yat/tags.html#投资理财">#投资理财</a></div>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li class="post-item ">
+  <h2 class="post-title">
+    <a class="post-link" href="/jekyll-theme-yat/%E6%BE%B3%E6%B4%B2%E7%94%9F%E6%B4%BB/2024/05/02/review-of-amazon-fire-tv-stick.html">
+      亚马逊电视棒（Fire TV Stick）使用体验<span class="post-badges">
+  <span class="post-badge badge-top">TOP</span>
+  <span class="post-badge badge-new">NEW</span>
+</span>
+</a>
+  </h2>
+  <div class="post-meta">
+    <span class="post-date"><i class="fa fa-calendar"></i> May 02, 2024</span><span class="post-author left-vsplit"><i class="fa fa-pencil"></i> Oz Explorer</span><span class="post-reading-time left-vsplit"><i class="fa fa-clock-o"></i> About 6 mins</span>
+  </div>
+  <div class="post-excerpt"><a  class="post-image" href="/jekyll-theme-yat/%E6%BE%B3%E6%B4%B2%E7%94%9F%E6%B4%BB/2024/05/02/review-of-amazon-fire-tv-stick.html" style="flex: 0 1 38.2%">
+      <div style="background-image: url(/jekyll-theme-yat/assets/images/2024/202405023.png); height: 160px"></div>
+    </a><a class="post-text" href="/jekyll-theme-yat/%E6%BE%B3%E6%B4%B2%E7%94%9F%E6%B4%BB/2024/05/02/review-of-amazon-fire-tv-stick.html">
+      <p>搬来澳洲以后，看视频主要通过两种方式：一是使用iPad看B站或者Youtube；二是使用公寓自带的电视机看电视直播。
+
+前者屏幕太小，后者不能点播，所以我总想着买个电视盒子，把房东的老式电视“升级”成互联网电视。
+
+前段时间，刚好看到了Amazon AU做促销活动，它家的Fire TV ... <span class="read_more">Read More</span></p>
+    </a>
+  </div>
+  <div class="post-tags"><a class="post-tag" href="/jekyll-theme-yat/tags.html#产品测评">#产品测评</a></div>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li class="post-item ">
+  <h2 class="post-title">
+    <a class="post-link" href="/jekyll-theme-yat/%E6%BE%B3%E6%B4%B2%E7%94%9F%E6%B4%BB/2024/04/26/my-first-time-being-checked-on-a-bus-in-australia.html">
+      第一次在澳洲公交车上被交警检票<span class="post-badges">
+  <span class="post-badge badge-top">TOP</span>
+  <span class="post-badge badge-new">NEW</span>
+</span>
+</a>
+  </h2>
+  <div class="post-meta">
+    <span class="post-date"><i class="fa fa-calendar"></i> Apr 26, 2024</span><span class="post-author left-vsplit"><i class="fa fa-pencil"></i> Oz Explorer</span><span class="post-reading-time left-vsplit"><i class="fa fa-clock-o"></i> About 3 mins</span>
+  </div>
+  <div class="post-excerpt"><a  class="post-image" href="/jekyll-theme-yat/%E6%BE%B3%E6%B4%B2%E7%94%9F%E6%B4%BB/2024/04/26/my-first-time-being-checked-on-a-bus-in-australia.html" style="flex: 0 1 38.2%">
+      <div style="background-image: url(/jekyll-theme-yat/assets/images/2024/202404261.jpg); height: 160px"></div>
+    </a><a class="post-text" href="/jekyll-theme-yat/%E6%BE%B3%E6%B4%B2%E7%94%9F%E6%B4%BB/2024/04/26/my-first-time-being-checked-on-a-bus-in-australia.html">
+      <p>4月25日是ANZAC DAY（澳新军团日），是澳大利亚和新西兰为了广泛纪念所有澳大利亚人以及“在所有战争、冲突和维和行动中服役和牺牲的新西兰人”以及“所有服役人员的贡献和痛苦”，设立的全国性纪念日。
+
+我也去凑凑热闹，前往City观摩了军团列队游行。结束后，我乘坐了公交车返回... <span class="read_more">Read More</span></p>
+    </a>
+  </div>
+  <div class="post-tags"><a class="post-tag" href="/jekyll-theme-yat/tags.html#澳大利亚">#澳大利亚</a></div>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li class="post-item ">
+  <h2 class="post-title">
+    <a class="post-link" href="/jekyll-theme-yat/%E6%BE%B3%E6%B4%B2%E7%94%9F%E6%B4%BB/2024/04/22/the-monthly-living-expenses-of-couples-in-australia.html">
+      两人家庭在澳洲生活的月度开销<span class="post-badges">
+  <span class="post-badge badge-top">TOP</span>
+  <span class="post-badge badge-new">NEW</span>
+</span>
+</a>
+  </h2>
+  <div class="post-meta">
+    <span class="post-date"><i class="fa fa-calendar"></i> Apr 22, 2024</span><span class="post-author left-vsplit"><i class="fa fa-pencil"></i> Oz Explorer</span><span class="post-reading-time left-vsplit"><i class="fa fa-clock-o"></i> About 3 mins</span>
+  </div>
+  <div class="post-excerpt"><a  class="post-image" href="/jekyll-theme-yat/%E6%BE%B3%E6%B4%B2%E7%94%9F%E6%B4%BB/2024/04/22/the-monthly-living-expenses-of-couples-in-australia.html" style="flex: 0 1 38.2%">
+      <div style="background-image: url(/jekyll-theme-yat/assets/images/2024/202404221.png); height: 160px"></div>
+    </a><a class="post-text" href="/jekyll-theme-yat/%E6%BE%B3%E6%B4%B2%E7%94%9F%E6%B4%BB/2024/04/22/the-monthly-living-expenses-of-couples-in-australia.html">
+      <p>不知不觉已经在澳洲生活了一个半月，不管是租房和医疗，还是杂七杂八的其他生活事项，都逐渐在混乱中找寻到了秩序感。
+
+我的MBTI人格是“INFJ”：作为一个I人，我丝毫没有感受到许多人所抱怨的“好山好水好无聊”，反而觉得这种平和、缓慢的生活让我舒服；作为一个J人，我习惯于把很多... <span class="read_more">Read More</span></p>
+    </a>
+  </div>
+  <div class="post-tags"><a class="post-tag" href="/jekyll-theme-yat/tags.html#澳大利亚">#澳大利亚</a><a class="post-tag" href="/jekyll-theme-yat/tags.html#移民">#移民</a></div>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li class="post-item ">
+  <h2 class="post-title">
+    <a class="post-link" href="/jekyll-theme-yat/%E6%BE%B3%E6%B4%B2%E7%94%9F%E6%B4%BB/2024/04/20/future-made-in-australia-act-and-the-history-of-australian-auto-industry.html">
+      如何看待澳大利亚新产业激励政策？<span class="post-badges">
+  <span class="post-badge badge-top">TOP</span>
+  <span class="post-badge badge-new">NEW</span>
+</span>
+</a>
+  </h2>
+  <div class="post-meta">
+    <span class="post-date"><i class="fa fa-calendar"></i> Apr 20, 2024</span><span class="post-author left-vsplit"><i class="fa fa-pencil"></i> Oz Explorer</span><span class="post-reading-time left-vsplit"><i class="fa fa-clock-o"></i> About 5 mins</span>
+  </div>
+  <div class="post-excerpt"><a  class="post-image" href="/jekyll-theme-yat/%E6%BE%B3%E6%B4%B2%E7%94%9F%E6%B4%BB/2024/04/20/future-made-in-australia-act-and-the-history-of-australian-auto-industry.html" style="flex: 0 1 38.2%">
+      <div style="background-image: url(/jekyll-theme-yat/assets/images/2024/202404201.jpg); height: 160px"></div>
+    </a><a class="post-text" href="/jekyll-theme-yat/%E6%BE%B3%E6%B4%B2%E7%94%9F%E6%B4%BB/2024/04/20/future-made-in-australia-act-and-the-history-of-australian-auto-industry.html">
+      <p>澳大利亚未来制造法案
+
+4月11日，澳大利亚总理Anthony Albanese宣布推出旨在与世界竞争的新产业激励政策（Future Made in Australia Act）。
+
+面对这一轮“环保产业热潮”（green rush），美国率先推出《通胀削减法案》（Inflat... <span class="read_more">Read More</span></p>
+    </a>
+  </div>
+  <div class="post-tags"><a class="post-tag" href="/jekyll-theme-yat/tags.html#澳大利亚">#澳大利亚</a><a class="post-tag" href="/jekyll-theme-yat/tags.html#时政评论">#时政评论</a></div>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li class="post-item ">
+  <h2 class="post-title">
+    <a class="post-link" href="/jekyll-theme-yat/%E7%BE%8A%E6%AF%9B%E6%94%BB%E7%95%A5/2024/04/19/how-to-transfer-money-overseas-into-your-australian-bank-account.html">
+      强烈建议通过这种方式跨境汇款到澳洲<span class="post-badges">
+  <span class="post-badge badge-top">TOP</span>
+  <span class="post-badge badge-new">NEW</span>
+</span>
+</a>
+  </h2>
+  <div class="post-meta">
+    <span class="post-date"><i class="fa fa-calendar"></i> Apr 19, 2024</span><span class="post-author left-vsplit"><i class="fa fa-pencil"></i> Oz Explorer</span><span class="post-reading-time left-vsplit"><i class="fa fa-clock-o"></i> About 4 mins</span>
+  </div>
+  <div class="post-excerpt"><a  class="post-image" href="/jekyll-theme-yat/%E7%BE%8A%E6%AF%9B%E6%94%BB%E7%95%A5/2024/04/19/how-to-transfer-money-overseas-into-your-australian-bank-account.html" style="flex: 0 1 38.2%">
+      <div style="background-image: url(/jekyll-theme-yat/assets/images/2024/202404191.jpg); height: 160px"></div>
+    </a><a class="post-text" href="/jekyll-theme-yat/%E7%BE%8A%E6%AF%9B%E6%94%BB%E7%95%A5/2024/04/19/how-to-transfer-money-overseas-into-your-australian-bank-account.html">
+      <p>在澳洲，如果是短期旅游，你完全可以在现钞之外，使用国内的信用卡，不管是银联还是Visa、Mastercard，只要商店的POS机支持，你都可以消费后，在账单日通过人民币还款，免去了携带现金的麻烦。
+
+但如果你是长期生活，不管是学习还是工作，都需要用到澳元，也就无法避免地要去购... <span class="read_more">Read More</span></p>
+    </a>
+  </div>
+  <div class="post-tags"><a class="post-tag" href="/jekyll-theme-yat/tags.html#澳大利亚">#澳大利亚</a><a class="post-tag" href="/jekyll-theme-yat/tags.html#购物优惠">#购物优惠</a><a class="post-tag" href="/jekyll-theme-yat/tags.html#移民">#移民</a></div>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li class="post-item ">
+  <h2 class="post-title">
+    <a class="post-link" href="/jekyll-theme-yat/%E6%BE%B3%E6%B4%B2%E7%94%9F%E6%B4%BB/2024/04/16/joined-a-private-health-insurance-to-avoid-medicare-levy-surcharge.html">
+      为了豁免Medicare Levy Surcharge，我们办理了Bupa私人保险<span class="post-badges">
+  <span class="post-badge badge-top">TOP</span>
+  <span class="post-badge badge-new">NEW</span>
+</span>
+</a>
+  </h2>
+  <div class="post-meta">
+    <span class="post-date"><i class="fa fa-calendar"></i> Apr 16, 2024</span><span class="post-author left-vsplit"><i class="fa fa-pencil"></i> Oz Explorer</span><span class="post-reading-time left-vsplit"><i class="fa fa-clock-o"></i> About 5 mins</span>
+  </div>
+  <div class="post-excerpt"><a  class="post-image" href="/jekyll-theme-yat/%E6%BE%B3%E6%B4%B2%E7%94%9F%E6%B4%BB/2024/04/16/joined-a-private-health-insurance-to-avoid-medicare-levy-surcharge.html" style="flex: 0 1 38.2%">
+      <div style="background-image: url(/jekyll-theme-yat/assets/images/2024/202404161.jpg); height: 160px"></div>
+    </a><a class="post-text" href="/jekyll-theme-yat/%E6%BE%B3%E6%B4%B2%E7%94%9F%E6%B4%BB/2024/04/16/joined-a-private-health-insurance-to-avoid-medicare-levy-surcharge.html">
+      <p>在我之前的文章里，我聊过我们日常生活中的消费税以及省税相关的书籍，最近我刚好办理完成了私人保险（Private Health Insurance），在此分享一下办理过程，以及为什么要办理。
+
+办理保险的过程，也是学习的过程
+
+澳洲有很多私人保险提供商，较为知名的包括Bupa、Med... <span class="read_more">Read More</span></p>
+    </a>
+  </div>
+  <div class="post-tags"><a class="post-tag" href="/jekyll-theme-yat/tags.html#澳大利亚">#澳大利亚</a><a class="post-tag" href="/jekyll-theme-yat/tags.html#Medicare">#Medicare</a><a class="post-tag" href="/jekyll-theme-yat/tags.html#移民">#移民</a></div>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li class="post-item ">
+  <h2 class="post-title">
+    <a class="post-link" href="/jekyll-theme-yat/%E6%BE%B3%E6%B4%B2%E7%94%9F%E6%B4%BB/2024/04/11/my-first-time-using-medicare-in-australia.html">
+      第一次使用Medicare在澳洲看病买药<span class="post-badges">
+  <span class="post-badge badge-top">TOP</span>
+  <span class="post-badge badge-new">NEW</span>
+</span>
+</a>
+  </h2>
+  <div class="post-meta">
+    <span class="post-date"><i class="fa fa-calendar"></i> Apr 11, 2024</span><span class="post-author left-vsplit"><i class="fa fa-pencil"></i> Oz Explorer</span><span class="post-reading-time left-vsplit"><i class="fa fa-clock-o"></i> About 2 mins</span>
+  </div>
+  <div class="post-excerpt"><a  class="post-image" href="/jekyll-theme-yat/%E6%BE%B3%E6%B4%B2%E7%94%9F%E6%B4%BB/2024/04/11/my-first-time-using-medicare-in-australia.html" style="flex: 0 1 38.2%">
+      <div style="background-image: url(/jekyll-theme-yat/assets/images/2024/20240411-0.jpg); height: 160px"></div>
+    </a><a class="post-text" href="/jekyll-theme-yat/%E6%BE%B3%E6%B4%B2%E7%94%9F%E6%B4%BB/2024/04/11/my-first-time-using-medicare-in-australia.html">
+      <p>
+
+最近，我预约了GP（General Practice）面诊，这是我拿到Medicare以后第一次去诊所。
+
+澳洲的全科医生GP的收费方式分为两种：一种可以全额报销Bulk Billing，不需要个人支付；一种是在Medicare报销部分后，仍要个人支付Gap Fee（即GP... <span class="read_more">Read More</span></p>
+    </a>
+  </div>
+  <div class="post-tags"><a class="post-tag" href="/jekyll-theme-yat/tags.html#澳大利亚">#澳大利亚</a><a class="post-tag" href="/jekyll-theme-yat/tags.html#Medicare">#Medicare</a></div>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li class="post-item ">
+  <h2 class="post-title">
+    <a class="post-link" href="/jekyll-theme-yat/%E7%BE%8A%E6%AF%9B%E6%94%BB%E7%95%A5/2024/04/10/how-to-get-the-biggest-discount-from-woolworths.html">
+      如何最大限度获得Woolworths优惠？<span class="post-badges">
+  <span class="post-badge badge-top">TOP</span>
+  <span class="post-badge badge-new">NEW</span>
+</span>
+</a>
+  </h2>
+  <div class="post-meta">
+    <span class="post-date"><i class="fa fa-calendar"></i> Apr 10, 2024</span><span class="post-author left-vsplit"><i class="fa fa-pencil"></i> Oz Explorer</span><span class="post-reading-time left-vsplit"><i class="fa fa-clock-o"></i> About 6 mins</span>
+  </div>
+  <div class="post-excerpt"><a  class="post-image" href="/jekyll-theme-yat/%E7%BE%8A%E6%AF%9B%E6%94%BB%E7%95%A5/2024/04/10/how-to-get-the-biggest-discount-from-woolworths.html" style="flex: 0 1 38.2%">
+      <div style="background-image: url(/jekyll-theme-yat/assets/images/2024/202404101.png); height: 160px"></div>
+    </a><a class="post-text" href="/jekyll-theme-yat/%E7%BE%8A%E6%AF%9B%E6%94%BB%E7%95%A5/2024/04/10/how-to-get-the-biggest-discount-from-woolworths.html">
+      <p>在澳大利亚，Woolworths和Coles两大连锁超市占据着大约65%的市场份额，被称为“双寡头”（Duopoly）。不管是居民、媒体还是经济学家都对此感到愤怒不已，尤其是在通货膨胀的当下，两大超市以何种价格售卖商品，直接影响了居民的生活成本。
+
+尽管如此，这两大超市也依然络绎不... <span class="read_more">Read More</span></p>
+    </a>
+  </div>
+  <div class="post-tags"><a class="post-tag" href="/jekyll-theme-yat/tags.html#澳大利亚">#澳大利亚</a><a class="post-tag" href="/jekyll-theme-yat/tags.html#购物优惠">#购物优惠</a></div>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li class="post-item ">
+  <h2 class="post-title">
+    <a class="post-link" href="/jekyll-theme-yat/%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0/2024/04/08/notes-of-tax-secrets-of-the-rich.html">
+      富人们的省税技巧：《Tax Secrets of the Rich》阅读笔记<span class="post-badges">
+  <span class="post-badge badge-top">TOP</span>
+  <span class="post-badge badge-new">NEW</span>
+</span>
+</a>
+  </h2>
+  <div class="post-meta">
+    <span class="post-date"><i class="fa fa-calendar"></i> Apr 08, 2024</span><span class="post-author left-vsplit"><i class="fa fa-pencil"></i> Oz Explorer</span><span class="post-reading-time left-vsplit"><i class="fa fa-clock-o"></i> About 3 mins</span>
+  </div>
+  <div class="post-excerpt"><a  class="post-image" href="/jekyll-theme-yat/%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0/2024/04/08/notes-of-tax-secrets-of-the-rich.html" style="flex: 0 1 38.2%">
+      <div style="background-image: url(/jekyll-theme-yat/assets/images/2024/202404081.jpg); height: 160px"></div>
+    </a><a class="post-text" href="/jekyll-theme-yat/%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0/2024/04/08/notes-of-tax-secrets-of-the-rich.html">
+      <p>最近，我阅读了《Tax Secrets of the Rich》一书，作者是Allan Mason，一位具有经验丰富的注册会计师和财务顾问。这本书出版于2021年，每年都会更新，如今已经到了2024版本，内容和数据也都有所变化。
+
+
+
+在本书的开篇章节中，作者写道，澳洲政府正面临... <span class="read_more">Read More</span></p>
+    </a>
+  </div>
+  <div class="post-tags"><a class="post-tag" href="/jekyll-theme-yat/tags.html#澳大利亚">#澳大利亚</a><a class="post-tag" href="/jekyll-theme-yat/tags.html#税务">#税务</a></div>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li class="post-item ">
+  <h2 class="post-title">
+    <a class="post-link" href="/jekyll-theme-yat/%E6%BE%B3%E6%B4%B2%E7%94%9F%E6%B4%BB/2024/04/04/received-40-year-anniversary-medicare-card-of-australia.html">
+      顺利收到Medicare四十周年纪念版实体卡<span class="post-badges">
+  <span class="post-badge badge-top">TOP</span>
+  <span class="post-badge badge-new">NEW</span>
+</span>
+</a>
+  </h2>
+  <div class="post-meta">
+    <span class="post-date"><i class="fa fa-calendar"></i> Apr 04, 2024</span><span class="post-author left-vsplit"><i class="fa fa-pencil"></i> Oz Explorer</span><span class="post-reading-time left-vsplit"><i class="fa fa-clock-o"></i> About 4 mins</span>
+  </div>
+  <div class="post-excerpt"><a  class="post-image" href="/jekyll-theme-yat/%E6%BE%B3%E6%B4%B2%E7%94%9F%E6%B4%BB/2024/04/04/received-40-year-anniversary-medicare-card-of-australia.html" style="flex: 0 1 38.2%">
+      <div style="background-image: url(/jekyll-theme-yat/assets/images/2024/202404041.jpg); height: 160px"></div>
+    </a><a class="post-text" href="/jekyll-theme-yat/%E6%BE%B3%E6%B4%B2%E7%94%9F%E6%B4%BB/2024/04/04/received-40-year-anniversary-medicare-card-of-australia.html">
+      <p>昨天打开邮箱，看到了一封白色邮件，摸了摸，两张硬硬的卡片，脑子一转，这应该是Medicare Card，迫不及待地打开看——两张绿色的四十周年纪念版实体卡。
+
+
+
+今天，我来分享一下我在申请Medicare上的经验和体会。
+
+上个月我们登陆并租到公寓以后，我们开始申请Medi... <span class="read_more">Read More</span></p>
+    </a>
+  </div>
+  <div class="post-tags"><a class="post-tag" href="/jekyll-theme-yat/tags.html#澳大利亚">#澳大利亚</a><a class="post-tag" href="/jekyll-theme-yat/tags.html#移民">#移民</a><a class="post-tag" href="/jekyll-theme-yat/tags.html#Medicare">#Medicare</a></div>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li class="post-item ">
+  <h2 class="post-title">
+    <a class="post-link" href="/jekyll-theme-yat/%E6%BE%B3%E6%B4%B2%E7%94%9F%E6%B4%BB/2024/03/30/what-is-the-gst-in-australia.html">
+      澳大利亚的GST是什么？<span class="post-badges">
+  <span class="post-badge badge-top">TOP</span>
+  <span class="post-badge badge-new">NEW</span>
+</span>
+</a>
+  </h2>
+  <div class="post-meta">
+    <span class="post-date"><i class="fa fa-calendar"></i> Mar 30, 2024</span><span class="post-author left-vsplit"><i class="fa fa-pencil"></i> Oz Explorer</span><span class="post-reading-time left-vsplit"><i class="fa fa-clock-o"></i> About 2 mins</span>
+  </div>
+  <div class="post-excerpt"><a  class="post-image" href="/jekyll-theme-yat/%E6%BE%B3%E6%B4%B2%E7%94%9F%E6%B4%BB/2024/03/30/what-is-the-gst-in-australia.html" style="flex: 0 1 38.2%">
+      <div style="background-image: url(/jekyll-theme-yat/assets/images/2024/202403301.jpeg); height: 160px"></div>
+    </a><a class="post-text" href="/jekyll-theme-yat/%E6%BE%B3%E6%B4%B2%E7%94%9F%E6%B4%BB/2024/03/30/what-is-the-gst-in-australia.html">
+      <p>不管在哪里生活，买买买都是很多居民的日常，小到一瓶饮用水，大到一张床垫，我们都要为这些商品付费，在消费过程中也能看到税款。
+
+来到澳大利亚以后，我们经常在Woolworths、Coles以及其他商超购买日用品，不管是电子小票还是纸质小票（Receipt）上，经常看到除了总价（To... <span class="read_more">Read More</span></p>
+    </a>
+  </div>
+  <div class="post-tags"><a class="post-tag" href="/jekyll-theme-yat/tags.html#澳大利亚">#澳大利亚</a><a class="post-tag" href="/jekyll-theme-yat/tags.html#税务">#税务</a></div>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li class="post-item ">
+  <h2 class="post-title">
+    <a class="post-link" href="/jekyll-theme-yat/%E7%BE%8A%E6%AF%9B%E6%94%BB%E7%95%A5/2024/03/26/how-to-get-a-cheaper-moblie-plan-in-australia.html">
+      澳大利亚手机卡独家省钱秘籍<span class="post-badges">
+  <span class="post-badge badge-top">TOP</span>
+  <span class="post-badge badge-new">NEW</span>
+</span>
+</a>
+  </h2>
+  <div class="post-meta">
+    <span class="post-date"><i class="fa fa-calendar"></i> Mar 26, 2024</span><span class="post-author left-vsplit"><i class="fa fa-pencil"></i> Oz Explorer</span><span class="post-reading-time left-vsplit"><i class="fa fa-clock-o"></i> About 4 mins</span>
+  </div>
+  <div class="post-excerpt"><a  class="post-image" href="/jekyll-theme-yat/%E7%BE%8A%E6%AF%9B%E6%94%BB%E7%95%A5/2024/03/26/how-to-get-a-cheaper-moblie-plan-in-australia.html" style="flex: 0 1 38.2%">
+      <div style="background-image: url(/jekyll-theme-yat/assets/images/2024/202403261.jpeg); height: 160px"></div>
+    </a><a class="post-text" href="/jekyll-theme-yat/%E7%BE%8A%E6%AF%9B%E6%94%BB%E7%95%A5/2024/03/26/how-to-get-a-cheaper-moblie-plan-in-australia.html">
+      <p>很多初到澳洲的朋友，都会面临一个澳洲手机号办理的问题。
+
+按照小红书上所谓的“保姆式”教程，你可以在国内先购买一张流量卡，落地后激活使用；或者你可以在机场便利店/电信网点购买手机卡；还有一种不负责任的建议，告诉你需要先去银行办卡，带着开户信去到电信运营商那里，办理套餐。之所以... <span class="read_more">Read More</span></p>
+    </a>
+  </div>
+  <div class="post-tags"><a class="post-tag" href="/jekyll-theme-yat/tags.html#澳大利亚">#澳大利亚</a><a class="post-tag" href="/jekyll-theme-yat/tags.html#手机卡">#手机卡</a><a class="post-tag" href="/jekyll-theme-yat/tags.html#移民">#移民</a></div>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li class="post-item ">
+  <h2 class="post-title">
+    <a class="post-link" href="/jekyll-theme-yat/%E6%BE%B3%E6%B4%B2%E7%94%9F%E6%B4%BB/2024/03/23/differences-in-waste-and-recycling-guide-between-perth-and-shanghai.html">
+      珀斯和上海的垃圾分类要求对比<span class="post-badges">
+  <span class="post-badge badge-top">TOP</span>
+  <span class="post-badge badge-new">NEW</span>
+</span>
+</a>
+  </h2>
+  <div class="post-meta">
+    <span class="post-date"><i class="fa fa-calendar"></i> Mar 23, 2024</span><span class="post-author left-vsplit"><i class="fa fa-pencil"></i> Oz Explorer</span><span class="post-reading-time left-vsplit"><i class="fa fa-clock-o"></i> About 4 mins</span>
+  </div>
+  <div class="post-excerpt"><a  class="post-image" href="/jekyll-theme-yat/%E6%BE%B3%E6%B4%B2%E7%94%9F%E6%B4%BB/2024/03/23/differences-in-waste-and-recycling-guide-between-perth-and-shanghai.html" style="flex: 0 1 38.2%">
+      <div style="background-image: url(/jekyll-theme-yat/assets/images/2024/202403232.jpeg); height: 160px"></div>
+    </a><a class="post-text" href="/jekyll-theme-yat/%E6%BE%B3%E6%B4%B2%E7%94%9F%E6%B4%BB/2024/03/23/differences-in-waste-and-recycling-guide-between-perth-and-shanghai.html">
+      <p>
+
+上海的垃圾分类
+
+在移居澳洲之前，我们在上海生活。2019年7月1日开始，上海实施了生活垃圾管理条例，要求居民对垃圾进行分类存储和投放。
+
+具体而言，上海的垃圾分类包括有害垃圾、可回收物、湿垃圾、干垃圾：
+
+  有害垃圾包括废电池、废灯管、废药品、废油漆及其容器等生活废弃物；... <span class="read_more">Read More</span></p>
+    </a>
+  </div>
+  <div class="post-tags"><a class="post-tag" href="/jekyll-theme-yat/tags.html#澳大利亚">#澳大利亚</a><a class="post-tag" href="/jekyll-theme-yat/tags.html#移民">#移民</a><a class="post-tag" href="/jekyll-theme-yat/tags.html#垃圾分类">#垃圾分类</a></div>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li class="post-item ">
+  <h2 class="post-title">
+    <a class="post-link" href="/jekyll-theme-yat/%E6%BE%B3%E6%B4%B2%E7%94%9F%E6%B4%BB/2024/03/21/how-to-successfully-apply-for-an-apartment-in-australia.html">
+      落地澳洲第二天，我成功租到了一套公寓<span class="post-badges">
+  <span class="post-badge badge-top">TOP</span>
+  <span class="post-badge badge-new">NEW</span>
+</span>
+</a>
+  </h2>
+  <div class="post-meta">
+    <span class="post-date"><i class="fa fa-calendar"></i> Mar 21, 2024</span><span class="post-author left-vsplit"><i class="fa fa-pencil"></i> Oz Explorer</span><span class="post-reading-time left-vsplit"><i class="fa fa-clock-o"></i> About 4 mins</span>
+  </div>
+  <div class="post-excerpt"><a  class="post-image" href="/jekyll-theme-yat/%E6%BE%B3%E6%B4%B2%E7%94%9F%E6%B4%BB/2024/03/21/how-to-successfully-apply-for-an-apartment-in-australia.html" style="flex: 0 1 38.2%">
+      <div style="background-image: url(/jekyll-theme-yat/assets/images/2024/202403211.jpeg); height: 160px"></div>
+    </a><a class="post-text" href="/jekyll-theme-yat/%E6%BE%B3%E6%B4%B2%E7%94%9F%E6%B4%BB/2024/03/21/how-to-successfully-apply-for-an-apartment-in-australia.html">
+      <p>在澳大利亚租房有多难？
+
+澳大利亚地处南半球，有着明媚的阳光和秀丽的海滩，吸引着大量的移民和留学生。然而，对于许多人来说，找到合适的住房可能是一个挑战。通货膨胀加剧，租房市场竞争激烈，房屋租金高涨，以及租房流程中的各种要求，使得在澳大利亚租房变得困难。
+
+首先，澳大利亚的主... <span class="read_more">Read More</span></p>
+    </a>
+  </div>
+  <div class="post-tags"><a class="post-tag" href="/jekyll-theme-yat/tags.html#澳大利亚">#澳大利亚</a><a class="post-tag" href="/jekyll-theme-yat/tags.html#移民">#移民</a><a class="post-tag" href="/jekyll-theme-yat/tags.html#租房">#租房</a></div>
+</li>
+</ul>
+
+  <!-- Pagination links --></div>
+</div>
+
+
+  </section>
+  <section class="sidebar" style="margin-left: 15px;">
+    <!-- Get sidebar items -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="common-list">
+  <ul>
+    <li>
+      <a href="/jekyll-theme-yat/index.html">
+        All<span>35</span>
+      </a>
+    </li>
+
+    
+      <li>
+        <a href="/jekyll-theme-yat/categories.html#h-投资理财">
+          投资理财 <span>6</span>
+        </a>
+      </li>
+    
+      <li>
+        <a href="/jekyll-theme-yat/categories.html#h-澳洲生活">
+          澳洲生活 <span>19</span>
+        </a>
+      </li>
+    
+      <li>
+        <a href="/jekyll-theme-yat/categories.html#h-羊毛攻略">
+          羊毛攻略 <span>7</span>
+        </a>
+      </li>
+    
+      <li>
+        <a href="/jekyll-theme-yat/categories.html#h-阅读笔记">
+          阅读笔记 <span>3</span>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+</section>
+</div>
+
+      </div>
+    </main><footer class="site-footer h-card">
+  <data class="u-url" href="/jekyll-theme-yat/"></data>
+
+  <div class="wrapper">
+    <div class="site-footer-inner"><div class="footer-col rss-subscribe">
+        <a href="/jekyll-theme-yat/feed.xml" title="Feed RSS" target="_blank" rel="noopener noreferrer"><i
+        class="fa fa-solid fa-rss" aria-hidden="true"></i> RSS</a> 
+        <a href="https://twitter.com/oz_explorer" title="Twitter" target="_blank" rel="noopener noreferrer"><i
+      class="fa fa-brands fa-twitter" aria-hidden="true"></i> Twitter</a> 
+      </div>
+      <div>Copyright © 2024 Oz Explorer</div>
+    </div>
+  </div>
+</footer>
+</body>
+</html>
