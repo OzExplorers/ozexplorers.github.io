@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 在澳大利亚如何自己动手报税？
+title: 如何在澳大利亚自己动手报税？
 subtitle: How to Lodge a Tax Return by Myself in Australia
 author: Oz Explorer
 categories: 澳洲生活
