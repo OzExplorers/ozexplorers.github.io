@@ -22,6 +22,8 @@ excerpt_image: /assets/images/2024/202408190.jpg
 
 本文，我来聊聊在自己手动报税过程中，我遇到的一些问题以及经验。
 
+![202408190](/assets/images/2024/202408190.jpg)
+
 ### 1. 哪些收入需要报税？
 
 对于这个问题，ATO有[明确的解释](https://www.ato.gov.au/individuals-and-families/income-deductions-offsets-and-records/income-you-must-declare/taxable-assessable-and-exempt-income)，这里我稍微简化总结：你的工资、奖金、银行利息、投资收入等。
@@ -30,7 +32,9 @@ excerpt_image: /assets/images/2024/202408190.jpg
 
 那么，你最终需要报税的部分就是，**收入总额 - 抵扣总额 = 应税收入**（Taxable Income）。
 
-应税收入将按照澳大利亚的阶梯税率进行缴税，多退少补。
+应税收入将按照澳大利亚的**阶梯税率**进行缴税，多退少补。
+
+![202408193](/assets/images/2024/202408193.png)
 
 ### 2. 收入信息如何自动更新到ATO的系统？
 
@@ -59,6 +63,8 @@ excerpt_image: /assets/images/2024/202408190.jpg
 但是因为是第一次报税，我担心我理解和填写有误，所以就等着基金公司上传数据，**大概8月中旬，基金分红数据也更新了**。
 
 至此，所有的信息都已经上传。
+
+![202408191](/assets/images/2024/202408191.png)
 
 ### 4. 收入计算：记账时间，还是入账时间？
 
@@ -97,6 +103,8 @@ excerpt_image: /assets/images/2024/202408190.jpg
 同时，保险信息也关联着你是否需要**缴纳Medicare Levy**。居民在达到收入标准后是要缴纳2%的Medicare Levy。
 
 即使你有了私保，你依然需要缴纳，只是会免除额外的Medicare Levy Surcharge。
+
+![202408192](/assets/images/2024/202408192.png)
 
 ### 7. 是否应该找一个会计师协助报税？
 
