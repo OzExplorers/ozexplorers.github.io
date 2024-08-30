@@ -99,7 +99,7 @@ Bupa积分到了以后，后面就多在Woolworths买买东西吧，应该会有
 
 欢迎使用我的链接开通会员：[https://rewards.app.link/uRB6mKzkPHb](https://rewards.app.link/uRB6mKzkPHb)，可以获得1500积分奖励，相当于7.5澳元！
 
-## 💰 Shopback + Cashback
+## 💰 Shopback + Cashrewards
 
 ![202408046](/assets/images/2024/202408046.jpeg)
 
@@ -119,4 +119,4 @@ Bupa积分到了以后，后面就多在Woolworths买买东西吧，应该会有
 
 Shopback推荐链接：[https://app.shopback.com/ubND8BrfMLb](https://app.shopback.com/ubND8BrfMLb)，或输入推荐码：**LxK1kE**
 
-Cashback推荐链接：[https://refer.cashrewards.com.au/x/NEFXrB](https://refer.cashrewards.com.au/x/NEFXrB)
+Cashrewards推荐链接：[https://refer.cashrewards.com.au/x/NEFXrB](https://refer.cashrewards.com.au/x/NEFXrB)
