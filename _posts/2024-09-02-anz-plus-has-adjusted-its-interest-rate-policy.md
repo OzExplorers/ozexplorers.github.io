@@ -6,7 +6,7 @@ author: Oz Explorer
 categories: 投资理财
 tags:
   - 存款利率
-excerpt_image: /assets/images/2024/202409021.png
+excerpt_image: /assets/images/2024/202409011.png
 ---
 
 每个月初，我都会推送《澳洲活期存款利率最高的十家银行》，更新银行名单和存款利率。这些银行的利率从5.75%到5.35%，我自己就有ING和Ubank这两家银行的账户。
@@ -20,6 +20,8 @@ excerpt_image: /assets/images/2024/202409021.png
 但是，最近ANZ Plus更新了[储蓄账户的利率政策](https://www.anz.com.au/plus/savings-changes/)，似乎是市场开拓期结束了，所以政策也变了很多。
 
 下面我来详细介绍一下，如果有这个银行账户的朋友，可以关注下，做好资金安排。
+
+![202409011](/assets/images/2024/202409011.png)
 
 ## 利率调整
 
@@ -48,6 +50,8 @@ excerpt_image: /assets/images/2024/202409021.png
 如果你是ANZ Plus的客户，你可以申请开通一个ANZ Plus Flex Saver的储蓄账户。
 
 账户余额不超过5000澳元，可以享受5.0%的利率，超出5000澳元的部分按照2.0%的利率计算。
+
+![202409012](/assets/images/2024/202409012.png)
 
 ## 账户类型透视
 
