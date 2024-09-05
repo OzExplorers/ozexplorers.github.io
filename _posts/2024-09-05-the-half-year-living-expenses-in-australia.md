@@ -18,7 +18,7 @@ excerpt_image: /assets/images/2024/202409051.png
 
 ## 基本情况
 
-我们两个人生活在City周边，每周的**硬性开支**包括：房租$480 per week，私保$150.27 per week。其他的**基础开支**包括餐饮、电费、燃气费、网络费、交通费等。
+我们两个人生活在City周边，每周的**硬性开支**包括：房租$480 per week，私保$150.27 fortnight。其他的**基础开支**包括餐饮、电费、燃气费、网络费、交通费等。
 
 我用的记账软件是[Money Pro](https://www.ozexplorers.com/投资理财/2024/07/08/review-of-budget-app-money-pro.html)，下文的图片都是在Money Pro报表中的截图。
 
