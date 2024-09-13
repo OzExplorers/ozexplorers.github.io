@@ -7,6 +7,7 @@ categories: 澳洲生活
 tags:
   - 澳大利亚
   - 移民
+  - 手机卡
 excerpt_image: /assets/images/2024/202403262.jpg
 ---
 网络上很多分享都在谈论，抵达澳洲后，如何办理一张澳洲的手机卡。我在之前的文章里，也和大家分享了[澳大利亚手机卡的省钱秘籍](https://www.ozexplorers.com/羊毛攻略/2024/03/26/how-to-get-a-cheaper-moblie-plan-in-australia.html)。
