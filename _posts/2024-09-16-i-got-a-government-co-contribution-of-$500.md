@@ -16,6 +16,8 @@ excerpt_image: /assets/images/2024/202409161.jpeg
 
 今天我检查了我的Super账户，显示在9月12日，澳洲联邦政府已经发放了500澳元的补贴。
 
+![202409161](/assets/images/2024/202409161.jpeg)
+
 根据[官网](https://www.ato.gov.au/individuals-and-families/super-for-individuals-and-families/super/growing-and-keeping-track-of-your-super/how-to-save-more-in-your-super/government-super-contributions/super-co-contribution)的介绍，这笔钱通常会在**每年11月至1月期间**发放的，没想到竟然这么早就发放下了。我觉得这可能和我上个月完成了报税有关，可见报的越早，这边钱可能就收到越早吧。
 
 正如之前说的，你存入1000澳元，政府补贴500澳元，**相当于50%的收益率了**！
@@ -44,11 +46,17 @@ excerpt_image: /assets/images/2024/202409161.jpeg
 
 ✅勾选：You are claiming tax offsets or adjustments（您正在申请税收抵免或调整）—— Government super contributions（政府养老金补贴）
 
+![202409162](/assets/images/2024/202409162.png)
+
 在**Prepare return**环节：
 
 在Adjustments一栏，点击Add/Edit，你会看到**Government super contributions**。
 
+![202409163](/assets/images/2024/202409163.png)
+
 如果你已经达到了获得补贴的资格，就点击“**Work it out**”（计算）按钮，来计算要包含在纳税申报表中的金额。这些数字会被用于确保收到正确金额的政府养老金补贴。
+
+![2024091624](/assets/images/2024/202409164.png)
 
 完成后点击**Save and continue**，你就完成了这笔补贴的申报和申请。
 
