@@ -1,11 +1,13 @@
 ---
 layout: post
 title: 如何梳理个人财务？《赤脚投资者》阅读笔记
-subtitle: Review of <The Barefoot Investor>
+subtitle: Review of <The Barefore Investor>
 author: Oz Explorer
 categories: 阅读笔记
 tags:
   - 投资理财
+  - Super
+  - ETF
 excerpt_image: /assets/images/2024/202409181.jpg
 ---
 
@@ -13,7 +15,11 @@ excerpt_image: /assets/images/2024/202409181.jpg
 
 这本书由著名金融顾问Scott Pape撰写，首次出版于2016年，很快就成为了澳大利亚畅销书，并在全球范围内也引起了广泛关注。
 
+![20240918](/assets/images/2024/202409181.jpg)
+
 书如其名，**“赤脚”象征着一种简单、实用且接地气的理财及生活方式**，Scott Pape也在书中分享了许多深入浅出的理财建议。对于希望改善个人财务状况的人群来说，这是一本很好的参考书。
+
+![20240918](/assets/images/2024/202409182.jpg)
 
 今天，我来分享关于这本书的读书笔记。
 
