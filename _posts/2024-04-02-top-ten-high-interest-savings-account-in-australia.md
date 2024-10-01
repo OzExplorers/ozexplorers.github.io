@@ -74,8 +74,6 @@ top: 1
 
 **详情可以查看文章**：[Ubank银行活期存款利率上调至5.50%](https://www.ozexplorers.com/投资理财/2024/06/18/earn-up-to-5.50-on-ubank-saving-account.html)
 
-使用我的推荐码：**8KM67JV**，开户奖励30澳元！
-
 ### BOQ Future Saver Account
 
 ![BOQ](/assets/images/2024/202404021.png)
