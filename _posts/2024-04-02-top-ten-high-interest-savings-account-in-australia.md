@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 澳洲活期存款利率最高的十家银行（更新至2024年9月）
-subtitle: Top 10 High Interest Savings Account in Australia (Sep 2024)
+title: 澳洲活期存款利率最高的十家银行（更新至2024年10月）
+subtitle: Top 10 High Interest Savings Account in Australia (Oct 2024)
 author: Oz Explorer
 categories: 投资理财
 tags: [澳大利亚, 存款利率]
@@ -11,7 +11,7 @@ top: 1
 
 和国内不断降低存款利率相比，澳洲多家银行都在推出高息存款账户（High Interest Savings Account，简称HISA）。
 
-下面是目前市场上活期存款利率最高的十家澳洲银行：
+目前，利率最高5.75%，最低5.35%。下面是目前市场上活期存款利率最高的十家澳洲银行：
 
 ## Top 1
 ### Rabobank High Interest Savings Account
@@ -25,8 +25,6 @@ top: 1
 **满足条件**：前4个月的新客户福利，4个月后利息降低至4.4%
 
 **申请链接**：[https://www.rabobank.com.au/high-interest-savings-account/](https://www.rabobank.com.au/high-interest-savings-account/)
-
-**备注**：Rabobank还推出了Rabobank PremiumSaver，每月存入200澳元，就可享受5.45%的利率，封顶25万澳元。
 
 ## Top 2
 ### ME Bank HomeME Savings Account
@@ -72,6 +70,8 @@ top: 1
 
 **满足条件**：每月从外部银行转入Ubank至少500澳元。
 
+**推荐码**：8KM67JV，奖励30刀！
+
 **详情可以查看文章**：[Ubank银行活期存款利率上调至5.50%](https://www.ozexplorers.com/投资理财/2024/06/18/earn-up-to-5.50-on-ubank-saving-account.html)
 
 使用我的推荐码：**8KM67JV**，开户奖励30澳元！
@@ -105,17 +105,17 @@ top: 1
 
 ## Top 7
 
-### AMP Saver Account
+### Rabobank PremiumSaver Account
 
-![AMP](/assets/images/2024/202404026.png)
+![Robo](/assets/images/2024/20241001.png)
 
-**存款利率**：5.40%
+**存款利率**：5.45%
 
 **封顶金额**：25万澳元
 
-**满足条件**：上月至少存入1千澳元即可达标
+**满足条件**：每月存入200澳元
 
-**申请链接**：[https://www.amp.com.au/banking/savings-accounts/amp-saver-account](https://www.amp.com.au/banking/savings-accounts/amp-saver-account)
+**申请链接**：[https://www.rabobank.com.au/premiumsaver/](https://www.rabobank.com.au/premiumsaver/)
 
 ## Top 8-10
 
