@@ -8,6 +8,7 @@ tags:
   - 澳大利亚
 excerpt_image: /assets/images/2024/202410061.png
 ---
+
 9月6日，西澳政府推出了一个“[PERTH ZOO FREE PASS](https://www.wa.gov.au/government/announcements/visit-perth-zoo-spring-the-perth-zoo-free-pass)”的活动，**西澳居民可以领取至多四张免费门票，游览珀斯动物园**。
 
 珀斯动物园的成人门票原价为38.1澳元，但是在9月9日至11月30日期间，西澳居民在[ServiceWA App](https://www.wa.gov.au/organisation/government-of-western-australia/servicewa-mobile-app)注册认证后，预定游览日期、免费领取门票。同时，这张门票还包含当天的公共交通费用，也就是说你可以免费乘坐公共交通往返动物园。
@@ -27,6 +28,8 @@ excerpt_image: /assets/images/2024/202410061.png
 - **爬行动物和两栖动物馆（Reptile & Amphibian House）**：这里展示了世界各地的爬行动物和两栖动物，包括蛇、蜥蜴和青蛙等。
 
 珀斯动物园涵盖了哺乳动物、鸟类、爬行动物和两栖动物。除了本土物种如袋鼠、考拉和塔斯马尼亚恶魔，动物园还展示了国际濒危动物，如非洲狮、苏门答腊虎和亚洲象等。
+
+![202410062](/assets/images/2024/202410062.jpg)
 
 ## 参观路线推荐
 
@@ -50,11 +53,15 @@ excerpt_image: /assets/images/2024/202410061.png
 
 - **树袋鼠** [Tree Kangaroo](https://perthzoo.wa.gov.au/animal/goodfellow-s-tree-kangaroo)
 
+![202410063](/assets/images/2024/202410063.jpg)
+
 树袋鼠有柔软的红棕色皮毛，四肢、面部、下腹部有金色的皮毛，有两条条纹从尾巴一直延伸到背部。每个个体的尾巴上都有独特的棕色和金色条纹图案。
 
 地点：逆时针方向游览的第一站，就能看到！
 
 - **太阳熊** [Sun Bear](https://perthzoo.wa.gov.au/animal/sun-bear)
+
+![202410064](/assets/images/2024/202410064.jpg)
 
 太阳熊的皮毛非常短而光滑，颜色从黑色到灰色不等。它们因胸前有黄色的旭日形斑块而得名“太阳熊”。
 
@@ -62,11 +69,15 @@ excerpt_image: /assets/images/2024/202410061.png
 
 - **考拉** [Koala](https://perthzoo.wa.gov.au/animal/koala)
 
+![202410065](/assets/images/2024/202410065.jpg)
+
 考拉有灰色和白色的皮毛。它们的脚适合爬树，四只脚上都有拇指和锋利的爪子。雌性有一个朝后的育儿袋。
 
 地点：位于澳洲动物区，看到了两只正在睡觉的考拉。
 
 - **黑翅长脚鹬** [Black-winged Stilt](https://perthzoo.wa.gov.au/animal/black-winged-stilt)
+
+![202410066](/assets/images/2024/202410066.jpg)
 
 黑翅长脚鹬的身体大部分为白色，翅膀和后脑勺有黑色区域。它们有又长又瘦的红粉色腿和又长又细的黑色喙。
 
