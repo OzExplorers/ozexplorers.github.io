@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 第一次用礼品卡在Lululemon买衣服
-subtitle: The First Time Using Gift Cards to Buy Clothes
+title: 如何用礼品卡在Lululemon买衣服
+subtitle: How to Use Gift Cards to Buy Clothes
 author: Oz Explorer
 categories: 羊毛攻略
 tags:
