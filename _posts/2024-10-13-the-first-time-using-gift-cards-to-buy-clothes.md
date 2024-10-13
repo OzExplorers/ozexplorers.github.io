@@ -25,6 +25,8 @@ excerpt_image: /assets/images/2024/202410131.jpg
 
 - **泛用礼品卡**，比如我这次使用的[Ultimate Gift Card](https://www.ultimategiftcards.com.au)，他们同样会在自有或合作渠道销售，但是集合了各类品牌，所以使用范围更广。以Ultimate Gift Card Everyone为例，可以用在购物、餐饮、娱乐、出行等各种各样的店铺。
 
+![202410131](/assets/images/2024/202410131.jpg)
+
 > adidas, ASOS, Autobarn, Aveda, Barbeques Galore, Champion, Chatime, City Beach, Compleat Angler, COSETTE, Cotton On, Dymocks, **EB Games**, Ella Baché, Estée Lauder, Gloria Jean's, Goldmark, **H&M**, Hello Fresh, Hoyts, iFLY, **IKEA**, INTERSPORT, Jaycar, **JB Hi-Fi**, JD Sports, Kogan, Lorna Jane, LSKD, **lululemon**, **Menulog**, Michael Hill, Nando's, Natio, New Balance, Nike, Oakley, **Officeworks**, Subway, Sunglass Hut, **The Good Guys**, The Iconic, **Timezone**, Total Tools, Toyworld, TripGift, Typo, **Uber**, **Uber Eats**....
 
 ## 如何购买折扣礼品卡？
@@ -35,7 +37,7 @@ excerpt_image: /assets/images/2024/202410131.jpg
 
 这次我购买的Ultimate Gift Card就是在Coles促销时候购买的。
 
-
+![202410132](/assets/images/2024/202410132.png)
 
 > 当您在结帐时刷 Flybuys 卡时，购买价值 50 澳元或 100 澳元的 Ultimate Him、Ultimate Home、Ultimate Kids 和 Ultimate Students 礼品卡即可获赠 1,000 个 Flybuys 积分。
 
