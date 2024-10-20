@@ -17,7 +17,7 @@
 
       <description>
         <![CDATA[
-        {% assign excerpt = post.content | strip_html | truncatewords: 350 %}
+        {% assign excerpt = post.content | strip_html | truncatewords: excerpt_size %}
         {{ excerpt | default: "No excerpt available." }}
         <br/>
         <a href="{{ site.url }}{{ post.url }}">Read more</a>
