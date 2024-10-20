@@ -219,7 +219,6 @@ disqus:
 # Feed setting
 feed:
   excerpt_only: true
-  image: excerpt_image
 
 # Gitment comments
 # gitment:
