@@ -15,11 +15,6 @@
       <guid>{{ site.url }}{{ post.id }}</guid>
       <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
 
-      <!-- Custom: Add excerpt image -->
-      {% if post.excerpt_image %}
-      <enclosure url="{{ post.excerpt_image | prepend: site.url }}" length="0" type="image/jpeg"/>
-      {% endif %}
-
       <!-- Custom: Call the excerpt generation include file -->
       <description>
         <![CDATA[
