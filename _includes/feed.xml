@@ -21,7 +21,7 @@
         {% include functions/get_article_excerpt.html
           params.article=post.content
           params.lang=post.lang
-          params.excerpt_size=500 %}
+          params.excerpt_size=excerpt_size %}
         {{ return | default: "No excerpt available." }}
         <a href="{{ site.url }}{{ post.url }}">Read more</a>
         ]]>
