@@ -21,17 +21,13 @@
         {% include functions/get_article_excerpt.html
           params.article=post.content
           params.lang=post.lang
-          params.excerpt_size=100 %}
+          params.excerpt_size=500 %}
         {{ return | default: "No excerpt available." }}
         <a href="{{ site.url }}{{ post.url }}">Read more</a>
         ]]>
       </description>
 
-      <!-- Ensure summary is not blank -->
-      <summary>
-        {{ return | strip_html | truncate: 150 | default: post.title }}
-      </summary>
-
+      
     </item>
     {% endfor %}
   </channel>
