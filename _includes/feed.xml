@@ -15,19 +15,15 @@
       <guid>{{ site.url }}{{ post.id }}</guid>
       <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
 
-      <!-- Custom: Call the excerpt generation include file -->
       <description>
         <![CDATA[
-        {% include functions/get_article_excerpt.html
-          params.article=post.content
-          params.lang=post.lang
-          params.excerpt_size=excerpt_size %}
-        {{ return | default: "No excerpt available." }}
+        {% assign excerpt = post.content | strip_html | truncatewords: 350 %}
+        {{ excerpt | default: "No excerpt available." }}
+        <br/>
         <a href="{{ site.url }}{{ post.url }}">Read more</a>
         ]]>
       </description>
 
-      
     </item>
     {% endfor %}
   </channel>
