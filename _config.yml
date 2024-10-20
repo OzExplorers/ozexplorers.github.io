@@ -218,9 +218,7 @@ disqus:
 
 # Feed setting
 feed:
-  excerpt_only: true
-  image: excerpt_image
-  link: true
+  path: feed.xml
 
 # Gitment comments
 # gitment:
