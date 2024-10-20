@@ -25,6 +25,8 @@ sidebar:
 
     {%- include views/article.html -%}
 
+    {% include share-buttons.html %}
+
     {%- assign result = hidden | where_exp: "item", "item == 'navigator'" -%}
     {%- if result.size == 0 -%}
     <div class="post-nav">
@@ -91,5 +93,3 @@ sidebar:
   </section>
 
 </div>
-
-{% include share-buttons.html %}
