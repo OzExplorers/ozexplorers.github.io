@@ -70,7 +70,7 @@ Macquarie银行上调了存款利率至5.50%。目前，利率最高5.60%，最�
 
 **满足条件**：每月从外部银行转入Ubank至少500澳元。
 
-**推荐码**：8KM67JV，奖励20刀！
+**推荐码**：8KM67JV，奖励30刀！
 
 **详情可以查看文章**：[Ubank银行活期存款利率上调至5.50%](https://www.ozexplorers.com/投资理财/2024/06/18/earn-up-to-5.50-on-ubank-saving-account.html)
 
