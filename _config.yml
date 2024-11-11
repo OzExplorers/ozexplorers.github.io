@@ -216,10 +216,6 @@ paginate: 10
 disqus:
   shortname: "ozexplorer"
 
-# Feed setting
-feed:
-  excerpt_only: true
-
 # Gitment comments
 # gitment:
 #   username: "Your GitHub username"
