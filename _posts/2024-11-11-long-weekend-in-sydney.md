@@ -5,7 +5,7 @@ subtitle: Long Weekend in Sydney
 author: Oz Explorer
 categories: 澳洲生活
 tags:
-  - 澳大利亚
+  - 悉尼
   - 旅行
 excerpt_image: /assets/images/2024/202411111.jpg
 excerpt: 上周从珀斯飞去悉尼，度过了一个“长周末”，期间充满了无数的“久别重逢”（Déjà Vu）。>>> Read More
