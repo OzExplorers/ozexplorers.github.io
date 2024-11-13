@@ -15,6 +15,8 @@ excerpt_image: /assets/images/2024/202411131.png
 
 今天这篇文章，我来分享一下我最爱的日常消费返现银行卡：**HSBC Everyday Global Account**。
 
+![202411131](/assets/images/2024/202411131.png)
+
 ## HSBC Everyday Global Account是什么？
 
 HSBC，即汇丰银行，于1965年首次在澳大利亚开展业务，并于1986年获得商业牌照。在澳大利亚，HSBC的分支机构和办事处网络，遍及悉尼、墨尔本、布里斯班和珀斯等大都市地区的
@@ -57,6 +59,8 @@ HSBC Everyday Global Account消费返现的福利，具体如下：
 
 **返现限额**：每月上限为**50澳元**（相当于消费2500澳元），一年高达600澳元。
 
+![202411133](/assets/images/2024/202408042.jpeg)
+
 ## 使用HSBC旅行，无需支付海外交易费
 
 除了现金返还福利外，作为一个“最佳品质旅行借记卡”，HSBC Everyday Global Account还支持用户在帐户中同时持有最多10种不同的货币。
@@ -74,6 +78,8 @@ HSBC Everyday Global Account是普通的银行卡，如果想要升级成为**HS
 - 储蓄或投资至少15万澳元，直接升级为Premier。
 
 HSBC系统会在你达标后发送通知，同时你在HSBC的客户标识也会变成Premier Customer。
+
+![202411132](/assets/images/2024/202411132.jpg)
 
 我没有15万澳元，只能默默搬砖，连续转入了六个月的9000澳元，终于在第7个月升级成为了Premier客户。这个Premier很像是**招商银行的金葵花客户**。
 
