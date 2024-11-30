@@ -13,11 +13,14 @@ excerpt_image: /assets/images/2024/202411301.jpg
 今年的**黑色星期五**（Black Friday），Officeworks有针对MacBook的促销活动，价格十分具有吸引力。
 
 我东拼西凑了各种优惠，以不到1000澳元的价格，下单了**MacBook Air M2 16/256**，让已经用了七年多的老款Macbook Air光荣退役了。
+
 ## MacBook黑五优惠
 
 我购买的是**MacBook Air 13" (M2) 8 Core CPU/GPU 16/256GB Midnight**。
 
 这一款MacBook在[Apple官网的指导价](https://www.apple.com/au/shop/buy-mac/macbook-air/13-inch-m2)是$1599，[Officeworks的黑五促销价](https://www.officeworks.com.au/shop/officeworks/p/macbook-air-13-m2-8-core-cpu-gpu-16-256gb-midnight-mba13m2esb)是$1327。
+
+![202411302](/assets/images/2024/202411302.png)
 
 Officeworks有个很不错的服务：[Price Beat Guarantee](https://www.officeworks.com.au/information/policies/price-beat-guarantee?cm_sp=all:allPage:Header_ESpot_V2:3:always_on:price-beat-guarantee)，客户可以通过**比价**的形式，获得更大的优惠——在竞价基础上再优惠5%。
 
@@ -36,6 +39,9 @@ Officeworks还支持使用**礼品卡**（Gift Card）进行支付。我在[之�
 此外，Officeworks和Coles是合作伙伴，Flybuys在黑五期间给我提供了一个Officeworks 10倍积分的活动，再叠加上另一个OnePass会员的5倍积分，差不多可以获得**18万积分**（相当于$90）。
 
 最终算下来，**我以不到1000澳元的价格，给自己买了一台新的MacBook**。
+
+![202411301](/assets/images/2024/202411301.jpg)
+
 ## 为什么选择MacBook Air M2？
 
 MacBook Air最新款搭载的是M3芯片，而MacBook Pro已经使用了M4芯片。
@@ -51,6 +57,7 @@ MacBook Air最新款搭载的是M3芯片，而MacBook Pro已经使用了M4芯片
 **我大多数时候就是使用MacBook浏览信息、撰写文章，偶尔剪辑视频。所以不管是新款还是原来的老款，都完全够用。**
 
 这也是我一贯的消费观念——不需要追求潮流和顶尖，只需要考虑自己的需求，设置预算，随后做决定。
+
 ## MacBook Air M2使用体验
 
 这两天使用下来，我对这台新MacBook十分满意，有几个我比较喜欢的功能。
@@ -78,6 +85,7 @@ MacBook Air最新款搭载的是M3芯片，而MacBook Pro已经使用了M4芯片
 当然，也有不好的地方。旧电脑是银色金属质感，灰尘不容易看到。
 
 但是这款Midnight（午夜色），看起来很酷炫很性感，但是真的很容易沾上指纹或者手汗。所以用完我都会擦擦键盘。
+
 ## 小结
 
 这就是我对MacBook Air M2的购买过程和使用体验。
