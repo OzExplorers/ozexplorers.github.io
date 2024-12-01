@@ -11,10 +11,11 @@ top: 1
 
 和中国不断降低存款利率相比，澳洲多家银行都在推出高息存款账户（High Interest Savings Account，简称HISA）。
 
-Macquarie银行上调了存款利率至5.50%。目前，利率最高5.60%，最低5.35%。下面是目前市场上活期存款利率最高的十家澳洲银行：
+目前，利率最高5.60%，最低5.35%。
 
-## Top 1
-### Rabobank High Interest Savings Account
+下面是目前市场上活期存款利率最高的十家澳洲银行：
+
+## Top 1 Rabobank High Interest Savings Account
 
 ![Rabobank](https://a.storyblok.com/f/116740/160x100/7683ca35b7/rabobank.png)
 
@@ -26,26 +27,9 @@ Macquarie银行上调了存款利率至5.50%。目前，利率最高5.60%，最�
 
 **申请链接**：[https://www.rabobank.com.au/high-interest-savings-account/](https://www.rabobank.com.au/high-interest-savings-account/)
 
-## Top 2
-### ME Bank HomeME Savings Account
+---
 
-![MeBank](https://a.storyblok.com/f/116740/160x100/7e24c6514a/mebank.png)
-
-**存款利率**：5.55%
-
-**封顶金额**：10万澳元，超过10万澳元的部分利率降至3.00%
-
-**满足条件**：
-1. 每月存款账户余额要有所增加（除利息外的入账）
-2. 每月消费账户（SpendME Transaction Account）至少从其他银行转入2000澳元
-
-**申请链接**：[https://www.mebank.com.au/banking/home-deposit-savings-account](https://www.mebank.com.au/banking/home-deposit-savings-account)
-
-## Top 3-6
-
-> 存款利率都是5.50%，但要求不同，以下排名不分先后。
-
-### ING Savings Maximiser
+## Top 2 ING Savings Maximiser
 
 ![ING](/assets/images/2024/202404027.png)
 
@@ -58,9 +42,11 @@ Macquarie银行上调了存款利率至5.50%。目前，利率最高5.60%，最�
 2. 每月消费账户至少发生5次交易
 3. 每月存款账户余额要有所增加（除利息外的入账）
 
-**申请链接**：通过我的链接，可以获得125澳元的新用户奖励，[点击申请](https://campaigns.ing.com.au/refer?code=Jqz072&p=d)
+**申请链接**：通过我的链接，可以获得**125澳元**的新用户奖励，[点击申请](https://campaigns.ing.com.au/refer?code=Jqz072&p=d)
 
-### Ubank
+---
+
+## Top 3 Ubank
 
 ![Ubank](https://a.storyblok.com/f/116740/160x100/c9a5107b86/ubank.png)
 
@@ -70,11 +56,13 @@ Macquarie银行上调了存款利率至5.50%。目前，利率最高5.60%，最�
 
 **满足条件**：每月从外部银行转入Ubank至少500澳元。
 
-**推荐码**：8KM67JV，奖励30刀！
+**推荐码**：8KM67JV，**奖励30刀**！
 
 **详情可以查看文章**：[Ubank银行活期存款利率上调至5.50%](https://www.ozexplorers.com/投资理财/2024/06/18/earn-up-to-5.50-on-ubank-saving-account.html)
 
-### BOQ Future Saver Account
+---
+
+## Top 4 BOQ Future Saver Account
 
 ![BOQ](https://a.storyblok.com/f/116740/160x100/aea7810d69/boq.png)
 
@@ -89,7 +77,9 @@ Macquarie银行上调了存款利率至5.50%。目前，利率最高5.60%，最�
 
 **申请链接**：[https://www.boq.com.au/personal/banking/savings-and-term-deposits/future-saver](https://www.boq.com.au/personal/banking/savings-and-term-deposits/future-saver)
 
-### Macquarie Savings Account
+---
+
+## Top 5 Macquarie Savings Account
 
 ![Macquarie](https://a.storyblok.com/f/116740/160x100/5b93dfe621/macquarie.png)
 
@@ -101,7 +91,9 @@ Macquarie银行上调了存款利率至5.50%。目前，利率最高5.60%，最�
 
 **申请链接**：[https://www.macquarie.com.au/everyday-banking/savings-account.html](https://www.macquarie.com.au/everyday-banking/savings-account.html)
 
-## Top 7 - 10
+---
+
+## Top 6 - 9
 
 > 存款利率都是5.35%，排名不分先后。
 
@@ -121,8 +113,22 @@ Macquarie银行上调了存款利率至5.50%。目前，利率最高5.60%，最�
 
 ——每月存入1000，消费5笔
 
+---
+
+## Top 10
+
+**ME Bank HomeME Savings Account**
+
+存款利率：5.25%
+
+封顶金额：10万澳元，超过10万澳元的部分利率降至3.00%
+
+满足条件：
+- 每月存款账户余额要有所增加（除利息外的入账）
+- 每月消费账户至少从其他银行转入2000澳元
+
+---
 
 以上就是澳洲目前活期存款利率最高的十家银行，由于各家的达标条件都不同，希望大家在申请的时候，仔细阅读利率要求。
-
 
 *免责声明：本文仅作信息共享及参考目的，不作理财建议。
