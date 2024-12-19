@@ -7,7 +7,7 @@ categories: 澳洲生活
 tags:
   - 移民
   - TAFE
-excerpt_image: /assets/images/2024/202407031.JPG
+excerpt_image: /assets/images/2024/202407101.JPG
 ---
 虽然我从小到大都在学英语，但使用场景有限，通常都是为了应付考试。从各年级的英语考试，到高考英语，再到四六级和考研英语。
 
