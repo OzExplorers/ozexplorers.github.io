@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 如何成为快速提升英语表达能力？
+title: 如何快速提升英语表达能力？
 subtitle: "Practice: the Secret of Speaking English Fluently"
 author: Oz Explorer
 categories: 澳洲生活
