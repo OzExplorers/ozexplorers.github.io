@@ -54,8 +54,11 @@ excerpt_image: /assets/images/2024/202407031.JPG
 下面列举一些我经常用到的句式，普通到总让我觉得我说话很无聊。
 
 > I think it's (adj.) for me to do something.
+
 > I am not sure if I can do something.
+
 > Oh my god, really? I can't believe that.
+
 > I have no idea to do something.
 
 随着我们交流地深入和长久，我也会发现之前学习语法的时候，那些埋藏在记忆深处的句式也会慢慢涌现出来。
