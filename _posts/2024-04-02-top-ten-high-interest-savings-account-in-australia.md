@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 澳洲活期存款利率最高的十家银行（更新至2024年12月）
-subtitle: Top 10 High Interest Savings Account in Australia (Dec 2024)
+title: 澳洲活期存款利率最高的十家银行（更新至2025年1月）
+subtitle: Top 10 High Interest Savings Account in Australia (Jan 2025)
 author: Oz Explorer
 categories: 投资理财
 tags: [澳大利亚, 存款利率]
@@ -79,23 +79,13 @@ top: 1
 
 ---
 
-## Top 5 Macquarie Savings Account
-
-![Macquarie](https://a.storyblok.com/f/116740/160x100/5b93dfe621/macquarie.png)
-
-**存款利率**：5.50%
-
-**封顶金额**：25万澳元
-
-**满足条件**：前4个月的新客户福利，4个月后利息降低至5.50%
-
-**申请链接**：[https://www.macquarie.com.au/everyday-banking/savings-account.html](https://www.macquarie.com.au/everyday-banking/savings-account.html)
-
----
-
-## Top 6 - 9
+## Top 5 - 9
 
 > 存款利率都是5.35%，排名不分先后。
+
+**Macquarie Savings Account**
+
+——前4个月的新客户福利，4个月后利息降低至5.00%，封顶25万澳元
 
 **Rabobank Premium Saver Account**
 
