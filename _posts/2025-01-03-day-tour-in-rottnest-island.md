@@ -6,6 +6,7 @@ author: Oz Explorer
 categories: 澳洲生活
 tags:
   - 澳大利亚
+  - 旅行
 excerpt_image: /assets/images/2025/202501031.jpg
 ---
 
