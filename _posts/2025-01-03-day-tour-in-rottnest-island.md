@@ -8,6 +8,9 @@ tags:
   - 澳大利亚
 excerpt_image: /assets/images/2025/202501031.jpg
 ---
+
+![202501031](/assets/images/2025/202501031.jpg)
+
 Rottnest Island是距离Perth最近的一座小岛，乘坐Ferry（轮渡）即可到达。
 
 岛上有可爱的短尾矮袋鼠（Quokka），这座岛也因此得名，被许多人称为“微笑袋鼠岛”。
@@ -39,6 +42,8 @@ Rottnest Island是距离Perth最近的一座小岛，乘坐Ferry（轮渡）即�
 （2）乘火车到Fremantle只要30分钟，轮渡航行时间30分钟，相比90分钟的轮渡时间，大大减少了由于海浪造成颠簸带来的晕眩感。
 
 （3）叠加[Transperth公共交通免费活动](https://www.ozexplorers.com/羊毛攻略/2024/11/24/western-australia-delivers-summer-of-free-public-transport.html)，节省了Perth往返Fremantle的火车费。
+
+![202501032](/assets/images/2025/202501032.jpg)
 
 ### 轮渡
 
@@ -96,6 +101,8 @@ Rottnest Island是距离Perth最近的一座小岛，乘坐Ferry（轮渡）即�
 
 这19个站点各有不同，有的时候游泳和浮潜，有的适合冲浪，有的适合海钓，有的适合观景，游客可以根据自己的兴趣选择性游览。
 
+![202501033](/assets/images/2025/202501033.png)
+
 ## 我在哪里游玩了？
 
 ### 果冻海
@@ -109,6 +116,8 @@ Rottnest Island的海滩，可以用**果冻海**来形容。白色的沙滩，�
 我还去了**11站点West End**，这是Rottnest Island最西端的一个景区。站在观景台上，眼前就是一望无际的蔚蓝印度洋。
 
 继续往下游览，**17站点的Little Armstrong Bay**也是个不错的选择。但相比5、6、7站点，下了公交就是海滩。在17站点下车，游客需要步行走到海滩，但距离不算太远。可能也是这个原因，这里的游客并不多。
+
+![202501034](/assets/images/2025/202501034.jpg)
 
 ### 微笑袋鼠Quokka
 
