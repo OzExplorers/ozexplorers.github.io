@@ -7,7 +7,7 @@ categories: 澳洲生活
 tags:
   - 澳大利亚
   - 移民
-excerpt_image: /assets/images/2025/202401101.png
+excerpt_image: /assets/images/2025/202501101.png
 ---
 我在《[在澳洲生活的日子](https://www.ozexplorers.com/澳洲生活/2024/12/23/summary-of-2024-the-days-in-australia.html)》中，回顾了2024年我的生活以及感悟。
 
@@ -29,7 +29,7 @@ excerpt_image: /assets/images/2025/202401101.png
 
 按照澳元和人民币汇率1:4.7来计算，大约折合**21万元人民币**。月均支出4479澳元，也就是**每月开销2.1万元人民币**。
 
-![20250110](/assets/images/2025/202401101.png)
+![20250110](/assets/images/2025/202501101.png)
 
 从截图中可以看到，**住房开支占比54%，是我们在澳洲生活的最大支出**。
 
