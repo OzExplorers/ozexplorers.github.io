@@ -87,7 +87,7 @@ ChatGPT认为：
 
 最近，我们又和房东及中介续签了一年的租房合同，好在房租没有上涨，否则我们真的要考虑搬家了。
 
-除此之外，我们的月均开支最终完全控制在了4500澳元，这也算是完成了我在[之前文章](https://www.ozexplorers.com/澳洲生活/2024/09/05/the-half-year-living-expenses-in-australia.html))里制定的预算。
+除此之外，我们的月均开支最终完全控制在了4500澳元，这也算是完成了我在[之前文章](https://www.ozexplorers.com/澳洲生活/2024/09/05/the-half-year-living-expenses-in-australia.html)里制定的预算。
 
 ## 小结
 
