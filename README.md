@@ -30,5 +30,5 @@
 
 欢迎你关注通过 <a href="https://www.ozexplorers.com/feed.xml">RSS</a> 或微信公众号订阅最新文章
 
-<img src="assets/images/Wechat.png" alt="Wechat" width="374" height="388">
+<img src="assets/images/Wechat.png" alt="Wechat">
 </p>
