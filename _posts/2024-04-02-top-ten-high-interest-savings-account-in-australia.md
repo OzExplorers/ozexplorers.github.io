@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 澳洲活期存款利率最高的十家银行（更新至2025年1月）
-subtitle: Top 10 High Interest Savings Account in Australia (Jan 2025)
+title: 澳洲活期存款利率最高的十家银行（更新至2025年2月）
+subtitle: Top 10 High Interest Savings Account in Australia (Feb 2025)
 author: Oz Explorer
 categories: 投资理财
 tags: [澳大利亚, 存款利率]
