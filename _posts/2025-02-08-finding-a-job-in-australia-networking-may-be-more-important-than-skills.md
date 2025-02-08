@@ -8,7 +8,7 @@ tags:
   - 澳大利亚
   - 工作
   - 移民
-excerpt_image: /assets/images/2024/202403261.jpeg
+excerpt_image: /assets/images/2024/202408190.jpg
 ---
 有朋友在后台私信，你在登陆澳洲之后，怎么那么快就找到了对口工作？
 
