@@ -7,7 +7,7 @@ categories: 羊毛攻略
 tags:
   - 手机卡
   - 购物优惠
-excerpt_image: /assets/images/2024/202403261.jpeg
+excerpt_image: /assets/images/2024/202403261.jpg
 ---
 在《[澳大利亚手机卡独家省钱秘籍](https://www.ozexplorers.com/羊毛攻略/2024/03/26/how-to-get-a-cheaper-moblie-plan-in-australia.html)》的文章中，我提到我购买了[Amaysim](http://r.amaysi.ms/28zdn45x)的手机卡。
 
