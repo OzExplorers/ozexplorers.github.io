@@ -44,7 +44,7 @@ Amaysim 依托 Optus 网络，我们在本月初开始使用 Amaysim 的家庭�
 
 虽然很多人推荐使用 **Port Out and Port Back**（[携号转网再转回](https://www.ozexplorers.com/羊毛攻略/2024/03/26/how-to-get-a-cheaper-moblie-plan-in-australia.html)）策略，但考虑到新的套餐未必有如此高的性价比，我们最终决定继续保留当前套餐，即使续费 240 澳元，折算下来每月仅 20 澳元。
 
-## ## 如何获得 25% 续费优惠？
+## 如何获得 25% 续费优惠？
 
 在社交媒体上，我了解到很多澳洲的服务都可以通过客服申请 **老用户优惠**。
 
