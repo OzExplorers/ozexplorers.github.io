@@ -5,7 +5,7 @@ subtitle: How to Get a Cheaper Moblie Plan in Australia
 author: Oz Explorer
 categories: 羊毛攻略
 tags: [澳大利亚, 手机卡, 移民]
-excerpt_image: /assets/images/2024/202403261.jpeg
+excerpt_image: /assets/images/2024/202403261.jpg
 ---
 
 很多初到澳洲的朋友，都会面临一个澳洲手机号办理的问题。
@@ -28,7 +28,7 @@ excerpt_image: /assets/images/2024/202403261.jpeg
 
 较为常见的手机卡品牌有：Boost、Belong、Aldi等（背靠Telstra）；Amaysim、M2、Exetel等（背靠Optus）；Lebara、Kogan、TPG等（背靠Vodafone）。甚至Woolworths、Coles本身就有自有品牌的电话卡，使用后可以享受购物优惠。
 
-这些品牌为了竞争，会经常提供促销活动。比如，我最近购买的Amaysim，就推出了215GB的年卡，原价215刀，打折后165刀，相当于你每月只需花费13.75刀，就能享受到如此大的流量包、以及免费的短信和通话。
+这些品牌为了竞争，会经常提供促销活动。比如，我最近购买的Amaysim，就推出了210GB的年卡，原价215刀，打折后165刀，相当于你每月只需花费13.75刀，就能享受到如此大的流量包、以及免费的短信和通话。
 
 这里重点提一下，**澳洲的电话卡，除了流量需要购买，短信和通话都是无限制免费使用的**，有些还会提供免费的国际长途电话服务，十分吸引人。
 
