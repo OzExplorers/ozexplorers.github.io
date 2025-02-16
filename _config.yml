@@ -43,7 +43,7 @@ author: Oz Explorer
 copyright: "Copyright © {currentYear} {author}"
 
 description: >- # this means to ignore newlines until "baseurl:"
-  一个居住在澳大利亚的探索者，分享生活经验和见闻
+  一个居住在澳大利亚的普通人，分享生活经验和见闻
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.ozexplorers.com" # the base hostname & protocol for your site, e.g. https://example.com
@@ -161,7 +161,7 @@ lang: "zh"  # default lang is en
 defaults:
    home:
      heading: "澳洲探索者 Oz Explorer"
-     subheading: "一个居住在澳大利亚的探索者，分享生活经验和见闻"
+     subheading: "一个居住在澳大利亚的普通人，分享生活经验和见闻"
      banner: "/assets/images/banner/ozexplorer.jpeg"
 
 # Banner default settings
