@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 澳洲活期存款利率最高的十家银行（更新至2025年2月）
-subtitle: Top 10 High Interest Savings Account in Australia (Feb 2025)
+title: 澳洲活期存款利率最高的十家银行（更新至2025年3月）
+subtitle: Top 10 High Interest Savings Account in Australia (Mar 2025)
 author: Oz Explorer
 categories: 投资理财
 tags: [澳大利亚, 存款利率]
@@ -19,11 +19,11 @@ top: 1
 
 ![Rabobank](https://a.storyblok.com/f/116740/160x100/7683ca35b7/rabobank.png)
 
-**存款利率**：5.60%
+**存款利率**：5.45%
 
 **封顶金额**：25万澳元
 
-**满足条件**：前4个月的新客户福利，4个月后利息降低至4.35%
+**满足条件**：前4个月的新客户福利，4个月后利息降低至4.10%
 
 **申请链接**：[https://www.rabobank.com.au/high-interest-savings-account/](https://www.rabobank.com.au/high-interest-savings-account/)
 
@@ -33,7 +33,7 @@ top: 1
 
 ![ING](/assets/images/2024/202404027.png)
 
-**存款利率**：5.50%
+**存款利率**：5.40%
 
 **封顶金额**：10万澳元
 
@@ -50,7 +50,7 @@ top: 1
 
 ![Ubank](https://a.storyblok.com/f/116740/160x100/c9a5107b86/ubank.png)
 
-**存款利率**：5.50%
+**存款利率**：5.25%
 
 **封顶金额**：25万澳元
 
@@ -66,7 +66,7 @@ top: 1
 
 ![BOQ](https://a.storyblok.com/f/116740/160x100/aea7810d69/boq.png)
 
-**存款利率**：5.50%
+**存款利率**：5.25%
 
 **封顶金额**：5万澳元
 
@@ -79,45 +79,32 @@ top: 1
 
 ---
 
-## Top 5 - 9
-
-> 存款利率都是5.35%，排名不分先后。
-
-**Macquarie Savings Account**
-
-——前4个月的新客户福利，4个月后利息降低至5.00%，封顶25万澳元
+## Top 5 - 10
 
 **Rabobank Premium Saver Account**
 
-——每月存入200澳元，封顶金额25万澳元
-
-**Great Southern Bank Goal Saver Account**
-
-——每月存入500、消费5笔，封顶5万澳元，但开户人要18-24岁
+——5.20%，每月存入200澳元，封顶金额25万澳元
 
 **Bankwest Easy Saver Plus**
 
-——前四个月5.35%，随后4.00%，封顶金额25万澳元
+——5.15%，封顶金额25万澳元
+
+**HSBC Everyday Savings Account**
+
+——前3个月的新客户福利5.15%，后降至3.00%
+
+**Macquarie Savings Account**
+
+——前4个月的新客户福利5.10%，4个月后利息降低至4.75%，封顶25万澳元
+
+**Great Southern Bank Goal Saver Account**
+
+——5.10%，每月存入500、消费5笔，封顶5万澳元，但开户人要18-24岁
 
 **Virgin Money Boost Saver**
 
-——每月存入1000，消费5笔
+——5.05%，每月存入1000，消费5笔
 
----
-
-## Top 10
-
-**ME Bank HomeME Savings Account**
-
-存款利率：5.25%
-
-封顶金额：10万澳元，超过10万澳元的部分利率降至3.00%
-
-满足条件：
-- 每月存款账户余额要有所增加（除利息外的入账）
-- 每月消费账户至少从其他银行转入2000澳元
-
----
 
 以上就是澳洲目前活期存款利率最高的十家银行，由于各家的达标条件都不同，希望大家在申请的时候，仔细阅读利率要求。
 
