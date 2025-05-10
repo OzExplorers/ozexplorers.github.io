@@ -68,6 +68,8 @@ excerpt_image: /assets/images/2024/202404161.jpg
 
 ——由原来的每月$325.44，上涨$339.85。
 
+![202505101](/assets/images/2025/202505101.png)
+
 在澳洲，很多服务都可以通过客服申请 **老用户优惠**。比如，《[The Barefoot Investor](https://www.ozexplorers.com/%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0/2024/09/18/review-of-the-barefoot-investor.html)》一书中就提到，在续订私人医疗保险前，应该尝试和客服沟通争取折扣。
 
 于是，我就拨打了Bupa的服务热线。
