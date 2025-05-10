@@ -11,6 +11,9 @@ tags:
   - 购物优惠
 excerpt_image: /assets/images/2024/202404161.jpg
 ---
+
+![202505100](/assets/images/2024/202404161.jpg)
+
 ## 什么是私人保险？
 
 去年，我在文章《[为了豁免Medicare Levy Surcharge，我们办理了Bupa私人保险](https://www.ozexplorers.com/澳洲生活/2024/04/16/joined-a-private-health-insurance-to-avoid-medicare-levy-surcharge.html)》中分享了我在澳洲办理私人保险的的经历。
