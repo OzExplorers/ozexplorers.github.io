@@ -9,7 +9,7 @@ tags:
   - 澳大利亚
   - 驾照
   - 移民
-excerpt_image: /assets/images/2025/20250622.jpg
+excerpt_image: /assets/images/2025/202506221.jpg
 ---
 在之前的文章里，我写到[自己学车、考驾照的经历](https://www.ozexplorers.com/澳洲生活/2025/03/22/i-failed-my-first-australian-driving-test.html)。此后我又参加了两次路考，但都没能顺利通过。
 
@@ -22,6 +22,8 @@ excerpt_image: /assets/images/2025/20250622.jpg
 为什么选这辆车？原因十分简单：丰田车在澳洲非常受欢迎，质量也有口皆碑，公路上十辆车里大概有三辆是Corolla。
 
 这款车在Toyota官网的起售价约为3.6万澳元，且配置十分基础。
+
+![202506222](/assets/images/2025/202506222.png)
 
 澳洲的车都挺贵的，卡罗拉在中国不到十万块。[澳洲本身不再制造汽车](https://www.ozexplorers.com/澳洲生活/2024/04/20/future-made-in-australia-act-and-the-history-of-australian-auto-industry.html)，主要依赖进口，价格也就涨上去了。
 
@@ -50,6 +52,8 @@ excerpt_image: /assets/images/2025/20250622.jpg
 虽然只看了两辆车，我已经充分感受到了二手车市场的复杂——这是一个典型的“**柠檬市场**”，信息严重不对称，筛选成本极高，让人感到力不从心。我甚至一度动了买新车的念头，至少质量有保障。
 
 我联系了Toyota新车门店，他们告诉我目前有现车，随时可以下单提车。
+
+![202506221](/assets/images/2025/202506221.jpg)
 
 ### 终于找到“那一辆”
 
