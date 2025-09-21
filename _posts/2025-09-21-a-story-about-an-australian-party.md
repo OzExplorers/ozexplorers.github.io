@@ -10,6 +10,7 @@ tags:
   - 人生感悟
 excerpt_image: /assets/images/2025/20250921.jpg
 ---
+
 昨天，我参加了一场白人同事的生日Party。
 
 大家在这场派对里主要做的事情，就是喝着低度鸡尾酒或啤酒，和认识或不认识的人，开启Small Talk。
