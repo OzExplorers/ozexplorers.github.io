@@ -7,7 +7,7 @@ categories: 澳洲生活
 tags:
   - 澳大利亚
   - 旅行
-excerpt_image: /assets/images/2025/20251003.jpg
+excerpt_image: /assets/images/2025/202510031.jpg
 ---
 经历了一段阴雨连绵的冬季，澳大利亚迎来了春天，阳光拨开云雾、树木抽芽生花。与此同时，西澳也迎来了下半年的第一个[公共假期](https://www.ozexplorers.com/澳洲生活/2024/09/21/public-holidays-in-western-australia.html)：**King’s Birthday**。
 
@@ -22,6 +22,8 @@ Perth和Margaret River的距离大概为270公里，开车途经Kwinana Freeway�
 我们是早上7点出发，路上的车还不算太多，所以开起来没有觉得很堵。
 
 沿着**Kwinana Freeway（State Route 2）** ，从Perth市区往南离开，经过Rockingham、Mandurah方向。此后，切换到**Forrest Highway（National Route 1）** ，笔直平坦，道路两旁的植被和生态都很好。最后，来到**Bussell Highway（State Route 10）** 继续往南，穿过Busselton，最终抵达Margaret River。
+
+![202510032](/assets/images/2025/202510032.png)
 
 我们开着之前买的二手车[丰田卡罗拉](https://www.ozexplorers.com/澳洲生活/2025/06/22/i-bought-my-first-used-car-for-25000-australian-dollars.html)，一路听着音乐，时间很快就过去了。
 
@@ -58,6 +60,8 @@ Margaret River并不像名字听起来那样宽阔，途经小镇的河段水面
 整个小镇像是为这个假期做足了准备，随着游客增多，逐渐繁忙起来，但一切都井然有序，Bussell Highway的沿街商铺背后有大片的免费停车场，也非常“游客友好”。
 
 让我意外的是，这里的 Coles 和 Woolworths 竟然每天都是 8 AM – 8 PM 营业，一周七天不休。我觉得可能是这里没有别的百货超市了，大家都指望这两家来购买生活物资。
+
+![202510031](/assets/images/2025/202510031.jpg)
 
 我们去了两个“目的地”。不知道为什么，我很难用“景点”来形容这两个地方。
 
