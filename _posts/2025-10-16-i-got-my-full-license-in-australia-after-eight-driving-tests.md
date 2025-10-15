@@ -8,7 +8,7 @@ tags:
   - 澳大利亚
   - 驾照
   - 移民
-excerpt_image:
+excerpt_image: /assets/images/2025/202506221.jpg
 ---
 今年3月，我分享了自己在[澳洲学车以及第一次考驾照](https://www.ozexplorers.com/澳洲生活/2025/03/22/i-failed-my-first-australian-driving-test.html)的故事。
 
