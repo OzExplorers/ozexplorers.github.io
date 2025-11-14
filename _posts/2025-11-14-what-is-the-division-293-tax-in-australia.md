@@ -3,10 +3,11 @@ layout: post
 title: 澳洲 Division 293 税详解：缴款通知与我的选择
 subtitle: What is the Division 293 Tax in Australia?
 author: Oz Explorer
-categories: 澳洲生活
+categories: 投资理财
 tags:
   - 澳大利亚
-  - 租房
+  - Super
+  - 税务
 excerpt_image: /assets/images/2024/202408190.jpg
 ---
 最近，我收到了 **myGov** 的推送通知，是一条来自 **ATO（Australian Taxation Office，澳洲税务局）** 的消息。
