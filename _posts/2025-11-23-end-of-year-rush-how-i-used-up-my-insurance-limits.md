@@ -6,6 +6,9 @@ author: Oz Explorer
 categories: 羊毛攻略
 tags:
   - 澳大利亚
+  - 购物优惠
+  - Medicare
+  - 产品测评
 excerpt_image: /assets/images/2025/202511231.png
 ---
 转眼又到了年底。在澳洲生活久了的朋友都知道，这不仅仅是迎接圣诞和新年的时刻，更是私人医疗保险（Private Health Insurance）里的Extras（额外保险）额度“清零”的大限。
@@ -76,6 +79,8 @@ Medibank给用户发放了Covid-19相关的利润返还（Give back program）�
 
 既然保费交了，Extras的额度就是我们应得的权益。因为额度年底清零，我最近开启了“清库存”模式。
 
+![202511232](/assets/images/2025/202511232.png)
+
 ### 洗牙：100%报销的快乐
 
 早在10月份，我就去体验了Medibank的签约牙医诊所（Members' Choice Advantage）。 
@@ -93,6 +98,8 @@ Medibank给用户发放了Covid-19相关的利润返还（Give back program）�
 我的保险里光学（Optical）额度有$200。结果就是：**全额Cover，我没掏一分钱**，还剩了21刀额度没用完。
 
 其实当时应该胆子大一点，选个稍微贵点的框也没问题的。
+
+![202511233](/assets/images/2025/202511233.png)
 
 ### 按摩：比国内价格还划算？
 
