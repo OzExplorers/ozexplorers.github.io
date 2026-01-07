@@ -7,7 +7,7 @@ categories: 澳洲生活
 tags:
   - 澳大利亚
   - 移民
-excerpt_image: /assets/images/2025/202401101.png
+excerpt_image: /assets/images/2025/202501101.png
 ---
 在2024年初，我来到澳洲之后，先后记录了在澳洲生活的[月度开销](https://www.ozexplorers.com/澳洲生活/2024/04/22/the-monthly-living-expenses-of-couples-in-australia.html)、[半年开销](https://www.ozexplorers.com/澳洲生活/2024/09/05/the-half-year-living-expenses-in-australia.html)以及[全年开销](https://www.ozexplorers.com/澳洲生活/2025/01/10/the-living-expenses-of-2024-in-australia.html)，月均支出大约在**4,500澳元**。
 
