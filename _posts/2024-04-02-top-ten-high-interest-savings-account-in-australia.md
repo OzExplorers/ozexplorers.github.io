@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 澳洲活期存款利率最高的十家银行（更新至2025年9月）
-subtitle: Top 10 High Interest Savings Account in Australia (Sept 2025)
+title: 澳洲活期存款利率最高的十家银行（更新至2026年1月）
+subtitle: Top 10 High Interest Savings Account in Australia (Jan 2026)
 author: Oz Explorer
 categories: 投资理财
 tags: [澳大利亚, 存款利率]
@@ -9,7 +9,9 @@ excerpt_image: /assets/images/2024/202404020.jpg
 top: 1
 ---
 
-澳洲多家银行都为客户设置了高息存款账户（High Interest Savings Account，简称HISA）。但随着目前进入降息周期，存款利率也在随之变化。
+最近澳洲这经济形势挺让人纠结的。RBA现金利率虽然稳在3.60%不变，但物价涨幅还是让钱包缩水不少。
+
+最近我花时间刷了一圈各大银行的官网，有的银行为了抢客户，把利率拉到了5.10%；有的银行玩起了“套路”，条件越设越复杂。
 
 下面是目前市场上活期存款利率最高的十家澳洲银行：
 
@@ -17,13 +19,11 @@ top: 1
 
 ![Ubank](https://a.storyblok.com/f/116740/160x100/c9a5107b86/ubank.png)
 
-**存款利率**：5.00%
+**存款利率**：5.10%
 
 **封顶金额**：100万澳元
 
-**满足条件**：新用户前四个月5.00%，此后4.35%。每月从外部银行转入Ubank至少500澳元。
-
-10月1日起，要求余额增加至少1元。
+**满足条件**：新用户前四个月5.00%，此后4.35%。每月Ubank账户余额至少增加1澳元。
 
 **推荐码**：8KM67JV，**奖励30刀**！
 
@@ -33,7 +33,7 @@ top: 1
 
 ![Rabobank](https://a.storyblok.com/f/116740/160x100/7683ca35b7/rabobank.png)
 
-**存款利率**：5.00%
+**存款利率**：5.10%
 
 **封顶金额**：25万澳元
 
@@ -60,11 +60,25 @@ top: 1
 
 ---
 
-## Top 4 ING Savings Maximiser
+## Top 4 Bankwest Easy Saver Plus
+
+![Bankwest](https://a.storyblok.com/f/116740/160x100/34a058b678/bankwest.png)
+
+**存款利率**：4.80%
+
+**封顶金额**：25万澳元
+
+**满足条件**：前4个月的新客户福利4.80%，4个月后利息降低至4.00%
+
+**申请链接**：[https://www.bankwest.com.au/savings-accounts/high-interest#panel-item_2-expanded](https://www.bankwest.com.au/savings-accounts/high-interest#panel-item_2-expanded)
+
+---
+
+## Top 5 ING Savings Maximiser
 
 ![ING](/assets/images/2024/202404027.png)
 
-**存款利率**：4.80%
+**存款利率**：4.75%
 
 **封顶金额**：10万澳元
 
@@ -77,90 +91,63 @@ top: 1
 
 ---
 
-## Top 5 Bankwest Easy Saver Plus
+## Top 6 Bank Australia Bonus Saver
 
-![Bankwest](https://a.storyblok.com/f/116740/160x100/34a058b678/bankwest.png)
-
-**存款利率**：4.80%
-
-**封顶金额**：25万澳元
-
-**满足条件**：前4个月的新客户福利4.80%，4个月后利息降低至4.00%
-
-**申请链接**：[https://www.bankwest.com.au/savings-accounts/high-interest#panel-item_2-expanded](https://www.bankwest.com.au/savings-accounts/high-interest#panel-item_2-expanded)
-
-
----
-
-## Top 5 Virgin Money Boost Saver
-
-![Virgin](https://a.storyblok.com/f/116740/160x100/5a60f1c16d/virgin.png)
+![Bank Australia](https://a.storyblok.com/f/116740/160x100/c63336d87d/bau.png/m/425x0)
 
 **存款利率**：4.75%
 
-**封顶金额**：250万澳元
+**封顶金额**：10万澳元
 
-**满足条件**：每月从外部银行转入至少1000澳元，完成5笔交易。
+**满足条件**：每月从外部银行转入至少100澳元。
 
 ---
 
-## Top 6 IMB Bank Reward Saver Kick Start Account
+## Top 7 IMB Bank Reward Saver Kick Start Account
 
 ![IMB](https://a.storyblok.com/f/116740/160x100/269436d9f9/imb.png)
 
-**存款利率**：5.00%
+**存款利率**：4.75%
 
 **封顶金额**：10万澳元
 
-**满足条件**：13-30岁，每月强制存入至少200澳元，不可取出。
+**满足条件**：每月强制存入至少20澳元，不可取出。
 
 ---
 
-## Top 7 Rabobank Premium Saver Account
+## Top 8 Move Bank Growth Saver
 
-![Rabobank](https://a.storyblok.com/f/116740/160x100/7683ca35b7/rabobank.png)
+![Move](https://a.storyblok.com/f/116740/160x100/b4928d0aa9/movebank.png/m/425x0)
 
-**存款利率**：4.65%
+**存款利率**：4.75%
 
 **封顶金额**：25万澳元
 
-**满足条件**：每月从外部银行转入至少200澳元。
+**满足条件**：每月从外部银行转入至少200澳元，不可取出。
 
 ---
 
-## Top 8 Macquarie Savings Account
+## Top 9 Macquarie Savings Account
 
 ![Macquarie](https://a.storyblok.com/f/116740/160x100/5b93dfe621/macquarie.png)
 
-**存款利率**：4.65%
+**存款利率**：4.60%
 
 **封顶金额**：25万澳元
 
-**满足条件**：前四个月利率4.60%，此后4.25%。
+**满足条件**：无任何要求。
 
 ---
 
-## Top 9 ME Bank HomeME
+## Top 10 ME Bank HomeME
 
 ![Me](https://a.storyblok.com/f/116740/160x100/7e24c6514a/mebank.png)
 
 **存款利率**：4.60%
 
-**封顶金额**：25万澳元
+**封顶金额**：10万澳元
 
 **满足条件**：每月从外部银行转入至少2000澳元；每月余额增加。
-
----
-
-## Top 10 Up Home Up Saver Account - Grow Rate
-
-![UP](https://a.storyblok.com/f/116740/160x100/1e695e67c0/up.png)
-
-**存款利率**：4.60%
-
-**封顶金额**：25万澳元
-
-**满足条件**：消费账户每月消费5笔；储蓄账户不可取出。
 
 ---
 
