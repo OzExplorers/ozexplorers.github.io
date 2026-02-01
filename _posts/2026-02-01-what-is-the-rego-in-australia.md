@@ -7,7 +7,7 @@ categories: 澳洲生活
 tags:
   - 澳大利亚
   - 驾照
-excerpt_image:
+excerpt_image: /assets/images/2025/202506221.jpg
 ---
 最近，我收到了一封来自西澳路局的信件，标题是**Vehicle Licence and Motor Injury Insurance Policy**，要求我在2月5日之前缴纳费用，否则车牌需要在三个月内归还。
 
