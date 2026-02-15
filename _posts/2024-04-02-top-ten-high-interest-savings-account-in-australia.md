@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 澳洲活期存款利率最高的十家银行（更新至2026年1月）
-subtitle: Top 10 High Interest Savings Account in Australia (Jan 2026)
+title: 澳洲活期存款利率最高的十家银行（更新至2026年2月）
+subtitle: Top 10 High Interest Savings Account in Australia (Feb 2026)
 author: Oz Explorer
 categories: 投资理财
 tags: [澳大利亚, 存款利率]
@@ -9,9 +9,11 @@ excerpt_image: /assets/images/2024/202404020.jpg
 top: 1
 ---
 
-最近澳洲这经济形势挺让人纠结的。RBA现金利率虽然稳在3.60%不变，但物价涨幅还是让钱包缩水不少。
+2月3日澳洲央行（RBA）宣布，将官方现金利率上调0.25个百分点，至**3.85%**，正式结束了澳洲降息周期。
 
-最近我花时间刷了一圈各大银行的官网，有的银行为了抢客户，把利率拉到了5.10%；有的银行玩起了“套路”，条件越设越复杂。
+这是自2025年8月13日将利率下调至3.60%以来，央行首次调整利率。
+
+多家银行的活期存款利率也迎来了相应的上调。
 
 下面是目前市场上活期存款利率最高的十家澳洲银行：
 
@@ -19,7 +21,7 @@ top: 1
 
 ![Ubank](https://a.storyblok.com/f/116740/160x100/c9a5107b86/ubank.png)
 
-**存款利率**：5.10%
+**存款利率**：5.35%
 
 **封顶金额**：100万澳元
 
@@ -43,7 +45,24 @@ top: 1
 
 ---
 
-## Top 3 BOQ Future Saver Account
+## Top 3 ING Savings Maximiser
+
+![ING](/assets/images/2024/202404027.png)
+
+**存款利率**：5.00%
+
+**封顶金额**：10万澳元
+
+**满足条件**：
+1. 每月消费账户至少从其他银行转入1000澳元
+2. 每月消费账户至少发生5次交易
+3. 每月存款账户余额要有所增加（除利息外的入账）
+
+**申请链接**：通过我的链接，可以获得**100+澳元**的新用户奖励，[点击申请](https://campaigns.ing.com.au/refer?code=Jqz072&p=d)
+
+---
+
+## Top 4 BOQ Future Saver Account
 
 ![BOQ](https://a.storyblok.com/f/116740/160x100/aea7810d69/boq.png)
 
@@ -60,7 +79,7 @@ top: 1
 
 ---
 
-## Top 4 Bankwest Easy Saver Plus
+## Top 5 Bankwest Easy Saver Plus
 
 ![Bankwest](https://a.storyblok.com/f/116740/160x100/34a058b678/bankwest.png)
 
@@ -71,23 +90,6 @@ top: 1
 **满足条件**：前4个月的新客户福利4.80%，4个月后利息降低至4.00%
 
 **申请链接**：[https://www.bankwest.com.au/savings-accounts/high-interest#panel-item_2-expanded](https://www.bankwest.com.au/savings-accounts/high-interest#panel-item_2-expanded)
-
----
-
-## Top 5 ING Savings Maximiser
-
-![ING](/assets/images/2024/202404027.png)
-
-**存款利率**：4.75%
-
-**封顶金额**：10万澳元
-
-**满足条件**：
-1. 每月消费账户至少从其他银行转入1000澳元
-2. 每月消费账户至少发生5次交易
-3. 每月存款账户余额要有所增加（除利息外的入账）
-
-**申请链接**：通过我的链接，可以获得**100+澳元**的新用户奖励，[点击申请](https://campaigns.ing.com.au/refer?code=Jqz072&p=d)
 
 ---
 
