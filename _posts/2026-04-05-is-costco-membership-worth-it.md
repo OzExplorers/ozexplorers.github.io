@@ -7,13 +7,15 @@ categories: 羊毛攻略
 tags:
   - 澳大利亚
   - 购物优惠
-excerpt_image:
+excerpt_image: /assets/images/2026/202604051.jpg
 ---
 最近Costco在搞会员促销活动，4月2日之前，新办Gold Star会员（65刀/年）赠送20刀购物卡，升级Executive会员（135刀/年）则赠送40刀购物卡。
 
 算下来，Gold Star会员实际只要45刀一年。
 
 看到这个活动的时候，我和队友讨论了一下，就在网上办了一张。
+
+![20260405](/assets/images/2026/202604052.png)
 
 ## 在线办卡：比想象中简单
 
