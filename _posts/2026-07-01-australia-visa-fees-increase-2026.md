@@ -17,7 +17,7 @@ excerpt_image: assets/images/2024/202411031.png
 
 从今天起，澳洲绝大多数签证的申请费用上调了约25%。
 
-但对于我们这些永居人士来说，最直接的冲击是**居民返回签证（Resident Return Visa）**，也就是我之前写过的155/157签证，费用从490澳元直接跳到了**1475澳元**，涨幅超过200%。
+但对于我们这些永居人士来说，最直接的冲击是**居民返回签证（Resident Return Visa）**，也就是我之前写过的[155/157签证](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/resident-return-visa-155-157)，费用从490澳元直接跳到了**1475澳元**，涨幅超过200%。
 
 ## 155签证是什么？为什么要申请？
 
