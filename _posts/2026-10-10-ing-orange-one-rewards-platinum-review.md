@@ -43,6 +43,8 @@ ING是一家荷兰跨国银行与金融服务集团，总部位于阿姆斯特�
 
 **ING信用卡分为两种：Orange One Low Rate 和 Orange One Rewards Platinum。**
 
+![202610101](/assets/images/2026/202610101.png)
+
 [Orange One Low Rate](https://www.ing.com.au/credit-cards/orange-one.html) 特色是低息分期+无国际交易费，年费48澳元（此前是免费的）。如果信用额度超过6000澳元，会自动升级为Orange One Low Rate Platinum，赠送国际旅行险。
 
 [Orange One Rewards Platinum](https://www.ing.com.au/credit-cards/orange-one-platinum.html) 则主打现金返现，年费为149澳元。**信用卡福利包括：无国际交易费、国际旅行险以及“1%消费返现”。**
@@ -108,6 +110,8 @@ ING的卡组织是Visa，所以汇率也是按照Visa的实时汇率结算的。
 有趣的是，这是针对Orange One Low Rate这张卡的促销码，而我申请的是另一张Orange One Rewards Platinum。
 
 没想到ING很大方，消费达标以后，直接给了200澳元，相当于直接报销了年费。
+
+![202610102](/assets/images/2026/202610102.png)
 
 ## 小结
 
