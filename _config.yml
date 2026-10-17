@@ -94,7 +94,7 @@ translate_langs:
   - lang: zh-CN
     text: 简体中文
 
-  - lang: zh-Hant
+  - lang: zh-TW
     text: 繁體中文
 
 # You can choose a theme color
