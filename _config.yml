@@ -75,27 +75,27 @@ lang: "zh"  # default lang is en
 
 # Translate languges
 # langs refer to https://cloud.google.com/translate/docs/languages
-# translate_langs:
-#   - lang: en
-#     text: English
-#
-#   - lang: fr
-#     text: French
-#
-#   - lang: ja
-#     text: Japanese
-#
-#   - lang: ko
-#     text: Korean
-#
-#   - lang: es
-#     text: Spanish
-#
-#   - lang: zh-CN
-#     text: Chinese(Simple)
-#
-#   - lang: zh-Hant
-#     text: Chinese(Traditional)
+translate_langs:
+  - lang: en
+    text: English
+
+  - lang: fr
+    text: Français
+
+  - lang: ja
+    text: 日本語
+
+  - lang: ko
+    text: 한국어
+
+  - lang: es
+    text: Español
+
+  - lang: zh-CN
+    text: 简体中文
+
+  - lang: zh-Hant
+    text: 繁體中文
 
 # You can choose a theme color
 # Default theme colors as below:
