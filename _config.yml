@@ -158,7 +158,7 @@ header_pages:
 defaults:
    home:
      heading: "澳洲探索者 Oz Explorer"
-     subheading: "分享澳洲生活、投资理财与羊毛攻略<br>Financial Independence and Everyday Life in Australia"
+     subheading: "分享澳洲生活、投资理财与羊毛攻略 Financial Independence and Everyday Life in Australia"
      banner: "/assets/images/banner/ozexplorer.jpeg"
 
 # Banner default settings
