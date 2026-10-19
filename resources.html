@@ -2,91 +2,102 @@
 layout: resources
 title: Resources
 ads: false
+comments: false
 ---
 <style>
-    table {
-        width: 100%;
-        border-collapse: collapse;
-        margin: 20px 0;
-        font-size: 15px;
-        text-align: left;
-    }
-    th, td {
-        padding: 12px;
-        border: 1px solid #ddd;
-    }
-    th {
-        background-color: #f4f4f4;
-    }
-    td.service {
-        white-space: nowrap;
-        font-weight: bold;
-    }
-    a {
-        color: #1e90ff;
-        text-decoration: none;
-    }
-    a:hover {
-        text-decoration: underline;
-    }
-    .logo {
-        width: 40px;       
-        height: auto;      
-        margin-right: 10px;
-    }
+  .res-note { font-size: .9em; opacity: .75; margin: 0 0 1.5em; }
+  .res-list { display: flex; flex-direction: column; gap: 14px; margin: 1.5em 0; }
+  .res-item {
+    display: grid;
+    grid-template-columns: 56px 1fr auto;
+    gap: 16px;
+    align-items: center;
+    padding: 16px;
+    border: 1px solid rgba(128, 128, 128, .3);
+    border-radius: 10px;
+  }
+  .res-logo img {
+    width: 48px;
+    height: 48px;
+    object-fit: contain;
+    border-radius: 8px;
+    display: block;
+  }
+  .res-body h3 { margin: 0 0 4px; font-size: 1.05em; }
+  .res-body h3 a { color: inherit; }
+  .res-body p { margin: 0 0 4px; font-size: .92em; line-height: 1.6; opacity: .85; }
+  .res-code {
+    display: inline-block;
+    padding: 1px 8px;
+    border-radius: 4px;
+    background: rgba(128, 128, 128, .15);
+    font-family: monospace;
+    letter-spacing: .5px;
+  }
+  .res-btn {
+    padding: 8px 16px;
+    border-radius: 6px;
+    background: #ff5100;
+    color: #fff;
+    white-space: nowrap;
+    text-decoration: none;
+  }
+  .res-btn:hover { opacity: .88; text-decoration: none; }
+  @media (max-width: 600px) {
+    .res-item { grid-template-columns: 48px 1fr; }
+    .res-btn { grid-column: 1 / -1; text-align: center; }
+  }
 </style>
 
 <p>以下的产品和服务都是我自己正在使用的，也推荐给了身边的家人和朋友，在这里分享给感兴趣的朋友。</p>
 
-<table>
-    <thead>
-        <tr>
-            <th class="service">我的推荐</th>
-            <th>服务名称</th>
-            <th>服务介绍</th>
-            <th>推荐链接</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td class="service">
-                <a href="https://www.ing.com.au/everyday-banking.html">
-                    <img src="assets/images/logo/logo-ing.jpg" alt="ING logo" class="logo">
-                </a>
-            </td>
-            <td><a href="https://www.ing.com.au/everyday-banking.html">ING</a></td>
-            <td>高息活期存款银行，开户奖励100澳元<br><br/>进入ING网站开户时输入Referral Code</td>
-            <td>推荐码：<a href="https://campaigns.ing.com.au/refer?code=JQZ072&amp;p=a" target="_blank" rel="sponsored noopener">JQZ072</a></td>
-        </tr>
-        <tr>
-            <td class="service">
-                <a href="https://www.webull.com.au/s/U1yauxAGBhb4Yi0Ojb">
-                    <img src="assets/images/logo/logo-webull.jpg" alt="Webull logo" class="logo">
-                </a>
-            </td>
-            <td><a href="https://www.webull.com.au/s/U1yauxAGBhb4Yi0Ojb">Webull</a></td>
-            <td>免手续费的的投资平台，可以投资澳美中港等的股票或ETF<br>
-            <td><a href="https://www.webull.com.au/s/U1yauxAGBhb4Yi0Ojb">https://www.webull.com.au/s/U1yauxAGBhb4Yi0Ojb</a></td>
-        </tr>
-        <tr>
-            <td class="service">
-                <a href="http://r.amaysi.ms/28zdn45x">
-                    <img src="assets/images/logo/logo-amaysim.jpg" alt="Amaysim logo" class="logo">
-                </a>
-            </td>
-            <td><a href="http://r.amaysi.ms/28zdn45x">Amaysim</a></td>
-            <td>电话卡，性价比很高，支持国际漫游，<a href="https://www.ozexplorers.com/羊毛攻略/2025/02/15/big-discount-on-renewing-an-amaysim-sim-plan.html">相关文章</a><br><br/>新用户可获得奖励50刀</td>
-            <td><a href="http://r.amaysi.ms/28zdn45x">http://r.amaysi.ms/28zdn45x</a></td>
-        </tr>
-        <tr>
-            <td class="service">
-                <a href="https://www.shopback.com.au">
-                    <img src="assets/images/logo/logo-shopback.jpg" alt="Shopback logo" class="logo">
-                </a>
-            </td>
-            <td><a href="https://www.shopback.com.au">Shopback</a></td>
-            <td>澳大利亚主流购物返现平台<br><br/>线上购物前从Shopback跳转获得返现</td>
-            <td>推荐码：LxK1kE</td>
-        </tr>
-    </tbody>
-</table>
+<div class="res-list">
+
+  <div class="res-item">
+    <a class="res-logo" href="https://www.ing.com.au/everyday-banking.html" target="_blank" rel="noopener">
+      <img src="{{ '/assets/images/logo/logo-ing.jpg' | relative_url }}" alt="ING logo" loading="lazy">
+    </a>
+    <div class="res-body">
+      <h3><a href="https://www.ing.com.au/everyday-banking.html" target="_blank" rel="noopener">ING</a></h3>
+      <p>高息活期存款银行，开户奖励100澳元。</p>
+      <p>开户时输入推荐码 <span class="res-code">JQZ072</span></p>
+    </div>
+    <a class="res-btn" href="https://campaigns.ing.com.au/refer?code=JQZ072&amp;p=a" target="_blank" rel="sponsored noopener">使用推荐码开户</a>
+  </div>
+
+  <div class="res-item">
+    <a class="res-logo" href="https://www.webull.com.au/s/U1yauxAGBhb4Yi0Ojb" target="_blank" rel="sponsored noopener">
+      <img src="{{ '/assets/images/logo/logo-webull.jpg' | relative_url }}" alt="Webull logo" loading="lazy">
+    </a>
+    <div class="res-body">
+      <h3><a href="https://www.webull.com.au/s/U1yauxAGBhb4Yi0Ojb" target="_blank" rel="sponsored noopener">Webull</a></h3>
+      <p>免手续费的投资平台，可以投资澳美中港等市场的股票或ETF。</p>
+    </div>
+    <a class="res-btn" href="https://www.webull.com.au/s/U1yauxAGBhb4Yi0Ojb" target="_blank" rel="sponsored noopener">打开推荐链接</a>
+  </div>
+
+  <div class="res-item">
+    <a class="res-logo" href="http://r.amaysi.ms/28zdn45x" target="_blank" rel="sponsored noopener">
+      <img src="{{ '/assets/images/logo/logo-amaysim.jpg' | relative_url }}" alt="Amaysim logo" loading="lazy">
+    </a>
+    <div class="res-body">
+      <h3><a href="http://r.amaysi.ms/28zdn45x" target="_blank" rel="sponsored noopener">Amaysim</a></h3>
+      <p>电话卡，性价比很高，支持国际漫游。新用户可获得50澳元奖励。</p>
+      <p><a href="https://www.ozexplorers.com/羊毛攻略/2025/02/15/big-discount-on-renewing-an-amaysim-sim-plan.html">相关文章</a></p>
+    </div>
+    <a class="res-btn" href="http://r.amaysi.ms/28zdn45x" target="_blank" rel="sponsored noopener">领取新用户奖励</a>
+  </div>
+
+  <div class="res-item">
+    <a class="res-logo" href="https://www.shopback.com.au" target="_blank" rel="noopener">
+      <img src="{{ '/assets/images/logo/logo-shopback.jpg' | relative_url }}" alt="Shopback logo" loading="lazy">
+    </a>
+    <div class="res-body">
+      <h3><a href="https://www.shopback.com.au" target="_blank" rel="noopener">Shopback</a></h3>
+      <p>澳大利亚主流购物返现平台，线上购物前先从Shopback跳转即可获得返现。</p>
+      <p>注册时输入推荐码 <span class="res-code">LxK1kE</span></p>
+    </div>
+    <a class="res-btn" href="https://www.shopback.com.au" target="_blank" rel="noopener">访问 Shopback</a>
+  </div>
+
+</div>
