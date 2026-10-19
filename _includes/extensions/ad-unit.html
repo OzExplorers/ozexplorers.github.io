@@ -1,0 +1,11 @@
+{%- if jekyll.environment == 'production' and page.ads != false -%}
+<div class="ad-slot">
+  <ins class="adsbygoogle"
+       style="display:block"
+       data-ad-client="ca-pub-1392504864016942"
+       data-ad-slot="{{ include.slot }}"
+       data-ad-format="{{ include.format | default: 'auto' }}"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+{%- endif -%}
