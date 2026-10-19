@@ -2,7 +2,17 @@
 
     <div class="post-content e-content" itemprop="articleBody">
 
-      {{ content }}
+      {%- assign paras = content | split: '</p>' -%}
+      {%- if paras.size > 9 -%}
+        {%- for p in paras -%}
+          {{ p }}{% unless forloop.last %}</p>{% endunless %}
+          {%- if forloop.index == 3 -%}
+            {% include extensions/ad-unit.html slot="9077604112" %}
+          {%- endif -%}
+        {%- endfor -%}
+      {%- else -%}
+        {{ content }}
+      {%- endif -%}
 
     </div>
 
