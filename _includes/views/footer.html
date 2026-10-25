@@ -12,7 +12,6 @@
             | replace: '(cleft)', '<span class="copyleft">&copy;</span>'
         -%}
       <div class="footer-col rss-subscribe">
-        <span class="subscribe-label">Subscribe: </span>
         <a href="{{ "/feed.xml" | relative_url }}" title="Feed RSS" target="_blank" rel="noopener noreferrer"><i
         class="fa fa-solid fa-rss" aria-hidden="true"></i> RSS</a>
         <span class="subscribe-sep" aria-hidden="true">·</span>
@@ -24,6 +23,9 @@
           <span class="wechat-qr">
             <img src="{{ '/assets/images/Wechat.png' | relative_url }}" alt="weixin code" width="160" loading="lazy">
             <span class="wechat-qr-caption">微信扫一扫，关注公众号</span>
+        <span class="subscribe-label">Subscribe: </span>
+        <a href="{{ "/feed.xml" | relative_url }}" title="Feed RSS" target="_blank" rel="noopener noreferrer"><i
+        class="fa fa-solid fa-rss" aria-hidden="true"></i> RSS</a>
           </span>
       </div>
       <div>{{ copyright }}</div>
