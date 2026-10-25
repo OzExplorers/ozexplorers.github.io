@@ -12,9 +12,7 @@
             | replace: '(cleft)', '<span class="copyleft">&copy;</span>'
         -%}
       <div class="footer-col rss-subscribe">
-        <a href="{{ "/feed.xml" | relative_url }}" title="Feed RSS" target="_blank" rel="noopener noreferrer"><i
-        class="fa fa-solid fa-rss" aria-hidden="true"></i> RSS</a>
-        <span class="subscribe-sep" aria-hidden="true">·</span>
+        <span class="subscribe-label">Subscribe: </span>
         <a href="https://x.com/OzExplorers" title="X(Twitter)" target="_blank" rel="noopener noreferrer"><i
         class="fa fa-solid fa-twitter" aria-hidden="true"></i> X(Twitter)</a>
         <span class="subscribe-sep" aria-hidden="true">·</span>
@@ -24,7 +22,7 @@
             <img src="{{ '/assets/images/Wechat.png' | relative_url }}" alt="weixin code" width="160" loading="lazy">
             <span class="wechat-qr-caption">微信扫一扫，关注公众号</span>
           </span>
-        <span class="subscribe-label">Subscribe: </span>
+        <span class="subscribe-sep" aria-hidden="true">·</span>
         <a href="{{ "/feed.xml" | relative_url }}" title="Feed RSS" target="_blank" rel="noopener noreferrer"><i
         class="fa fa-solid fa-rss" aria-hidden="true"></i> RSS</a>
       </div>
