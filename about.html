@@ -4,40 +4,63 @@ title: About
 ads: false
 comments: false
 ---
+<style>
+  .about-page { max-width: 640px; margin: 0 auto; line-height: 1.9; }
+  .about-page h3 { margin: 2em 0 0.6em; padding-left: 0.6em; border-left: 3px solid currentColor; }
+  .about-page p { margin: 0 0 1.1em; }
+  .about-links { display: flex; flex-wrap: wrap; align-items: center; gap: 0.4em 0.6em; margin: 0.5em 0 1.5em; }
+  .about-links a { text-decoration: none; }
+  .about-links a:hover { text-decoration: underline; }
+  .about-qr { text-align: center; margin: 1.5em 0; }
+  .about-qr img { max-width: 100%; height: auto; width: 220px; border-radius: 8px; }
+  .about-qr figcaption { margin-top: 0.5em; font-size: 0.9em; opacity: 0.7; }
+</style>
+
+<div class="about-page">
+
 <h2>About</h2>
 
-<p>
-欢迎来到 Ozexplorers.com — 澳洲探索者的Blog
+<p>欢迎来到 Ozexplorers.com，澳洲探索者的 Blog</p>
 
 <h3>关于我</h3>
 
-我是一个居住在澳大利亚的普通人，将会在这里分享生活经验和见闻
-<br><br>
-在来到澳大利亚之前，我出生成长在中国，2024年我和队友一起来到澳大利亚
-<br><br>
-我居住在珀斯，位于西澳、毗邻印度洋的美丽城市
-<br><br>
-我追求平淡幸福的生活，以及丰盈的精神世界
-<br><br>
-因为我相信，一个探索者，不只在于探索外部世界，还要去挖掘内心世界
-<br><br>
+<p>我是一个居住在澳大利亚的普通人，将会在这里分享生活经验和见闻</p>
+<p>在来到澳大利亚之前，我出生成长在中国，2024年我和队友一起来到澳大利亚</p>
+<p>我居住在珀斯，位于西澳、毗邻印度洋的美丽城市</p>
+<p>我追求平淡幸福的生活，以及丰盈的精神世界</p>
+<p>因为我相信，一个探索者，既要探索外部世界，也要挖掘内心世界</p>
 
-<h3>关于Oz Explorer</h3>
-  
-建立这个博客的初衷，是为了记录和分享
-<br><br>
-在被社交媒体以及AI包围的互联网中，我希望我的博客能够被看到、被分享，并最终沉淀成为一个探索者的交流平台
-<br><br>
-对于所有的不期而遇，我都表示感谢
-<br><br>
+<h3>关于 Oz Explorer</h3>
+
+<p>建立这个博客的初衷，是为了记录和分享</p>
+<p>在被社交媒体以及 AI 包围的互联网中，我希望我的博客能够被看到、被分享，并最终沉淀成为一个探索者的交流平台</p>
+<p>对于所有的不期而遇，我都表示感谢</p>
 
 <h3>联系我</h3>
 
-你可以在博客文章下方的评论区留言
-<br><br>
-你也可以给我发送Email：ozexplorers(at)outlook.com
-<br><br>
-欢迎你通过 <a href="https://www.ozexplorers.com/feed.xml">RSS</a> 或微信公众号订阅最新文章
-<br><br>
-<img src="assets/images/Wechat.png" alt="Wechat" width="374" height="388">
-</p>
+<p>你可以在博客文章下方的评论区留言</p>
+<p>你也可以给我发送 Email：ozexplorers(at)outlook.com</p>
+<p>也欢迎在 X(Twitter) 上找到我：<a href="https://x.com/OzExplorers" target="_blank" rel="noopener noreferrer">@OzExplorers</a></p>
+
+<h3>订阅</h3>
+
+<p>欢迎通过下面的方式订阅最新文章</p>
+
+<div class="about-links">
+  <span>Subscribe:</span>
+  <a href="https://x.com/OzExplorers" title="X(Twitter)" target="_blank" rel="noopener noreferrer"><i
+  class="fa fa-solid fa-twitter" aria-hidden="true"></i> X(Twitter)</a>
+  <span aria-hidden="true">·</span>
+  <a href="{{ '/assets/images/Wechat.png' | relative_url }}" title="Weixin" target="_blank" rel="noopener noreferrer"><i
+  class="fa fa-solid fa-weixin" aria-hidden="true"></i> Weixin</a>
+  <span aria-hidden="true">·</span>
+  <a href="{{ '/feed.xml' | relative_url }}" title="Feed RSS" target="_blank" rel="noopener noreferrer"><i
+  class="fa fa-solid fa-rss" aria-hidden="true"></i> RSS</a>
+</div>
+
+<figure class="about-qr">
+  <img src="{{ '/assets/images/Wechat.png' | relative_url }}" alt="Weixin 公众号二维码" width="374" height="388">
+  <figcaption>微信扫一扫，关注公众号</figcaption>
+</figure>
+
+</div>
